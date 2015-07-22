@@ -1,5 +1,5 @@
 ---
-title: Microvita Y Tantra Maya cp.9 "La Cosmología Tántrica"
+title: Microvita Y Tantra Maya c.10 "La Cosmología Tántrica"
 tags: Microvita
 ---
 

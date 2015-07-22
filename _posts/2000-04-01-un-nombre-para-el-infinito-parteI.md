@@ -1,5 +1,5 @@
 ---
-title: Un Nombre Para El Infinito, Parte I "La Cosmología Tántrica"
+title: Un Nombre Para El Infinito Parte I "La Cosmología Tántrica"
 tags: [Un Nombre Para El Infinito]
 ---
 La metafísica y la psicología se unifican en el Tantra. En última instancia, los estudios más profundos de nuestra naturaleza interior se funden con la realidad absoluta más allá de nuestras proyecciones psicológicas relativas sobre la realidad. La mente quieta, tranquila e introspectiva, se puede enfocar y sintonizar con el universo mayor. Uno aprende a vivir en armonía con la paz interior y la sabiduría que conecta el bienestar personal microcósmico con un  orden interior y oculto en el universo. Las teorías tántricas sobre la creación y la involución y evolución son muy profundas y complejas. Remito al lector metafísico serio a Idea e Ideología de Anandamurti, o a las obras de Sir John Woodruff para una descripción más completa de la cosmología y la metafísica tántricas. Este libro se centra más en la psicología y la fenomenología que en la metafísica. 

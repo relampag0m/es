@@ -1,5 +1,5 @@
 ---
-title: Microvita Y Tantra Maya - Introducción
+title: Microvita Y Tantra Maya "Introducción"
 tags: Microvita
 ---
 	Escribí esta obra  como la parte final de mi primera obra publicado, Un Nombre Para el Infinito.  Decidí que era un poco demasiado divergente del material de la parte principal de la obra. He decidido por lo tanto publicarlo como una obra separado. Incluido son algunas partes de Un Nombre Para el Infinito como una introducción a la obra corriente sobre Microvita. Las partes de Un Nombre Para el  Infinito ayudarán al lector a entender más fácilmente el tratado de Microvita.

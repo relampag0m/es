@@ -1,5 +1,5 @@
 ---
-title: Un Nombre Para El Infinito - Introduccion y Prefacio
+title: Un Nombre Para El Infinito "Introduccion y Prefacio"
 tags: [Un Nombre Para El Infinito]
 ---
  Me inicié en el Tantra Yoga en 1993. Fui instruido en

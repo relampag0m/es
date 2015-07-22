@@ -1,6 +1,6 @@
 ---
 title: Los Célibes y el Sexo
-tags: Tantra Espiritual
+tags: [Tantra Espiritual]
 ---
 He tenido algunas peticiones para continuar escribiendo sobre mis experiencias con los yoguis de la India que conocí en mi juventud. Me han solicitado a hablar más sobre los consejos de canalización de la energía sexual como dicho a mí por el yogui que mencioné en el ensayo "Forma y Sin Forma" la semana pasada. Con mucho gusto concedo a esta porque creo que la sexualidad es uno de los menos entendidos temas en la vida humana. Afecta a todos, pero pocos han encontrado una solución tranquilo a estos nudos. Hay tanto sufrimiento causado por la sexualidad ciego. Así que muchas mujeres son abandonadas con los niños por los hombres cuyos instintos animales pronto tiran de ellos en otro lugar después de un poco de gratificación sensorial. El rastro de trauma para la mujer puede continuar como ella tiene que luchar para cuidar al niño que ha sido abandonado tambien. O tal vez eran los deseos de ella insatisfechos o frustrados que causaron la separtion para empezar. Una cosa es cierta, y es que hay cada vez menos ejemplos de coexistencia armónica en asuntos sexuales e emocionales humanos. Como una cultura que hemos vuelto a la edad de piedra en respecta a la sexualidad; sólo no tenemos giraffas y rinocerontes para perseguir y cazar con el fin de canalizar esta energía y darnos un poco de alivio. 
 

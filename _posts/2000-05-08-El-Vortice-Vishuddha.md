@@ -1,6 +1,6 @@
 ---
-title: Un Nombre Para El Infinito - El Vortice Vishuddha
-tags: Un Nombre Para El Infinito
+title: Un Nombre Para El Infinito "El Vortice Vishuddha"
+tags: [Un Nombre Para El Infinito]
 ---
 En la etapa actual de evolución humana es muy
 difícil encontrar individuos, mucho más sociedades, que

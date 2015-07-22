@@ -1,5 +1,5 @@
 ---
-title: Microvita Y Tantra Maya cp.2 "El Corazón Espiritual"
+title: Microvita Y Tantra Maya c.2 "El Corazón Espiritual"
 tags: Microvita
 ---
 

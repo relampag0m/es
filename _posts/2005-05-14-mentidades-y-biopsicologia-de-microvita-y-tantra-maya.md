@@ -1,4 +1,7 @@
-### Mentidades y Biopsicologia
+---
+title: Microvita Y Tantra Maya c.7 "Mentidades y Biopsicologia"
+tags: Microvita
+---
 
 Tanto Mentidades positivos y negativos son entidades que funcionan a nivel mental, sino también provocan cambios en la psicobiología de los organismos. Si revisamos las kosas (planos mentales) y entendemos cómo los niveles burdos de la mente son productos de los más sutiles, y que el cuerpo físico (mencionar annamaya kosa !!! También los sonidos de la vrttis) es el nivel más burdo de la mente entonces podemos entender un poco más claro el complejo fenómeno de la psicobiología.
 

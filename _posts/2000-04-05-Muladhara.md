@@ -1,6 +1,6 @@
 ---
-title: Un Nombre Para El Infinito - El Vórtice Muladhara
-tags: Un Nombre Para El Infinito
+title: Un Nombre Para El Infinito  "El Vórtice Muladhara"
+tags: [Un Nombre Para El Infinito]
 ---
 
 El impulso fundamental de todos los seres es el

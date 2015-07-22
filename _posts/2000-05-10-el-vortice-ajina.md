@@ -1,6 +1,6 @@
 ---
-title: Un Nombre Para El Infinito - El Vórtice Ajina
-tags: Un Nombre Para El Infinito
+title: Un Nombre Para El Infinito "El Vórtice Ajina"
+tags: [Un Nombre Para El Infinito]
 ---
 El vórtice Ajina se encuentra más allá de los
 efectos de la mente causal. Más allá de la eterna
