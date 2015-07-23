@@ -1,11 +1,16 @@
-### Mis Candidatos Bodhisattvas
+---
+title: Mis Candidatos Bodhisattvas
+tags: [Tantra Social]
+---
 La verdadera visión espiritual a través del medio de las formas mentales sublimes es una verdadera
 forma de la gracia divina. Es un iluminación y lluvia de pensamiento y sentimiento elevado de que ha
 sido diseñado por la inteligencia profunda que nos guíe hacia adelante y hacia adentro. Forma
 verdadera nos ayuda finalmente entender lo que no tiene forma, el Testigo tranquilo que es siempre
 ahora. Visión mística es más que el simple conocimiento. A través de ella, el conocimiento se transmite,
 pero de la manera más hermosa y significativa. Uno nunca podía olvidar tales experiencias; cada vez
-que se recuerda uno recibe el mensaje original y se funde mas en tu paz y tu alegría en silencio. Creo
+que se recuerda uno recibe el mensaje original y se funde mas en tu paz y tu alegría en silencio. 
+
+Creo
 que Tarkovsky fue el más místico "poeta de la imagen" de los tiempos modernos en que realmente
 podía transmitir ideas místicas profundas a través de la forma cinematográfica. Cuando veo las últimas
 escenas de "Stalker" o "Solaris" estoy profundamente conmovido en una emocion elevada y maravillo
@@ -16,6 +21,7 @@ inefable. Los grandes artistas místicos dan un poquito de lo que interiormente 
 Tarvovsky palidece en comparación con la visión mas sincera de incluso la mente más humilde. El
 reino de los cielos es verdaderamente dentro y busca activamente mentes preparadas en su misteriosa
 variedad inagotable de manifestaciones.
+
 El otro día me desperté justo antes del amanecer, me sentó en la cama e incluso antes de empezar a
 hacer un poco de meditación, sentí una extraña vibración en el lado derecho de mi cabeza.
 Interiormente, me miré y sentí y vi muy claramente en el ojo de mi mente una forma humana muy

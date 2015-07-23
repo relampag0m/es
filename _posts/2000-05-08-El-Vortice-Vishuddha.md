@@ -1,5 +1,5 @@
 ---
-title: Un Nombre Para El Infinito "El Vortice Vishuddha"
+title: Un Nombre Para El Infinito: "El Vortice Vishuddha"
 tags: [Un Nombre Para El Infinito]
 ---
 En la etapa actual de evolución humana es muy
@@ -9,8 +9,7 @@ resulta raro encontrar individuos que hayan asimilado los
 vrttis del Anahata. Sin embargo, aunque la humanidad
 como un todo aún esté lejos de asimilar las propensiones
 del Anahata, hay algunos individuos excepcionales que
-han
-logrado dar este salto. Los conceptos para
+han logrado dar este salto. Los conceptos para
 denominar el estado mental de estos escasos individuos
 existen, cuando hablamos de gente “equilibrada” o
 “realizada” (aunque en el lenguaje cotidiano estos
@@ -25,6 +24,7 @@ los relatos históricos. No obstante sí hay algunas
 excepciones notables, un puñado de almas humildes y
 nobles que viven en unión y armonía con su Ser más
 elevado.
+
 Los vrttis del Vishuddha son tendencias completamente puras y desinteresadas. Representan una
 mente que no se encuentra más limitada por la noción de
 un ego aislado y separado, una mente que al fin deja de

@@ -1,5 +1,5 @@
 ---
-title: Un Nombre Para El Infinito "Introduccion y Prefacio"
+title: Un Nombre Para El Infinito: "Introduccion y Prefacio"
 tags: [Un Nombre Para El Infinito]
 ---
  Me inicié en el Tantra Yoga en 1993. Fui instruido en
@@ -24,6 +24,7 @@ este "poder de la serpiente" divino se eleva a través de la
 columna vertebral, uno experimenta estados de
 realización espiritual profunda. Para el yogui, kundalini es
 la fuerza que une lo humano con lo divino.
+
 Un día después de clases y una breve meditación,
 en la que yo era simplemente un principiante, me acosté
 en la espalda debido al agotamiento. Sentí una fuerza

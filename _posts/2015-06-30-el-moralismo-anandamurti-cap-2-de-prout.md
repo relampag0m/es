@@ -1,5 +1,7 @@
-### El Moralismo - Anandamurti cap.2 de Prout
-
+---
+title: El Moralismo - Anandamurti cap.2 de Prout
+tags: [Tantra Social]
+---
 <span id="result_box" class="" lang="es" tabindex="-1"><span title="Moralism&lt;/p&gt;
 &lt;p&gt;"><strong>El Moralismo</strong></span></span>
 

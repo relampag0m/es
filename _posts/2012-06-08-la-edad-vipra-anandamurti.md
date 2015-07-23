@@ -1,4 +1,7 @@
-### La Edad Vipra
+---
+title: La Edad Vipra - Anandamurti
+tags: [Tantra Social]
+---
 
 El intelecto de la gente inteligente puede penetrar donde los rayos del sol no puede. Estas personas quieren disfrutar de la materia sin estar subordinado a él. En otras palabras, quieren controlar la materia con sus ondas mentales. No son sólo los kṣatriyas que hacen esto, pero vipras así. La diferencia fundamental entre Ks'attriya-capucha y vipra capó es que el ego de los kṣatriyas dibuja objetos de disfrute a sí mismo a través de una lucha física con todas las fuerzas de oposición, mientras que el ego de los vipras o de su deseo de disfrute dibuja importa a sí mismo, ya sea por la fuerza física de los demás a través de choque físico, o directamente a través de choque psíquico pero evitando choque físico, o por medio de choque físico o psíquico o ambos de acuerdo a las exigencias de la situación.
 

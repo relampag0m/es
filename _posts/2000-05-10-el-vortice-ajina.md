@@ -1,5 +1,5 @@
 ---
-title: Un Nombre Para El Infinito "El Vórtice Ajina"
+title: Un Nombre Para El Infinito: "El Vórtice Ajina"
 tags: [Un Nombre Para El Infinito]
 ---
 El vórtice Ajina se encuentra más allá de los
@@ -20,7 +20,9 @@ puro y libre de condicionamientos, o Shiva.
 El vórtice Ajina tiene solamente dos propensiones,
 para y apara. Para es el conocimiento del Espíritu. Apara
 es el conocimiento de la creación objetiva.
+
 <strong>Las Propensiones del Ajina</strong>
+
 <strong><em>Para</em> - Conocimiento subjetivo</strong>
 El Para vrtti constituye la culminación de la
 dirección de la mente, cuando fluye completamente hacia

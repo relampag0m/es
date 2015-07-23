@@ -1,5 +1,5 @@
 ---
-title: Un Nombre Para el Infinito parteIII "Sadhana- La Practica Espiritual"
+title: Un Nombre Para el Infinito: parteIII "Sadhana"
 tags: [Un Nombre Para El Infinito]
 ---
 ### Sadhana: La práctica espiritual

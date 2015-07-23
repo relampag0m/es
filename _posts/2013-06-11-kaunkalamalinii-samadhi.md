@@ -2,7 +2,7 @@
 title: Kaunkálamálinii samadhi
 tags: [Tantra Espiritual]
 ---
-Esto es de Discursos sobre Tantra V.II por Anandamurti. La guirnalda de cráneos son los 50 vórtices mentales que el yogui debe atravesar en el camino hacia el infinito. Ellos crean las máscaras del egoísmo, la vanidad, y la separación que la madre Kali elimina; a veces es un poco atemorizante. Al igual que la unión de alegría indescriptible se describe a través de samadhi, o unión con lo divino, sino que también es una experiencia de muerte por lo que nunca fue realmente vivo dentro de nosotros de todos modos. Madre Kalii viene a limpiar el desorden del ego y nos pone de vuelta en el camino correcto. La "violencia" de la experiencia no es más que la resistencia de nuestra separación tenaz del amor infinito. mitologia profunda
+Esto es de Discursos sobre Tantra por Anandamurti. La guirnalda de cráneos son los 50 vórtices mentales que el yogui debe atravesar en el camino hacia el infinito. Ellos crean las máscaras del egoísmo, la vanidad, y la separación que la madre Kali elimina; a veces es un poco atemorizante. Al igual que la unión de alegría indescriptible se describe a través de samadhi, o unión con lo divino, sino que también es una experiencia de muerte por lo que nunca fue realmente vivo dentro de nosotros de todos modos. Madre Kalii viene a limpiar el desorden del ego y nos pone de vuelta en el camino correcto. La "violencia" de la experiencia no es más que la resistencia de nuestra separación tenaz del amor infinito. mitologia profunda
 
 ### Kaunkálamálinii samadhi
 

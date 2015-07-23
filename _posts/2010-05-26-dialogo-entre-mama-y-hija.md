@@ -1,5 +1,7 @@
-### Dialogo Entre Mama y Hija
-
+---
+title: Dialogo Entre Mama y Hija
+tags: [Tantra Espirtual]
+---
 —Madre, ayúdame a ser nube y a dibujar montañas en el cielo.
 —Eso no puedo, hija, las nubes no tienen alma ni cuerpo.
 —Madre, ayúdame a ser viento y a silbar con voz dulce por el firmamento.

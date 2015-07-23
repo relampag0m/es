@@ -1,5 +1,7 @@
-### El Corazón Espiritual
-
+---
+title: El Corazón Espiritual
+tags: [El Corazón Espiritual]
+--- 
 Podemos entender las razones por las limitaciones del concepto
 egocéntrico del “yo” que distorsiona el reflejo puro de Hunab Ku en las
 mentes de los seres humanos por examinar el corazón espiritual. En el
@@ -21,6 +23,7 @@ Anahata es sutil como los vórtices superiores con sus tendencias
 cognitivas mas finas, pero al mismo tiempo tiene cualidades grosos como
 los vórtices inferiores que expresan tendencias más instintivas e
 egocéntricas.
+
 En el Anahata parece que hay dos hexágonos. En realidad, hay uno.
 Ellos parecen diferentes porque uno se mueve hacia la derecha o por
 centrifugación, y el otro se mueve hacia la izquierda o centrípeta. Aquí
@@ -51,8 +54,9 @@ unificación de la conciencia microcósmica a la Conciencia Macrocósmica de
 Shiva está en marcha. Es aquí, en el corazón espiritual de Anahata que la
 divinidad sin nombre puede evolucionar un nombre por sí mismo, para
 nosotros, en cada uno de nosotros.
-<strong>La Dinámica de “Ka” and “Kha” con la Esperanza y la</strong>
-<strong>Preocupación</strong>
+
+<strong>La Dinámica de “Ka” and “Kha” con la Esperanza y la Preocupación</strong>
+
 Los vrttis o vórtices de la mente microcósmica son sonidos sutiles que
 resultan de la tensión de los movimientos mentales internos y externos.
 Son esfuerzos evolutivos para guiar y dirigir el microcosmos en su marcha
@@ -69,6 +73,7 @@ controlan la manifestación de las tendencias más tangibles de la mente
 microcósmica. Por esta razón en la meditación tántrica es muy importante
 meditar con mantras que combinan estos sonidos fundamentales con
 mucha consciencia.
+
 El sonido "ka" es el primer sonido en el 12 pétalos de loto de anahata
 vórtice. "Ka" es la primera consonante de salir de la matriz causal de sonido
 o logos, de Brahma. Este sonido hace vibrar la gran idea de la esperanza,
@@ -84,8 +89,7 @@ ponemos nuestra esperanza en cuestiones relativas, en nuestro pequeño
 ego, en la religión, la política, o algo. Esperanza se divide por la
 preocupación, por el temor de que nuestra estructura de realidad
 significativa no perdurará. Preocupación es la segunda vrtti del Vórtice
-Anahata
-y siempre contrarrestara la esperanza hasta que la esperanza se
+Anahata y siempre contrarrestara la esperanza hasta que la esperanza se
 perfecciona en una confianza pura en el Atman. Juntos, estos dos vrttis
 representan la dualidad fundamental de la consciencia moderna. Esperanza
 es "ka" , y la preocupación es "kha".
@@ -101,7 +105,9 @@ efecto manifestado. Los siguientes vrttis que continúan desarrollándose
 reflejan este movimiento doble de una consonante externamente en
 movimiento junto con el movimiento interno de "ha" para equilibrar el
 movimiento de esa consonante cuando se debilita.
+
 <strong>La Esperanza</strong>
+
 La función de la mente microcósmica es ser el medio entre la identidad
 interna y la externa, sea esta física, psíquica o espiritual. El Manipura, con
 sus apetitos y apego ciego, intenta que los objetos deseados se conviertan
@@ -140,7 +146,9 @@ incrementa aún más la fe en la benevolencia del orden moral cósmico. Esta
 certidumbre intuitiva inspira al ser a trascender la confusión y la ansiedad
 incesante de una entidad separada de la divinidad Shiva-Shakti, el Ser
 Supremo.
-<strong>La</strong> <strong>Preocupación</strong>
+
+<strong>La Preocupación</strong>
+
 La esperanza le permite a uno tener la convicción de que el propio
 bienestar está a cargo de la Mente Macrocósmica. Por lo tanto uno es
 aliviado de la carga perpetua de un ser limitado, temeroso, siempre ansioso
@@ -189,7 +197,9 @@ uno utiliza su inteligencia superior para continuar desarrollándose
 psicológica y espiritualmente, o si esa inteligencia simplemente se
 convierte en una herramienta para exacerbar, explotar y perpetuar los
 vrttis impulsivos del Manipura (ambición, apego ciego, sadismo, etc.).
+
 <strong>La Dinámica de “Ga” y “Gha” con el Esfuerzo y el Afecto.</strong>
+
 El corazón espiritual es el Anahata. Anahata significa "no agarrarse." Es el
 nivel intuitivo de la mente que empieza a entender que hay una
 inmensidad infinita y dignidad dentro de sí mismo y puede comenzar a
@@ -261,7 +271,9 @@ humana. Aquí, uno está tan cerca del Atman que quedan pocas o ninguna
 necesidades personales y uno sólo ama sin ninguna expectativa o deseo de
 reciprocidad. Cuando Anahata es purificado se convierte en un conducto
 directo para la Mente Causal de Vishuddha.
+
 <strong>Esfuerzo</strong>
+
 El vrtti de esfuerzo se refiere a la voluntad para desplegar las cualidades
 dormidas de la personalidad. Vemos que con el nivel creativo de Manipura
 existe la posibilidad de pensar en una manera profunda y significativa.
@@ -364,7 +376,9 @@ exterior, puede suprimir sus tendencias asociadas con la inseguridad y falta
 de confianza en si mismo. Del mismo modo, si el salto hacia el Anahata no
 se completa, como en nuestro ejemplo previo, los vrttis que constituían la
 personalidad anterior en el Manipura se convierten en la sombra.
+
 <strong>Afecto</strong>
+
 El afecto de un ser sutil y sensible hacia otro, como se expresa en esta
 tendencia, no es el deseo intenso de consumir y poseer al otro con el fin de
 gratificar los propios apetitos. El diálogo interpersonal a nivel del Anahata
@@ -423,7 +437,9 @@ aquí, el afecto como artha (significado personal) se transforma por
 completo en Dharma (significado esencial y universal). Al final hay solo un
 Amigo, en muchos colores y lugares, que se mueve a través de amor
 infinito detrás de cada una de nuestras caras.
+
 <strong>La Vanidad</strong>
+
 El orden de los vórtices o vrttis de la mente microcosmico se mueve
 desde lo sutil a lo denso o interna hacia la externa. El orden del alfabeto
 sánscrito se mueve de las vocales más profundas en la garganta hacia los
@@ -572,7 +588,9 @@ mundo y el cuerpo, pero todavía estamos contradictoriamente asociando la
 noción abstracta de "Yo" con las cualidades objetivas del mundo y el
 cuerpo, y por lo tanto estamos sujetos a las nociones imaginarias del "yo y
 lo mío."
+
 <strong>La Dinámica de “Ca” y “Cha” en el Discernimiento y la Depresión</strong>
+
 En la fase de involución, Shiva, la conciencia infinita, ha sido
 transformado por su inmortal consorte Shakti, la energía creativa divina, en
 todo lo que hay en este universo. Es Shiva mismo que se ha convertido en
@@ -644,7 +662,9 @@ imagen en esta tormenta mental de vrttis, entonces me imagino que debe
 ser la más clara, honesta y transparente posible. Los esquemas oscuros del
 ego inconsciente no se pueden esconder muy bien de esta luz del
 discernimiento.
+
 <strong>Discernimiento</strong>
+
 Como se mencionó previamente, el nivel mental del Anahata (sus vrttis
 y su kosa subliminal) es el fulcro donde descansa el flujo direccional de la
 mente. Si las propensiones del Svadhistana y Manipura cualifican a las del
@@ -675,7 +695,9 @@ la conciencia esencial, la conciencia en la Conciencia, es la representación
 del Espíritu dentro de la mente. El concepto de Viveka no se refiere al
 código externo de “hacer” y “no hacer”, impuesto convencionalmente, sino
 a la voz interna, la benevolente guía del Tao eterno.
+
 <strong>Depresión psíquica</strong>
+
 Existen tres principales grados de depresión. La propensión del estupor
 psíquico en el segundo vórtice es, por supuesto, la más pesada; representa
 una paralización de toda la base psicológica. Con la melancolía del tercer
@@ -732,7 +754,9 @@ compasión. Dentro de nosotros siempre está la conciencia, la voz del
 Espíritu, guiándonos incesantemente y dirigiendo nuestras vidas hacia el
 bien máximo; sólo necesitamos escucharnos y ser honestos con nosotros
 mismos.
+
 <strong>La Dinamica de “Ja” and “Jha” in Ego y Egoismo</strong>
+
 Con la séptima vrtti del corazón espiritual , nos entramos en el lado
 derecho, solar del Vórtice Anahata
 . Aquí la fuerza centrífuga es más
@@ -767,7 +791,9 @@ vibrante de "ja . "
 La degeneración de esta manifestación del Macrocósmos en el
 microcosmos es el egoísmo. Es controlado por el sonido "jha." Aquí es
 donde un templo al ego separado , temeroso y vano se construye y esta
-adorado por los vrttis debajo del Vórtice Anahata. Los deseos egocéntricos y vanidosos, junto con los complejos emocionales inconscientes se refugian en un imagen embellecida de uno mismo. Donde
+adorado por los vrttis debajo del Vórtice Anahata. Los deseos egocéntricos 
+y vanidosos, junto con los complejos emocionales inconscientes se 
+refugian en un imagen embellecida de uno mismo. Donde
 reina el egoísmo , la muerte no está muy lejos. La razón subyacente de
 nuestra crisis de la conciencia , la cultura y la auto-definición no es sólo de
 las limitaciones naturales de los seres imperfectas en la evolución, pero la
@@ -822,7 +848,9 @@ siempre aportar algo bueno para el bienestar colectivo . A través de la
 contemplación y la devoción al Testigo puro, interno más allá del
 pensamiento y la voluntad, uno no se puede dejar de encontrarse a sí
 mismo en todas las personas .
+
 <strong>Ego o Auto-indentidad</strong>
+
 El Aham-vrtti o ego no es lo mismo que el vrtti del egoísmo o el de la
 vanidad. Esta propensión es el sentimiento de la identidad verdadera. Es el
 concepto existencial de la verdadera conformación psicológica,
@@ -876,7 +904,9 @@ manifieste en las multitudinarias formas de la personalidad ó, en otras
 palabras, para darle un nombre al Infinito. Esta es quizá la verdad más
 dulce y melodiosa de la vida humana: que la vida humana es
 verdaderamente la Vida Divina.
+
 <strong>Egoísmo</strong>
+
 Todos los vrttis del Vórtice Anahata están relacionados con el
 concepto del ser; la mitad de ellos vinculan a la identidad con el ser
 limitado, mientras que la otra mitad, las cualidades positivas, proveen un
@@ -917,7 +947,9 @@ personalidad, con su consecuente inhabilidad para conectarse
 significativamente con otros seres sutiles, así como con los propios
 potenciales superiores. El egoísmo también puede evitar que una persona
 pueda desarrollar estos potenciales.
-<strong>La Duplicidad</strong>
+
+<strong>La Duplicidad y "na"</strong>
+
 Si hubo alguna vez un escondite favorito para psorax en la mente
 humana, que debe estar en el vórtice o vrtti de duplicidad. Recordemos que
 psorax es el término que Pluma Blanca se refirió a como la fuerza
@@ -1090,8 +1122,9 @@ dos vrttis más en el anahata, la argumentación y el arrepentimiento . Se
 puede mantener el show, esta guerra de duplicidad que desgaste el alma,
 un poco más de tiempo con la ayuda de la argumentación o poner fin a la
 misma con un profundo sentimiento arrepentimiento y cambiar el rumbo.
-<strong>La Dinámica de "Ta" y "Tha" en la Argumentación y el</strong>
-<strong> Arrepentimiento</strong>
+
+<strong>La Dinámica de "Ta" y "Tha" en la Argumentación y el Arrepentimiento</strong>
+
 El Anahata es el campo de batalla moral en la guerra del dharma.
 Dharma significa la verdadera esencia de algo independiente de nuestras
 variadas interpretaciones de la misma, la cosa-en-sí. En este caso dharma
@@ -1139,8 +1172,8 @@ esta manera podria la mente independiente, voluntaria y egocéntrico
 abandonar sus argumentos y justificaciones de sus tendencias más bajas.
 
 <strong>Argumentación</strong>
-El penúltimo vrtti del Vórtice Anahata
-es la argumentación. En
+
+El penúltimo vrtti del Vórtice Anahata es la argumentación. En
 general, la argumentación es una forma de que el yo se defiende contra la
 incertidumbre convocando a razones y argumentos para convencer a los
 demás o a sí mismo de tener la razón. Nos convencemos a otros a través
@@ -1213,7 +1246,9 @@ fusiónandose en un eterno ahora, desde esta perspectiva . Preguntó Rilke :
 "¿Quién vive realmente la vida, eres tu Dios? " La mente se conoce el
 testigo como su propio pequeño yo, una ola pequena en su propio océano,
 un ser progenie naciendose constantamente y eternamente del Infinito.
+
 <strong>El Arrepentimiento</strong>
+
 La gente me preguntan por qué no me enojo con el mecánico que me quito
 el motor fuera, y al parecer, se vuelve a instalar poniendo todo en su lugar ,
 pero sólo se apretaron las tuercas y los tornillos con los dedos . Yo digo que
@@ -1302,8 +1337,10 @@ sutiles en los sistemas nervioso y endocrino para acompañar y ser parallel
 con los cambios mentales y espirituales. Participando en la evolucion viva
 es el deber más grande que un ser humano responsable y consciente tiene
 hacia la evolución colectiva de la humanidad a algo verdaderamente digno
-y merecedor del potencial divino adentro .
+y merecedor del potencial divino adentro.
+
 <strong>El Corazon Libre</strong>
+
 Cuando los vórtices del corazón espiritual son entendidos y liberados, su
 energía se retira hacia el interior en idea pura. Uno siente que desde el
 centro del pecho se extiende un elemento de un aire sutil y invisible que

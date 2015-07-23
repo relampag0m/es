@@ -1,5 +1,7 @@
-###  4 Cuentos Sobre Pluma Blanca
-
+---
+title: 4 Cuentos Sobre Pluma Blanca
+tags: [Tantra Espiritual]
+---
 Pluma Blanca siempre tenía una vibración muy elevada. La gente que le acercaron siempre empezaran a girarse en sentido contrario a las agujas del reloj. A veces sus cabezas comenzarían a inclinar y girar sutilmente en un movimiento circular casi imperceptible. Explicó que es la misma cosa si uno está hablando de la Núcleo Cosmico de Hunab Ku o el Núcleo Consciente del Atman radiante detrás de nuestras mentes; el movimiento alrededor de un núcleo físico o espiritual es siempre un juego de las fuerzas centrípetas y centrífugas. Tienen la misma dinámica en todos los planos del ser. Hay vórtices físicos de movimiento en el mundo físico en el que se encuentra en el peso y la gravedad de la materia y también vórtices de energía sutil y mental que actúan e interactúan con los pensamientos, sentimientos y percepciones. Para armonizar el macrocosmos con el microcosmos, el universo con el individuo, uno debe encontrar este flujo secreto de Tao, tanto dentro de la mente y en un mundo, planeta, y sus plantas y animales.
 En el exterior los antepasados de Pluma Blanca estudiaron el movimiento de los planetas y los ciclos naturales. Esta práctica nunca se desconectó a la práctica interna de la meditación. La meditación es la ciencia de ver detrás de todos los vórtices y los movimientos de la mente humana. Una mente que es puro ve en y entiende los movimientos alrededor de Hunab Ku, el Núcleo Cósmico que está dentro de todos nosotros. Todo ser humano que ha buscado verdaderamente ha visto en este gran tesoro en lo profundo de una existencia humana equilibrada. Entendemos que siempre hay algo puro, eternamente renovada cuando vivimos en armonía con la creación. Esta inspiración nunca nos ha abandonado, solamente la hemos olvidado.
 

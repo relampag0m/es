@@ -1,5 +1,5 @@
 ---
-title: Un Nombre Para El Infinito  "El Vórtice Muladhara"
+title: Un Nombre Para El Infinito: "El Vórtice Muladhara"
 tags: [Un Nombre Para El Infinito]
 ---
 
