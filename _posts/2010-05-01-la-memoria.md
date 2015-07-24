@@ -2,6 +2,7 @@
 title: La Memoria
 tags: [Tantra Espiritual]
 ---
+
 {% capture images %}
 	/images/Chandranath.jpg
 {% endcapture %}
