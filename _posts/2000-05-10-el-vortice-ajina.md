@@ -1,7 +1,12 @@
 ---
-title: Un Nombre Para El Infinito: "El Vórtice Ajina"
+title: Un Nombre Para El Infinito "El Vórtice Ajina"
 tags: [Un Nombre Para El Infinito]
 ---
+
+{% capture images %}
+	/images/nombre.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 El vórtice Ajina se encuentra más allá de los
 efectos de la mente causal. Más allá de la eterna
 actividad de generar, operar y disolver el universo, la

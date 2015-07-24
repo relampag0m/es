@@ -3,6 +3,10 @@ title: Microvita Y Tantra Maya c.7 "Mentidades y Biopsicologia"
 tags: Microvita
 ---
 
+{% capture images %}
+	/images/microvita.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 Tanto Mentidades positivos y negativos son entidades que funcionan a nivel mental, sino también provocan cambios en la psicobiología de los organismos. Si revisamos las kosas (planos mentales) y entendemos cómo los niveles burdos de la mente son productos de los más sutiles, y que el cuerpo físico (mencionar annamaya kosa !!! También los sonidos de la vrttis) es el nivel más burdo de la mente entonces podemos entender un poco más claro el complejo fenómeno de la psicobiología.
 
 Los Mentidades siempre funcionan desde un nivel más allá del cuerpo físico. Hay tipos más crudas de microvita que funcionan en el nivel físico, como varios virus. Sin embargo, los tipos de microvita discutidos en este trabajo son la microvita relacionados con la psicología humana, Mentidades. Mentidades positivas actuan sobre las kosas superiores como los niveles intuitivos y causal en los vórtices anahata y Vishuddha, respectivamente. Los Mentidades negativos pueden funcionar en el Manipura y los vórtices inferiores. El vrttis que estimulan a crear una vibración mental en el nivel de la mente o vórtice en el que están activos. Esta vibración mental tiene un efecto en cascada sobre todos los vórtices y los niveles de la mente por debajo de la de origen hasta que finalmente llega a la expresión física en el kosa annamaya o cuerpo físico. En otras palabras, cada vórtice superior es un agente causal para los más debajo de él. Dependiendo de la calidad de la vibración mental original, los vórtices inferiores se verán afectadas de manera similar.

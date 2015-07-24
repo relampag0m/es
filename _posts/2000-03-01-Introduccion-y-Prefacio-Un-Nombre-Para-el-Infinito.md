@@ -1,7 +1,12 @@
 ---
-title: Un Nombre Para El Infinito: "Introduccion y Prefacio"
+title: Un Nombre Para El Infinito "Introduccion y Prefacio"
 tags: [Un Nombre Para El Infinito]
 ---
+
+{% capture images %}
+	/images/nombre.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
  Me inicié en el Tantra Yoga en 1993. Fui instruido en
 la tradición de Rajadhiraja, una muy pura y secreta, por
 un yogui indio muy hábil, Shambushivananda, discípulo

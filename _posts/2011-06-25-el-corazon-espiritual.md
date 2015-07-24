@@ -2,6 +2,11 @@
 title: El Corazón Espiritual
 tags: [El Corazón Espiritual]
 --- 
+
+{% capture images %}
+	/images/hunabku.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 Podemos entender las razones por las limitaciones del concepto
 egocéntrico del “yo” que distorsiona el reflejo puro de Hunab Ku en las
 mentes de los seres humanos por examinar el corazón espiritual. En el

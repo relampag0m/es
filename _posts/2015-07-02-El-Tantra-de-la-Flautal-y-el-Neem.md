@@ -2,6 +2,11 @@
 title: El Tantra de la Flauta y el Neem
 tags: [Tantra Social]
 ---
+
+{% capture images %}
+	/images/kiirtan.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 <em>O yogui, sentarse en posición de loto bajo el neem sagrado y juntos hagan una fuerza consciente impenetrable con la naturaleza. Los soldados de la muerte recibirán una gran bendición de su práctica. Luz infinita, blanca quema y penetra y enciende su oscuridad. Una reacción inmediata sacude su mundo. Los que se dieron tanto terror pueden morir en el terror de la Madre Kali, protector del planeta y de los yoguis. En las próximas embriones que habitara’n terminarán su recapitulación biologico con branquias y aletas.  Nadarán en aguas sucias tomando orines de otros pescados.</em>
 
 No muchas personas entiendieron el contexto de estas frases cuando les publiqué con esta foto el año pasado. Fue una época muy oscura y recordé una canción punk rock muy oscuro desde mi juventud sobre la reencarnación y cómo los pervertidos con sus complejos Edipo renacen como peces. Nunca pensé que algo útil saldría de esos recuerdos, pero me di cuenta de que eran bastante perspicaces!

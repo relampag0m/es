@@ -3,6 +3,10 @@ title: Microvita Y Tantra Maya c.5 "Tántricos de la Luz y la Oscuridad"
 tags: Microvita
 ---
 
+{% capture images %}
+	/images/microvita.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 Tantra es una palabra sánscrita derivado de "Tan", que significa "oscuridad" o "inercia" y "tra", que significa "expansión". Por lo tanto, "tantra" significa la expansión de un estado de oscuridad espiritual, la inercia, o la ignorancia que nos une al mundo material limitado con sus alegrías y sufrimientos relativos. Tantra es una antigua ciencia de la meditación y la concentración para despertar la mente de un letargia instintiva animal. Es una práctica para una mayor evolución física, mental y espiritual para que el ser humano puede comprender más plenamente su lugar en el universo. Esta disciplina sistemática y práctica sigue el curso natural de la evolución y guía a la mente del instinto al intelecto a la intuición. Como explicó Anandamurtiji, es un método para convertir la energía física en energía psíquica y luego convertir esa energía psíquica o mental acumulado en pura cognición espiritual.
 
 Tantra, en su forma adecuada y esencial, es "el empirismo mística" en que el practicante puede seguir ciertas disciplinas sistemáticas y verificar en el propio laboratorio mental de la mente si el sistema es cierto o no. Si se amplía de la inercia de instinto ciego y la ignorancia intelectual y alcanza un grado de comprensión, paz y claridad en las áreas existenciales y espirituales, entonces la práctica científica de tantra es eficaz y, por tanto, cierto en que la práctica nos lleva al objetivo de la iluminación espiritual.

@@ -2,6 +2,11 @@
 title: La Memoria
 tags: [Tantra Espiritual]
 ---
+{% capture images %}
+	/images/Chandranath.jpg
+{% endcapture %}
+{% include gallery images=images caption="Chandranath and Ram Parit Devii" cols=3 %}
+
 La memoria es la capacidad de recordar acontecimientos que ya han sucedido. Una memoria debil es como la arena movediza y no puede ni siquiera recordar lo que realmente sucedió. Es como un mentiroso que realmente comienza a creer y contar mentiras hasta el punto que ni siquiera se recuerda como la mentira. Una memoria buena es honesto y recuerda cada pensamiento y emoción, ya sea el más sublime y divino o el más oscuro y mortífero. Pero, ¿qué sucede cuando intentamos recordar eventos donde desaparecen todos los pensamientos, estos momentos de iluminación cuando no hay duda, sin miedo, sin argumentos y tu eres como realmente eres? 
 
 Cuando me senté al lado de Chandranath y traté de escucharlo hablar de la Conciencia Suprema no podía entender ni una palabra de lo que dijo. Él me llevó a la profundidad de su interior y sólo había silencio y un brillo suave y blanca. Hoy en día sigo tratando de recordar esa experiencia, estar tan quieto que olvido incluso la respiración, y todavía hay silencio y un brillo suave y blanca.

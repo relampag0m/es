@@ -1,7 +1,12 @@
 ---
-title: Un Nombre Para El Infinito: "El Vortice Vishuddha"
+title: Un Nombre Para El Infinito "El Vortice Vishuddha"
 tags: [Un Nombre Para El Infinito]
 ---
+
+{% capture images %}
+	/images/nombre.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 En la etapa actual de evolución humana es muy
 difícil encontrar individuos, mucho más sociedades, que
 funcionen al nivel del vórtice Vishuddha. De hecho,

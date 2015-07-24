@@ -3,6 +3,10 @@ title: Microvita Y Tantra Maya c.8 "El Cultivo de Mentidades Positivas"
 tags: Microvita
 ---
 
+{% capture images %}
+	/images/microvita.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 El cultivo de mentidades positivos es un tema muy relacionado con el funcionamiento biopsicological adecuada. El sistema nervioso, endocrino y glandulares son los vehículos físicos, corporales para la mente sutil. Todos ellos deben estar en una salud óptima para la mente sea capaz de resonar con mentidades positivas y sus capas mentales correspondientes y propensiones. Cualquier cambio en la estructura mental se reflejan en el cuerpo y viceversa. Para el paralelismo psicofísico adecuado del cuerpo debe soportar la mente y la mente debe ser compatible con el cuerpo.
 
 El cuerpo y la mente son un continuo en un espectro de energías creadas van desde la kosa kamamaya en el factor sólido a la raíz de la mente en el Vórtice Ajina . Por lo tanto, no hay distinción real y definida entre el cuerpo y la mente. El cuerpo es sino la expresión más cruda de la mente. Cualquier cambio en la estructura y función de la mente implica un cambio necesario en el cuerpo físico, y viceversa.

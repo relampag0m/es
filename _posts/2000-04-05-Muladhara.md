@@ -1,8 +1,12 @@
 ---
-title: Un Nombre Para El Infinito: "El Vórtice Muladhara"
+title: Un Nombre Para El Infinito "El Vórtice Muladhara"
 tags: [Un Nombre Para El Infinito]
 ---
 
+{% capture images %}
+	/images/nombre.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 El impulso fundamental de todos los seres es el
 esfuerzo de expandirse hacia el Infinito. Desde la ameba
 rudimentaria hasta en complejo ser humano emocional e

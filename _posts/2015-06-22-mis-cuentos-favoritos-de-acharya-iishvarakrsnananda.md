@@ -2,6 +2,11 @@
 title: Mis Cuentos Favoritos de Acharya Iishvarakrsnananda
 tags: [Tantra Espiritual]
 ---    
+
+{% capture images %}
+	/images/dadaIK.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 Dada Iishvarakrsnananda o "Dada I.K." fue mi maestro de la yoga y la meditacion cuando yo estaba en Ananda Marga. Él era la persona más humana y amable que he conocido. Sigo admirar su coraje moral y la expresión de su sinceridad, su discernimiento, y las intenciones puras que son una gran fuente de inspiración para muchos. Esta es una historia que escribió el otro día. Su entorno es en un ambiente político intenso en la India después Anandamurtiji se había negado a dejar de hablar de PROUT, una teoría económica descentralizada que él propuso. Los comunistas en el gobierno del estado de Bengala Occidental están atacando Anandamurtiji y matando a sus seguidores, mientras tanto el gobierno pro-capitalista Federal también está tratando de prohibir su actividad social. PROUT era demasiado trascendental tanto para el estado comunista y el gobierno pro-capitalista federal y Anandamurtiji estaba bajo atace tanto de la derecha como de la izquierda. La institución de Anandamurti, Ananda Marga Pracaraka Samgha, fue más tarde infiltrada por el CBI (que es como la CIA, pero de la india). Muchos de sus discípulos más cercanos lo traicionó, mientras que otros, como mi amigo Iishvarakrsnananda, fueron a la cárcel en su adolescencia por negarse a renunciar a estas ideas a pesar de que se hubiera recibido un indulto presidencial y soltarlo del carcel para hacer la declaracion de renuncion. Muchos de sus amigos fueron brutalmente torturados y él mismo casi murió en la cárcel, pero nunca renunció a sus principios. Nunca he conocido a hombres con tal claridad de propósito en la vida como el Dada I.K. Aqui es uno de sus historias:</span></span>
 
 <span style="font-family: DejaVu Sans,sans-serif;"><span style="font-size: medium;">

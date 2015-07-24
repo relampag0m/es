@@ -1,7 +1,12 @@
 ---
-title: Un Nombre Para el Infinito: parteIII "Sadhana"
+title: Un Nombre Para el Infinito parteIII "Sadhana"
 tags: [Un Nombre Para El Infinito]
 ---
+
+{% capture images %}
+	/images/nombre.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 ### Sadhana: La práctica espiritual
 La primera y segunda partes de este libro dieron una descripción teórica del funcionamiento de la mente humana y su status evolutivo en relación con el cosmos, su estructura general, sus leyes y sus dinámicas. Esta sección tratará sobre el abordaje práctico del entendimiento de la evolución espiritual de la mente y la personalidad. No vamos a explicar más a fondo la estructura de la mente de manera teórica, sino que nos enfocaremos en las disciplinas espirituales que facilitan el desarrollo de la misma. De hecho, la meditación Tántrica, como dijo Anandamurti, es 99% práctica y 1% teoría. El estudio de la metafísica y la fenomenología desde el punto de vista teórico es solamente una preparación para la práctica intuitiva del Tantra. No obstante, cuando es visto como una herramienta preparatoria para albergar la práctica intuitiva, el estudio teórico se vuelve en sí un ejercicio práctico para el desarrollo de la mente más que una simple contemplación abstracta. El propósito de esta búsqueda de conocimiento es la de experimentar directamente realidades espirituales elevadas, no solamente filosofar sobre ellas. El Tantra es por lo tanto un “empirismo místico”.
 

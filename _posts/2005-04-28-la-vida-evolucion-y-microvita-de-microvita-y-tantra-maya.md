@@ -2,6 +2,11 @@
 title: Microvita Y Tantra Maya c.3 "La Vida, Evolución y Microvita" 
 tags: Microvita
 ---
+
+{% capture images %}
+	/images/microvita.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 Cualquier buscador espiritual sincera está satisfecho con nada menos que el propio Infinito. Nuestra búsqueda del conocimiento es infinito. Cuando descubrimos un secreto o causa oculta, descubrimos una cadena de otras cuestiones que conducen a causas aún no descubiertos. Y cuanto más nuestro conocimiento asciende hacia lo espiritual, la cumbre de todo el conocimiento, la más sutil y más finas son las causas y los niveles de la mente para percibir ellos. Realmente no hay fin de la posibilidad del cultivo de nuestra conciencia. Los más pináculos nuestras percepciones más nos damos cuenta de que nuestra evolución tiene alguna meta o entelequia. Cada nuevo descubrimiento en la forma del pensamiento pináculo o sentimiento elevado parece llevarnos hacia algo más allá de sí mismo hasta llegar a un suelo o base de conocimiento; un Ser que hace conocer posible. Cada ser o radiación de esta Conciencia Infinita lleva su impronta, aunque de una forma objetiva y finito. Vemos su sello en todas partes en la naturaleza creada y escuchamos su llamado en el exterior, así como en los mundos internos. Para la mente sensible y espiritualmente refinado, todas las cosas hablan de lo infinito. Se orienta de manera objetiva todo el conocimiento y experiencia. Percibimos las cosas como si existian separados de un sujeto que percibe y conoce. Para que un acto de conocimiento se produzca, debe haber un sujeto, el que conoce, y un objeto, lo conocido.
 
  </span></span></p>

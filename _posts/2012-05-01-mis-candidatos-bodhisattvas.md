@@ -2,6 +2,11 @@
 title: Mis Candidatos Bodhisattvas
 tags: [Tantra Social]
 ---
+
+{% capture images %}
+	/images/camus.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 La verdadera visión espiritual a través del medio de las formas mentales sublimes es una verdadera
 forma de la gracia divina. Es un iluminación y lluvia de pensamiento y sentimiento elevado de que ha
 sido diseñado por la inteligencia profunda que nos guíe hacia adelante y hacia adentro. Forma
