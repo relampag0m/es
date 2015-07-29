@@ -199,4 +199,4 @@ psicológica y espiritualmente, o si esa inteligencia simplemente se
 convierte en una herramienta para exacerbar, explotar y perpetuar los
 vrttis impulsivos del Manipura (ambición, apego ciego, sadismo, etc.).
 
-del "Corazon Espiritual"
+del "Corazon Espiritual"  https://docs.zoho.com/file/cgaw1279d869436ab46849c6230be2ba949a7
