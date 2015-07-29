@@ -5,9 +5,6 @@ published: false
 ---
 ### La Dinámica de “Ka” and “Kha” con la Esperanza y la Preocupación
 
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 Podemos entender las razones por las limitaciones del concepto
 egocéntrico del “yo” que distorsiona el reflejo puro de Hunab Ku en las
 mentes de los seres humanos por examinar el corazón espiritual. En el
