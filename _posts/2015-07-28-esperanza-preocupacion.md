@@ -3,9 +3,9 @@ published: false
 ---
 
 ---
-title: La Dinámica de “Ka” and “Kha” con la Esperanza y la Preocupación
-tags: Escritos Espirituales
----
+### La Dinámica de “Ka” and “Kha” con la Esperanza y la Preocupación
+
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 Podemos entender las razones por las limitaciones del concepto
