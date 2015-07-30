@@ -2,7 +2,6 @@
 title: Los Célibes y el Sexo
 tags: 
   - Tantra Espiritual
-published: true
 ---
 
 He tenido algunas peticiones para continuar escribiendo sobre mis experiencias con los yoguis de la India que conocí en mi juventud. Me han solicitado a hablar más sobre los consejos de canalización de la energía sexual como dicho a mí por el yogui que mencioné en el ensayo "Forma y Sin Forma" la semana pasada. Con mucho gusto concedo a esta porque creo que la sexualidad es uno de los menos entendidos temas en la vida humana. Afecta a todos, pero pocos han encontrado una solución tranquilo a estos nudos. 
