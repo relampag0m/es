@@ -2,6 +2,11 @@
 title: La Posesión
 tags: [Tantra Social]
 ---
+
+{% capture images %}
+	/images/complex.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 Vi las primeras imágenes de la carnicería durante la primera Guerra del Golfo mi último año en la escuela secundaria. Yo estaba indignado y avergonzado. Aunque la mayoría de los maestros y líderes de la sociedad estaban apoyando la propaganda del gobierno de un ataque justificado, también hubo un par de disidentes en el sistema escolar público que dio puntos de vista alternativos. Yo había estado influenciado por uno de esos maestros. Realmente no tenía fuertes opiniones políticas pero aprendí lo suficiente de la política moderna a desconfiar por completo nuestro gobierno.
 Al mismo tiempo un furúnculo gigante apareció en mi mejilla. Era enorme e hinchado y muy embarazoso. Como el líquido rezumaba todo lo que podía pensar eran las imágenes de los cuerpos de los empleados del hotel que fueron asesinados por misiles guiados equivocadas. Tuve vergüenza de ser estadounidense. No más de John Wayne y  boinas verdes heroicos que salvan el día; sólo imperialistas podridos sucias y engañados, imbéciles con banderas robando y asesinando a las sociedades más débiles para sus recursos naturales. Bueno, desde hace varios años por lo menos yo vacilaba entre esa definición extrema de mis compatriotas o la definición que también son explotados por la mala educación y la pseudo-cultura capitalista. El fascismo siempre termina apoderándose de los imperios en el final.
 
