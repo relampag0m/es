@@ -1,6 +1,8 @@
 ---
 title: La Humanidad Nueva
 tags: [Tantra Espiritual]
+layout: post
+comments: true
 ---
 Estoy seguro de que la solución a los desequilibrios electromagnéticos que están afectando fuertivamente la conciencia colectiva del planeta es bastante simple y claro: refugiarse en un plano más alto. Este planeta mantiene un equilibrio con las fuerzas gravitacionales y electromagnéticos por el cual nuestra conciencia, un proceso complejo que implica el sistema glandular y nervioso, así como la mente y la conciencia han evolucionado y adaptado durante millones de años. A pesar de que muchas personas están teniendo algunos problemas graves de mala adaptación a estas nuevas condiciones, hay un gran potencial para hacer algunos  saltos grandes en la conciencia personal y colectiva.
 

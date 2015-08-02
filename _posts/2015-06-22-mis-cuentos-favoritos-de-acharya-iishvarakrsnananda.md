@@ -1,6 +1,8 @@
 ---
 title: Mis Cuentos Favoritos de Acharya Iishvarakrsnananda
 tags: [Tantra Espiritual]
+layout: post
+comments: true
 ---    
 
 {% capture images %}

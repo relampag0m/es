@@ -1,6 +1,8 @@
 ---
 title: Tantra sexual 
 tags: [Tantra Espiritual]
+layout: post
+comments: true
 ---
 Ahora tengo su atención! Cuando se habla de la segunda chakra, la svadhistana , la mayoría de la gente piensa inmediatamente en la sexualidad. Los seis vrttis o vórtices de chakra svadhistana son la indiferencia , la depresión, la compulsión, la falta de confianza , la paranoia y resentimiento. Estos 6 tendencias tienen más que ver con una falta de sólida formación en la persona que la sexualidad. El impulso sexual tiene sus raíces en la mente sensorial , en el primer chakra. El problema es que, debido a la falta de conciencia de las necesidades emocionales y físicas de uno , el deseo sexual a menudo se confunde con estos mecanismos de defensa .
 

@@ -1,6 +1,8 @@
 ---
 title: La Leyenda del Colibrí - leyenda tradicional
 tags: [Tantra Espiritual]
+layout: post
+comments: true
 ---
 
 En muchas tradiciones, las plumas de Colibrí son atesoradas por sus cualidades casi mágicas. Se dice que el Colibrí trae amor como ninguna otra medicina puede hacerlo, y su presencia trae alegría al observador.

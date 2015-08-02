@@ -1,6 +1,8 @@
 ---
 title: El Tantra de la Flauta y el Neem
 tags: [Tantra Social]
+layout: post
+comments: true
 ---
 
 {% capture images %}

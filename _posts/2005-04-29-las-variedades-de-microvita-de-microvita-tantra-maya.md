@@ -1,6 +1,8 @@
 ---
 title: Microvita Y Tantra Maya c.4 "Las Variedades de Microvita"
 tags: Microvita
+layout: post
+comments: true
 ---
 
 {% capture images %}

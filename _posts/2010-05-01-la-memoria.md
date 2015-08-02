@@ -1,6 +1,8 @@
 ---
 title: La Memoria
 tags: [Tantra Espiritual]
+layout: post
+comments: true
 ---
 
 {% capture images %}

@@ -1,6 +1,8 @@
 ---
 title: Microvita Y Tantra Maya c.8 "El Cultivo de Mentidades Positivas"
 tags: Microvita
+layout: post
+comments: true
 ---
 
 {% capture images %}

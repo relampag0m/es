@@ -1,6 +1,8 @@
 ---
 title: Para Los Santos
 tags: [Tantra Social]
+layout: post
+comments: true
 ---
 Todavía viven algunos muy grandes yoguis que tan bellamente reflejan la influencia de la gracia que Anandamurti derramó sobre sus discípulos más cercanos. Un gran maestro como Anandamurti podía curar cualquier enfermedad, física o mental, porque él podía ver las causas sutiles profundo en la mente y también porque tenía un amor infinito. Al estar cerca de sus discípulos más cercanos fue la bendición más grande de mi vida y se lo debo todo a aquellos seres sinceros que han sacrificado sus vidas por la obra del dharma. Conocí a algunos de los que se refleja la compasión de su gurú tan profundamente que ellos mismos comenzaron a tomar los samskaras negativos o reacciones kármicas de otras personas a fin de que los que luchan podría desarrollar en sus prácticas y se fortalecía a sí mismos. No es que desean esto, más bien, es que a causa de su propia libertad espiritual y la realización compasivo, la Mente Macrocosmic puede expresar esta gracia por medio de ellos. La gente de esta categoría son las personas más valiosas en la sociedad humana. Su único deber en este planeta es ayudar a los demás y mantener el equilibrio de dharma. Algunos de ellos son muy enfermos, ya que están envejeciendo y su cuerpos físicos ya no tienen la energía para quemar los samskaras o reaccionas karmicas de los demás.
 Estos pocos nobles todavía están manteniendo el espiritu de Anandamurti vivo y vibrante . Sin estos faros de esperanza, el trabajo de Anandamurti se perdería. La pelea del “Headkick Headtrick Tantra" es para hacer un poco mas ligero su carga energetica por sacar el peso muerto.

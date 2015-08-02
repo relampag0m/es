@@ -1,6 +1,8 @@
 ---
 title: Microvita Y Tantra Maya c.3 "La Vida, Evolución y Microvita" 
 tags: Microvita
+layout: post
+comments: true
 ---
 
 {% capture images %}

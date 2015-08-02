@@ -1,7 +1,8 @@
 ---
 title: El No-Dualidad Cura Todas las Enfermedades
 tags: [Tantra Espiritual]
-excerpt_separator: 
+layout: post
+comments: true
 ---
 
 {% capture images %}

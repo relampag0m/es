@@ -1,6 +1,8 @@
 ---
 title: El Tantra del Árbol
 tags: [Tantra Espiritual]
+layout: post
+comments: true
 ---
 
 {% capture images %}

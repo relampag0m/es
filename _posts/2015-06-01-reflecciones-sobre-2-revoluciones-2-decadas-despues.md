@@ -1,6 +1,8 @@
 ---
 title: Reflecciones sobre 2 Revoluciones 2 Decadas Despues 
 tags: [Tantra Social]
+layout: post
+comments: true
 ---
 
 {% capture images %}

@@ -1,6 +1,8 @@
 ---
 title: Microvita Y Tantra Maya c.10 "La Cosmología Tántrica"
 tags: Microvita
+layout: post
+comments: true
 ---
 
 {% capture images %}

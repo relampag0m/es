@@ -1,6 +1,8 @@
 ---
 title: Un Nombre Para El Infinito "El Vórtice Ajina"
 tags: [Un Nombre Para El Infinito]
+layout: post
+comments: true
 ---
 
 {% capture images %}

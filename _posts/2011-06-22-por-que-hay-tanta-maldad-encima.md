@@ -1,6 +1,8 @@
 ---
 title: ¿Por Qué Hay Tanta Maldad Encima?
 tags: [Tantra Social]
+layout: post
+comments: true
 ---
 
 {% capture images %}

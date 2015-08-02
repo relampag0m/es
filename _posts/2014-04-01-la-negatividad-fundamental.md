@@ -1,6 +1,8 @@
 ---
 title: La Negatividad Fundamental
 tags: [Tantra Espiritual]
+layout: post
+comments: true
 ---
 {% capture images %}
 	/images/cobra.jpg

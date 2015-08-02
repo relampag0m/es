@@ -1,6 +1,8 @@
 ---
 title: Despertar Colectivo del Kundalini
 tags: [Tantra Espiritual]
+layout: post
+comments: true
 ---
    Anandamurti, en una charla llamada "La Venida del Edad del Hielo Nuevo," habla de cómo los patrones climáticos del planeta han cambiado drásticamente desde la década de 1980. Él habla de este fenómeno no como una catástrofe, pero el cambio como algo natural. Relaciona la polaridad cambiante de planetas polos como la causa subyacente. Él dice que se cambian pronto y con este cambio habrá cambios en los campos electromagnéticos. Muchas especies tendrán que someterse a la metamorfosis biológica para sobrevivir a estos cambios. La mayoría de los seres humanos se extinguirán. Sólo aquellos con el sistema nervioso y glandular refinados serán parte de la nueva humanidad del futuro próximo. Veo esto como la selección natural en acción, aunque en este caso estamos hablando de una selección natural basada en la conciencia y la inteligencia emocional en lugar de la fuerza bruta o la astucia intelectual y crueldad. Con muy poca conciencia personal, social, ecológico y espiritual será difícil para la mente colectiva de la humanidad para ajustar con estos campos electromagnéticos cambiantes. Estos seres humanos se vuelven como los neandertales del pasado, una especie extinta, a menos que haya cambios radicales muy rápidos. Anandamurti dijo que a veces la evolución hace un repentino "salto al galope."
 

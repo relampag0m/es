@@ -1,6 +1,8 @@
 ---
 title: El Neohumanismo de Sadvipras - Anandamurti
 tags: [Tantra Social]
+layout: post
+comments: true
 ---
 Para sadvipras [revolucionarios espirituales] el valor de la vida humana supera a todos los demás valores. Así que los estados y las escrituras, las sociedades y religiones, adquieren significado sólo en la medida en que se desarrollan la humanidad al máximo a través del aprendizaje, la cultura, la salud física y un montón económica. Es por el bien del desarrollo de la humanidad que la civilización tiene tantas instituciones de diversa índole, que los estados toman sus diversas formas, que las teorías proliferan, y que las Escrituras abundan en las ordenanzas y reglamentos. Lo que en el mundo no se destacan el estado de, ¿cuál es el uso de todos estos reglamentos, y cuáles son las maravillas de la civilización, si las personas se les impide manifestarse, si no tienen la oportunidad de construir buenas constituciones, para vigorizar su inteligencia con el conocimiento, o para ampliar sus corazones con amor y compasión? Si, en lugar de tender a llevar seres humanos a la meta de la vida, el estado está en el camino, no puede comandar la lealtad, porque la humanidad es superior a la del Estado. De acuerdo con Rabindranath Tagore, "Ley de Justicia y en el costo de la humanidad es como una piedra en lugar de pan. Tal vez esa piedra es rara y valiosa, pero no puede eliminar el hambre ".
 

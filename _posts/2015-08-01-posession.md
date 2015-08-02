@@ -1,6 +1,8 @@
 ---
 title: Los Poseídos 
 tags: [Tantra Social]
+layout: post
+comments: true
 ---
 
 {% capture images %}

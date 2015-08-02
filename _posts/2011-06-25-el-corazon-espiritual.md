@@ -1,6 +1,8 @@
 ---
 title: El Corazón Espiritual
 tags: [El Corazón Espiritual]
+layout: post
+comments: true
 --- 
 
 {% capture images %}

@@ -1,6 +1,8 @@
 ---
 title: Xoc Nah Kin
 tags: [Tantra Espiritual]
+layout: post
+comments: true
 ---
 
 En una mañana del mes de mayo me fui muy temprano a pasear al final del cerro, los árboles cubiertos de hojas verdes y de flores olorosas y el aire sentía fresco y se ve la falda de la cerranilla verde amarillo por las flores de Xkan Lol y Xkan Pocol Cum. Cantan alegres los pájaros del amanecer porque ya día las primeras Iluvias que señalaba el principio de la siembra de las milpas. Alegre estaba mi espíritu al ver la belleza del campo, así Ilegué a la culebrada vereda que sube a la cima del cerro como una serpiente que asciende al cielo culebreando, resonando su resuello, así se oye el ruido del viento. Ascendiéndome de la vereda Ilegué a la cima, me senté sobre una enorme piedra para contemplar la creación. Una obra maravillosa. Ciencia ocultada al hombre. Aunque él es pequeño, entre la creación se engrandece con su pensamiento, porque todo lo que ve lo analiza, como el paso del Sol, el de la Luna, el de las estrellas y del aire. Lo examina y explica y así Ilegó a saber la evolución de los astros. 

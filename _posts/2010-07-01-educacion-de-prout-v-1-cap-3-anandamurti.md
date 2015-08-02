@@ -1,6 +1,8 @@
 ---
 title: Educación - Anandamurti
 tags: [Tantra Social]
+layout: post
+comments: true
 ---
 </span><span title="Parents(1) often allege that teachers do not teach anything worthwhile nowadays, but I do not feel that this is a very well-considered remark.">Los padres (1) a menudo alegan que los maestros no enseñan nada vale la pena hoy en día, pero no sienten que esto es una observación muy bien considerada. </span><span title="In actual fact they are only making excuses in order to avoid their responsibilities.">En realidad sólo están haciendo excusas para evitar sus responsabilidades. </span><span title="At the same time, however, I should add that most teachers demonstrate, through their mental outlook or their actions, far less awareness of their social responsibilities than concern for their own interests.">Al mismo tiempo, sin embargo, debo añadir que la mayoría de los profesores demuestran, a través de su perspectiva mental o sus acciones, mucho menos la conciencia de su responsabilidad social de preocupación por sus propios intereses. </span><span title="They do not devote even a fraction of the time and energy to building society that they spend making money by any means possible, such as by writing “made easies” [course summaries] or study guides.
 

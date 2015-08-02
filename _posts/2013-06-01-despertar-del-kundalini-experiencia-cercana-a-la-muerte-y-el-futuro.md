@@ -1,6 +1,8 @@
 ---
 title: Despertar del Kundalini, Experiencia Cercana a la Muerte, y el Futuro
 tags: [Tantra Espiritual]
+layout: post
+comments: true
 ---
 A principios del despertar de kundalini cuando todavía era un estudiante en la universidad, tuve muchas experiencias que sacudieron mi mundo aparte. Hubo un período en donde tuve muchas visiones extrañas que no tenían sentido para mí hasta años más tarde. Durante la meditacion me sentí que estaba fundiéndose en toda la ciudad de Austin a mi alrededor. Mi mente iba más allá de la ciudad y se perdia en el universo. Era aterrador pero estimulante. Fue la muerte del pequeño yo. 
 

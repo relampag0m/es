@@ -1,6 +1,8 @@
 ---
 title: Microvita Y Tantra Maya c.5 "Tántricos de la Luz y la Oscuridad"
 tags: Microvita
+layout: post
+comments: true
 ---
 
 {% capture images %}

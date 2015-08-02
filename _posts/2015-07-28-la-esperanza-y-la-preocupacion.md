@@ -1,6 +1,8 @@
 ---
 title: "La Dinámica de “Ka” and “Kha” con la Esperanza y la Preocupación"  del Corazon Espiritual
 tags: [Escritos Espirituales]
+layout: post
+comments: true
 ---
 Podemos entender las razones por las limitaciones del concepto
 egocéntrico del “yo” que distorsiona el reflejo puro de Hunab Ku en las

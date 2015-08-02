@@ -1,6 +1,8 @@
 ---
 title: La Edad Ks'attriya - Anandamurti
 tags: [Tantra Social]
+layout: post
+comments: true
 ---
 La existencia de los factores relativos de tiempo, espacio y persona se fundamenta en el campo de la cognición, y el cojinete conscientes en su inercia es la más alta posición de estos factores. El dinamismo inherente de una entidad, en función de la colaboración existencial de otra entidad (o en algunos casos de otras entidades, en cuyo caso se convierte en la inmovilidad de carácter indefinido), se llama sus gati [movimiento], mientras que la de una entidad independiente de la otra entidades se llama su agati [inmovilidad]. Cuando este movimiento relativo pierde su ajuste con el factor temporal puede ser llamado un estado de pausa - en un sentido limitado, estaticidad. El movimiento de una entidad en relación con la facultad testimonio puede ser llamado su movimiento acelerado o retardado, dependiendo del grado de su expresión accional.
 

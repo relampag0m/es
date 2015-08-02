@@ -1,6 +1,8 @@
 ---
 title: Un Nombre Para El Infinito "Introduccion y Prefacio"
 tags: [Un Nombre Para El Infinito]
+layout: post
+comments: true
 ---
 
 {% capture images %}

@@ -1,6 +1,8 @@
 ---
 title: Un Nombre Para El Infinito "El Vortice Manipura" 
 tags: [Un Nombre Para El Infinito]
+layout: post
+comments: true
 ---
 
 {% capture images %}

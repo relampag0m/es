@@ -1,6 +1,8 @@
 ---
 title: Microvita Y Tantra Maya c.6 "Las Mentidades Negativas"
 tags: Microvita
+layout: post
+comments: true
 ---
 
 {% capture images %}

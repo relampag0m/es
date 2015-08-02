@@ -1,6 +1,8 @@
 ---
 title: Mis Candidatos Bodhisattvas
 tags: [Tantra Social]
+layout: post
+comments: true
 ---
 
 {% capture images %}

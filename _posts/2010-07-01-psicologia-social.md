@@ -1,6 +1,8 @@
 ---
 title: Psicología Social - Anandamurti
 tags: [Tantra Social]
+layout: post
+comments: true
 ---
 <span title="For the existence of human beings in society the following fundamental factors are necessary – unity, social security and peace.">Por la existencia de los seres humanos en la sociedad los siguientes factores fundamentales son necesarios - unidad, la seguridad social y la paz. </span><span title="What is actually required under each of these fundamental factors is discussed below.&lt;/p&gt;
 &lt;p&gt;">Lo que realmente se requiere en cada uno de estos factores fundamentales se discute a continuación.</span>

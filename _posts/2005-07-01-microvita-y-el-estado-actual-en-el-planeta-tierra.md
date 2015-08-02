@@ -1,6 +1,8 @@
 ---
 title: Microvita Y Tantra Maya c.9 "Microvita y el Estado Actual en el Planeta Tierra"
 tags: Microvita
+layout: post
+comments: true
 --- 
 
 {% capture images %}

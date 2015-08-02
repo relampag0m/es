@@ -1,6 +1,8 @@
 ---
 title: Un Nombre Para el Infinito parteIII "Sadhana"
 tags: [Un Nombre Para El Infinito]
+layout: post
+comments: true
 ---
 
 {% capture images %}

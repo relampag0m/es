@@ -1,6 +1,8 @@
 ---
 title: Microvita Y Tantra Maya c.2 "El Corazón Espiritual"
 tags: Microvita
+layout: post
+comments: true
 ---
 
 {% capture images %}

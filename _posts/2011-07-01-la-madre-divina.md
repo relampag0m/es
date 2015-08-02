@@ -1,6 +1,8 @@
 ---
 title: La Madre Divina
 category: Tantra Social
+layout: post
+comments: true
 ---
 
 {% capture images %}
