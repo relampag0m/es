@@ -1,11 +1,11 @@
 title:            Vishal Eckhart 
 description:      Describe your website here.
-disqus_shortname: hpstrtheme
+disqus_shortname: tantramaya
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: http://vishaleckhart.github.io/es
+#url: http://vishaleckhart.github.io/es
 
 # Owner/author information
 owner:
