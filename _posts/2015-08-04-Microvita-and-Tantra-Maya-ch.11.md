@@ -1,7 +1,7 @@
 ---
 layout: post
 comment: true
-title: Microvita Y Tantra Maya ch.11 "Cuentos Extraños de Microvita"
+title: Microvita Y Tantra Maya c.11 "Cuentos Extraños de Microvita"
 tags: Microvita
 ---
 Los capítulos anteriores han sido el resultado de años de estudio. Escribí estos capítulos alrededor de 2005 y ahora estoy editando ellos. En la explicación de la función de las clasificaciones y microvita he tratado de ser lo más racional y objetiva como sea posible con estas experiencias muy subjetivas. Traté de mantener estas ideas basado en mi propia experiencia tanto como sea posible sin extrapolar ideas. Este es un deber fundamental para el investigador espiritual de la ciencia de tántra y microvita. Uno debe tratar de ser lo más objetivo posible, mientras eliminar de los prejuicios personales o prejuicios ideológicos que sesgan las interpretaciones de estas percepciones sutiles. Aurobindu vio yoga como "empirismo mística." Me gusta el espíritu de la ciencia empírica, de tener referencias cruzadas y la revisión por socios y creo que los yoguis que tratan de enseñar a la metafísica a los demás deben ser lo más scientfico como sea posible, examinar sus propias experiencias, y revisarlas con otros investigadores. Es una posición rigurosa de autocrítica que he tratado de mantener a lo largo de la obra. Ahora para la diversión y improvisación.
