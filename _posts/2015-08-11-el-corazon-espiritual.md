@@ -1,17 +1,20 @@
 ---
 title: El Corazón Espiritual
-tags: [El Corazón Espiritual]
+tags: 
+  - El Corazón Espiritual
 layout: post
 comments: true
---- 
+published: true
+---
+
+ 
 
 {% capture images %}
 	/images/hunabku.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 Podemos entender las razones por las limitaciones del concepto
-egocéntrico del “yo” que distorsiona el reflejo puro de Hunab Ku en las
-mentes de los seres humanos por examinar el corazón espiritual. En el
+egocéntrico del “yo” que distorsiona el reflejo puro de la divinidad de Hunab Ku en las mentes de los seres humanos por examinar el corazón espiritual. En el
 corazón espiritual o Vórtice Anahata existe el raíz de las problemas de la
 consciencia moderna dividida y fragmentada pero también la capacidad de
 compasión y unión con el verdadero “Yo-Testigo” adentro. Pluma Blanca
@@ -77,7 +80,7 @@ duplicidad, arrogancia, vanidad y el egoísmo (vrttis negativo), y más amor,
 el discernimiento y la fe (vrttis positivos), entonces el proceso de la
 unificación de la conciencia microcósmica a la Conciencia Macrocósmica de
 Shiva está en marcha. Es aquí, en el corazón espiritual de Anahata que la
-divinidad sin nombre puede evolucionar un nombre por sí mismo, para
+divinidad de sin nombre puede evolucionar un nombre por sí mismo, para
 nosotros, en cada uno de nosotros.
 
 <strong>La Dinámica de “Ka” and “Kha” con la Esperanza y la Preocupación</strong>
