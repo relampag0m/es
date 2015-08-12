@@ -9,27 +9,13 @@ comments: true
 	/images/hunabku.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
-Podemos entender las razones por las limitaciones del concepto
-egocéntrico del “yo” que distorsiona el reflejo puro de Hunab Ku en las
-mentes de los seres humanos por examinar el corazón espiritual. En el
-corazón espiritual o Vórtice Anahata existe el raíz de las problemas de la
-consciencia moderna dividida y fragmentada pero también la capacidad de
-compasión y unión con el verdadero “Yo-Testigo” adentro. Pluma Blanca
-explicó que todas las expresiones de los llamados "vórtices" se expresan en
-el corazón espiritual, lo que los yogis llaman el Chakra Anahata. Yo prefiero
-usar la palabra “vórtice” en vez de “chakra.” El concepto tradicional del
-Vórtice Anahata es un loto con 12 pétalos. Cada “pétalo” es un vórtice
-girando afuera del vórtice mayor, o “lotus,” como muchos tornados
-pequenos que juntan para formar un vortice gigante. Estos pétalos o
-vortices menores son conocidos como vrttis- vórtices de energía mental.
-Estos vrttis vibran todo el cuerpo y la mente y los califican para expresar
-estados particulares de pensamiento y emoción. Vrittis son la inteligencia
-fundamental detrás de nuestros pensamientos y sentimientos, la
-programación oculto de la vida cognitiva y emocional humano. El Vórtice
-Anahata es sutil como los vórtices superiores con sus tendencias
-cognitivas mas finas, pero al mismo tiempo tiene cualidades grosos como
-los vórtices inferiores que expresan tendencias más instintivas e
-egocéntricas.
+Por examinar el corazón espiritual podemos entender las razones por las limitaciones del concepto
+egocéntrico del “yo” que distorsiona el reflejo puro de Hunab Ku (o lo que llaman "Shiva" en la india) en las
+mentes de los seres humanos. En el corazón espiritual o Vórtice Anahata existe el raíz de las problemas de la
+consciencia moderna dividida y fragmentada pero también la capacidad de compasión y unión con el verdadero “Yo-Testigo” adentro. Pluma Blanca
+explicó que todas las expresiones de los llamados "vórtices" se expresan en el corazón espiritual, lo que los yogis llaman el Chakra Anahata. 
+
+Yo prefiero usar la palabra “vórtice” en vez de “chakra.” El concepto tradicional del Chakra Anahata es un loto con 12 pétalos. Cada “pétalo” es un vórtice girando afuera del vórtice mayor, o “lotus,” como muchos tornados pequenos que juntan para formar un vortice gigante. Estos pétalos o vortices menores son conocidos como vrttis- vórtices de energía mental. Estos vrttis vibran todo el cuerpo y la mente y los califican para expresar estados particulares de pensamiento y emoción. Vrittis son la inteligencia fundamental detrás de nuestros pensamientos y sentimientos, la programación oculto de la vida cognitiva y emocional humano. El Vórtice Anahata es sutil como los vórtices superiores con sus tendencias cognitivas mas finas, pero al mismo tiempo tiene cualidades grosos como los vórtices inferiores que expresan tendencias más instintivas e egocéntricas.
 
 Hasta antes del Vórtice Anahata, el ser humano no es sino un “embravecido paquete de deseo dentro de un animal moribundo”, en palabras de Yeats. Se mencionó previamente que el Vórtice Manipura le da al individuo la intimación del infinito a través de un deseo de expansión infinita; esta se encuentra aún lejos de la concepción pura del infinito, ya que su enfoque está dirigido al mundo físico. El Manipura, situado a la altura del ombligo, aún está gobernado por el hambre ontológica, acompañada de ambiciones, demandas e imposiciones sobre el mundo objetivo. Puede preguntarse el “cómo” y proceder luego a manipular y maniobrar el mundo exterior de acuerdo a sus deseos, pero carece de la conciencia auto-reflexiva para preguntarse el “por qué” o “para qué” en un sentido moral más profundo. El Vórtice Manipura se encuentra balanceado solamente cuando está bajo la guía del Anahata, más consciente y moral. Debe quedar muy claro para el lector que muchas de las enfermedades en nuestra pseudo-cultura materialista y capitalista son ocasionadas por la sobre activación y explotación del Vórtice Manipura.
 
@@ -101,14 +87,14 @@ mucha consciencia.
 
 El sonido "ka" es el primer sonido en el 12 pétalos de loto de anahata
 vórtice. "Ka" es la primera consonante de salir de la matriz causal de sonido
-o logos, de Brahma. Este sonido hace vibrar la gran idea de la esperanza,
+o logos, de Shiva. Este sonido hace vibrar la gran idea de la esperanza,
 que todo lo creado proviene de la bienaventura. En el nivel anahata de la
 conciencia somos tan conscientes de nosotros mismos y de nuestro mundo.
 Es importante que nuestras vidas sean significativos y útiles y que se
 mueven en una dirección espiritual. Verdadera esperanza es el
 conocimiento práctico de "Yo soy Eso". El eterno “I-Witness”, el Yo-Testigo o
 Atman, sostiene y guía cada uno de mis movimientos . Es conocimiento que
-todo lo que venga en mi camino, viene de Brahma. Finalmente, este
+todo lo que venga en mi camino, viene de Shiva. Finalmente, este
 movimiento puro de "ka" se debilita y se distorsiona, a continuación,
 ponemos nuestra esperanza en cuestiones relativas, en nuestro pequeño
 ego, en la religión, la política, o algo. Esperanza se divide por la
@@ -234,11 +220,11 @@ Factor aérea, una forma de materia muy fina o prana que manifiesta sus
 intenciones hacia la forma. Cuando está completamente purificada este
 prana ya no tiene que vibrar con los vrttis o vórtices de la mente. La
 respiración se detiene por completo. Uno es vacío de la forma, pero lleno de
-felicidad infinita. Se escuchan el “logos” interior de Brahma, todos los
+felicidad infinita. Se escuchan el “logos” interior de Shiva, todos los
 sonidos que componen Om, y ve cómo finas vibraciones de prana
 manifiestan todo el universo material. Estas vibraciones rítmicas o
 "cuerdas" o impulsos de prana se derivan de los sonidos "raíz" de la Mente
-Causal, el logos de Brahma. Algún día, el genio humano será capaz de
+Causal, el logos de Shiva. Algún día, el genio humano será capaz de
 mapear e incluso cuantificar estas vibraciones finas que forman el llamado
 "vacío cuántico". Entonces, los seres humanos comenzaran a entender los
 secretos de las dimensiones entre la mente y la materia.
@@ -909,7 +895,7 @@ ataduras, sino más bien medios a través de los cuales el inefable Ser
 Infinito se expresa vía la personalidad finita. En este punto, las cualidades
 objetivas son transparentes ya que la personalidad no necesita más de
 nociones externas condicionadas para su auto referencia. Aquí uno
-entiende que el infinito Brahma mismo no es una personalidad y que no
+entiende que el infinito Shiva mismo no es una personalidad y que no
 tiene cualidades; que se expresa a través de planos finos, sutiles, del
 mundo creado-relativo. La personalidad o carácter no puede existir para el
 Infinito ya que ésta requiere de las limitaciones inherentes a definiciones
@@ -1343,7 +1329,7 @@ Si bien es cierto que todas las acciones del microcosmos se compensan con
 las reacciones, hay algunos patrones profundos de la mente que
 verdaderamente llevan el microcosmos en unión . Estas acciones no
 rebotan con las reacciones sino que se disuelven en el Macrocósmos . "Sea
-totalmente perdido en Brahma, como una flecha en su meta .” Porque la
+totalmente perdido en Shiva, como una flecha en su meta .” Porque la
 mente devota realmente empieza a fluir y encontrar gracia que se recibe y
 se absorbe en la vida del universo, las reacciones de dolor y tristeza
 empiezan cesar porque el ego deja sus proyecciones de la separación cada
@@ -1392,11 +1378,11 @@ quantum, tantos paquetes de energía, que han sido atrapados por gran
 gravidad de Shakti en una forma material. Toda la materia estelar que
 hemos ingerido a través de la digestión, a través de la percepción, a través
 de ideas y la interacción son finalmente trajo a la Mente Intuitiva y liberado
-de todas las formas a través de su reconocimiento de que solo Brahma
+de todas las formas a través de su reconocimiento de que solo Shiva
 existe tanto dentro como fuera. Nos transmutamos la creación en Divinidad
 cada vez que realmente recuerdo a casa. La mente no es más que la
 entidad que regula el dentro y el fuera, la centrípeta y centrífuga. Mente
-macrocósmica o Brahma, sostiene y proyecta el capricho de todo el orden
+macrocósmica o Shiva, sostiene y proyecta el capricho de todo el orden
 cosmológico . Mente microcósmica es lo que contiene y proyecta este
 conjunto, o capricho de ideas e impresiones en tiempo y espacio con una
 noción de tu persona.
