@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/culto-inferencia-propensidad/</loc>
+    <lastmod>2015-08-14T00:00:00-04:00</lastmod>
+  </url>
+  <url>
+    <loc>/el-corazon-espiritual/</loc>
+    <lastmod>2015-08-11T00:00:00-04:00</lastmod>
+  </url>
+  <url>
     <loc>/Microvita-and-Tantra-Maya-ch.11/</loc>
     <lastmod>2015-08-04T00:00:00-04:00</lastmod>
   </url>
@@ -115,10 +123,6 @@
   <url>
     <loc>/las-propensiones-del-manipura/</loc>
     <lastmod>2011-06-26T00:00:00-04:00</lastmod>
-  </url>
-  <url>
-    <loc>/el-corazon-espiritual/</loc>
-    <lastmod>2011-06-25T00:00:00-04:00</lastmod>
   </url>
   <url>
     <loc>/por-que-hay-tanta-maldad-encima/</loc>
@@ -250,26 +254,26 @@
   </url>
   <url>
     <loc>/404.html</loc>
-    <lastmod>2015-08-11T19:45:59-04:00</lastmod>
+    <lastmod>2015-08-14T10:24:12-04:00</lastmod>
   </url>
   <url>
     <loc>/tags/</loc>
-    <lastmod>2015-08-11T19:45:59-04:00</lastmod>
+    <lastmod>2015-08-14T10:24:12-04:00</lastmod>
   </url>
   <url>
     <loc>/posts/</loc>
-    <lastmod>2015-08-11T19:45:59-04:00</lastmod>
+    <lastmod>2015-08-14T10:24:12-04:00</lastmod>
   </url>
   <url>
     <loc>/</loc>
-    <lastmod>2015-08-11T19:45:59-04:00</lastmod>
+    <lastmod>2015-08-14T10:24:12-04:00</lastmod>
   </url>
   <url>
     <loc>/theme-setup/</loc>
-    <lastmod>2015-08-11T19:45:59-04:00</lastmod>
+    <lastmod>2015-08-14T10:24:12-04:00</lastmod>
   </url>
   <url>
     <loc>/about/</loc>
-    <lastmod>2015-08-11T19:45:59-04:00</lastmod>
+    <lastmod>2015-08-14T10:24:12-04:00</lastmod>
   </url>
 </urlset>
