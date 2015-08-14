@@ -1,5 +1,5 @@
 ---
-title: Un Nombre Para el Infinito parteIII "Sadhana"
+title: Un Nombre Para El Infinito parteIII "Sadhana"
 tags: [Un Nombre Para El Infinito]
 layout: post
 comments: true
