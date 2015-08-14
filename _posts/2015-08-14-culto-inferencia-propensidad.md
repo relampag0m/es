@@ -1,19 +1,19 @@
 ---
 title: Culto, Inferencia y Propensión - Anandamurti
-tags: Tantra Social
+tags: [Tantra Social]
 format: post
 comments: true
 ---
 
 El tema del discurso de hoy es "Culto, Inferencia y Propensión." El camino que conduce o incita al aspirante a Parama Purusa es "culto" en el verdadero espíritu de la palabra. Cuando la meta es algo finito, donde el pábulo es algo limitado, la ruta y el movimiento no pueden ser tratados como culto.
 
-La práctica espiritual se basa en el culto: la adhesión a la doctrina de la secta se inicia y se practica en la fase primordial por el hacedor "I" de todos los seres vivos. El hacedor "I" sigue pensando, "estoy trabajando, estoy comiendo, estoy viendo, yo no sé nada, sé muchas cosas."
+La práctica espiritual se basa en el culto: la adhesión a la doctrina de la secta se inicia y se practica en la fase primordial por el "yo hago" de todos los seres vivos. El "yo hago" sigue pensando, "estoy trabajando, estoy comiendo, estoy viendo, yo no sé nada, sé muchas cosas."
 
-En los seres no humanos que viven, el hacedor "I" no se expresa correctamente, y es por eso que no pueden establecer su identidad individual o hacer práctica espiritual. En ciertos animales como perros y monos, el hacedor "I" es un poco más expresa o desarrollado que en otras criaturas. Es por ello que en el futuro ellos también pueden estar en una posición de hacer esta práctica.
+En los seres no humanos que viven, el "yo hago" no se expresa correctamente, y es por eso que no pueden establecer su identidad individual o hacer práctica espiritual. En ciertos animales como perros y monos, el "yo hago" es un poco más expresa o desarrollado que en otras criaturas. Es por ello que en el futuro ellos también pueden estar en una posición de hacer esta práctica.
 
-Usted también debe recordar que este hacedor "I" lleva a cabo la práctica espiritual con la ayuda de la energía vital, no con la ayuda de microvita positivo o negativo. De hecho, la energía vital acelera la velocidad del progreso espiritual. Microvita, positivo o negativo, ayudar al aspirante en su movimiento, pero el aspirante no puede utilizar la microvita.
+Usted también debe recordar que este "yo hago" lleva a cabo la práctica espiritual con la ayuda de la energía vital, no con la ayuda de microvita positivo o negativo. De hecho, la energía vital acelera la velocidad del progreso espiritual. Microvita, positivo o negativo, ayudar al aspirante en su movimiento, pero el aspirante no puede utilizar la microvita.
 
-Cuando el hacedor "I" del aspirante se incitó a la Entidad Suprema, que utiliza la energía vital adquirida a través de diferentes factores quinquelemental, pasando por diferentes planos de inferencias, ya través de diferentes propensiones de la mente humana, sin suprimir esas propensiones de la mente . La cuestión de la represión, la represión y la opresión no se plantea en el ámbito de culto espiritual. Usted es simplemente para mantener el equilibrio y el equilibrio - es decir, usted es para mover el mantenimiento adecuado paralelismo con las propensiones fundamentales de la mente humana. Así que la práctica espiritual es realizado por el hacedor "I" con la ayuda de la energía, de tantas energías que se convierte en energía vital cuando pasan a través de los diferentes planos de inferencias.
+Cuando el "yo hago" del aspirante se incitó a la Entidad Suprema, que utiliza la energía vital adquirida a través de diferentes factores quinquelemental, pasando por diferentes planos de inferencias, ya través de diferentes propensiones de la mente humana, sin suprimir esas propensiones de la mente . La cuestión de la represión, la represión y la opresión no se plantea en el ámbito de culto espiritual. Usted es simplemente para mantener el equilibrio y el equilibrio - es decir, usted es para mover el mantenimiento adecuado paralelismo con las propensiones fundamentales de la mente humana. Así que la práctica espiritual es realizado por el "yo hago" con la ayuda de la energía, de tantas energías que se convierte en energía vital cuando pasan a través de los diferentes planos de inferencias.
 
 No es correcto pensar que este movimiento, este avance espiritual, es algo puramente de carácter individual. Ninguna entidad en este universo existe individualmente. La nuestra es una familia universal. Todos y cada entidad - que viven y no vivos, el movimiento y que no se mueve - ayuda a otros para mantener no sólo su equilibrio, sino también el equilibrio de todo el universo, no sólo de este pequeño planeta Tierra. Hemos de avanzar juntos con todos.
 

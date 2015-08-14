@@ -1,7 +1,6 @@
 ---
 title: "La Dinámica de “Ka” and “Kha” con la Esperanza y la Preocupación  - del Corazon Espiritual"
-tags: 
-  - Escritos Espirituales
+tags: [Tantra Espiritual]
 layout: post
 comments: true
 published: true

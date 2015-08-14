@@ -1,5 +1,5 @@
 ---
-Title: Culto, Inferencia y Propensión - Anandamurti
+title: Culto, Inferencia y Propensión - Anandamurti
 tags: Tantra Social
 format: post
 comments: true
