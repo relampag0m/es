@@ -10,6 +10,7 @@ published: true
 
 
 
+
 {% capture images %}
 	/images/klee.jpg
 {% endcapture %}
@@ -19,9 +20,9 @@ Intento escribir sobre sujetos misticos. Sin embargo, las palabras no son sufici
 enlace para descargar la musica:    
 <a href="https://www.dropbox.com/s/yjj7lgxdjyatjbx/Los%20Doraditos.mp3?dl=0">https://www.dropbox.com/s/yjj7lgxdjyatjbx/Los%20Doraditos.mp3?dl=0</a>
 
-We belong to the golden race
+We belong to the golden race.
 
-We come down to share grace
+We come down to share grace.
 
 Seeing all beings
 
@@ -31,13 +32,13 @@ Bringing Light of Truth
 
 Taking every mind
 
-Back to You
+Back to You.
 
-Only to You
+Only to You.
 
 Baba Nam Kevalam.......
 
-One can't hold onto your world
+One can't hold onto your world.
 
 World escapes free,
 
@@ -49,7 +50,7 @@ Through your universe
 
 And turn our golden light
 
-Into purest white
+Into purest white.
 
 As we go
 
