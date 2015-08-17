@@ -14,6 +14,7 @@ published: true
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 Intento escribir sobre sujetos misticos. Sin embargo, las palabras no son suficientes!!! Una vez estaba muy enfermo despues de ayudar con muchas pacientes. Una luz dorada paso por la pared y me entro. Estaba curada. Era un tipo de microvita. Los viejitos por aca los conocen y los llamen "los doraditos." Me inspiro a escribir un cancion. Solo tocaba con mi flauta hasta mis amigos entraron to voz, guitara, y yukelele.
+
 enlace para descargar la musica:    
 <a href="https://www.dropbox.com/s/yjj7lgxdjyatjbx/Los%20Doraditos.mp3?dl=0">https://www.dropbox.com/s/yjj7lgxdjyatjbx/Los%20Doraditos.mp3?dl=0</a>
 
