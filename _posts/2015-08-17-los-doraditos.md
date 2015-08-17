@@ -2,8 +2,11 @@
 layout: post
 comment: true
 title: Los Doraditos
-tags: [Tantra Espiritual]
+tags: 
+  - Tantra Espiritual
+published: true
 ---
+
 
 {% capture images %}
 	/images/klee.jpg
@@ -36,4 +39,5 @@ Only to You
 
 
 copiar y pegar el enlace para descargar la musica:    
-https://www.dropbox.com/s/yjj7lgxdjyatjbx/Los%20Doraditos.mp3?dl=0   
+<a href="https://www.dropbox.com/s/yjj7lgxdjyatjbx/Los%20Doraditos.mp3?dl=0">https://www.dropbox.com/s/yjj7lgxdjyatjbx/Los%20Doraditos.mp3?dl=0</a>
+
