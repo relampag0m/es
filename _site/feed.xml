@@ -2,26 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Vishal Eckhart</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2015-08-14T12:46:20-04:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://tantramaya.org/es/feed.xml" />
+<link rel="alternate" type="text/html" href="http://tantramaya.org/es" />
+<updated>2015-08-17T05:51:38-04:00</updated>
+<id>http://tantramaya.org/es/</id>
 <author>
   <name>Vishal Eckhart</name>
-  <uri>/</uri>
+  <uri>http://tantramaya.org/es/</uri>
   
 </author>
 
 
 <entry>
+  <title type="html"><![CDATA[Los Doraditos]]></title>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/los-doraditos/" />
+  <id>http://tantramaya.org/es/los-doraditos</id>
+  <published>2015-08-17T00:00:00-04:00</published>
+  <updated>2015-08-17T00:00:00-04:00</updated>
+  <author>
+    <name>Vishal Eckhart</name>
+    <uri>http://tantramaya.org/es</uri>
+    <email></email>
+  </author>
+  <content type="html">
+    
+&lt;figure class=&quot;third&quot;&gt;
+    
+    &lt;a href=&quot;/images/klee.jpg&quot;&gt;&lt;img src=&quot;/images/klee.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;
+    
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Intento escribir sobre sujetos misticos. Sin embargo, las palabras no son suficientes!!! Una vez estaba muy enfermo despues de ayudar con muchas pacientes. Una luz dorada paso por la pared y me entro. Estaba curada. Era un tipo de microvita. Los viejitos por aca los conocen y los llamen “los doraditos.” Me inspiro a escribir un cancion. Solo tocaba con mi flauta hasta mis amigos entraron to voz, guitara, y yukelele.&lt;/p&gt;
+
+&lt;p&gt;We belong to the golden race
+We come down to share grace
+Seeing all beings
+Whatever tone or hue
+Bringing Light of Truth
+Taking every mind
+Back to You
+Only to You&lt;/p&gt;
+
+&lt;p&gt;Baba Nam Kevalam…….&lt;/p&gt;
+
+&lt;p&gt;One can’t hold onto your world
+World escapes free,
+Through one’s every word.
+Just hear our verse
+Through your universe
+And turn our golden light
+Into purest white
+As we go
+Only to You
+Back to You
+Only to You&lt;/p&gt;
+
+&lt;p&gt;copiar y pegar el enlace para descargar la musica:  &lt;br /&gt;
+https://www.dropbox.com/s/yjj7lgxdjyatjbx/Los%20Doraditos.mp3?dl=0&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/los-doraditos/&quot;&gt;Los Doraditos&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on August 17, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Culto, Inferencia y Propensión - Anandamurti]]></title>
- <link rel="alternate" type="text/html" href="/culto-inferencia-propensidad/" />
-  <id>/culto-inferencia-propensidad</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/culto-inferencia-propensidad/" />
+  <id>http://tantramaya.org/es/culto-inferencia-propensidad</id>
   <published>2015-08-14T00:00:00-04:00</published>
   <updated>2015-08-14T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -115,20 +168,20 @@ Jineyam lakśanach tadbrama.&lt;/p&gt;
 
 &lt;p&gt;Por último, lo que usted dice o piensa, todo es finalmente incrustado en la gracia de Parama Purusa. Cuanto antes esta verdad fundamental se dio cuenta, mejor será para todos.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/culto-inferencia-propensidad/&quot;&gt;Culto, Inferencia y Propensión - Anandamurti&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on August 14, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/culto-inferencia-propensidad/&quot;&gt;Culto, Inferencia y Propensión - Anandamurti&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on August 14, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[El Corazón Espiritual]]></title>
- <link rel="alternate" type="text/html" href="/el-corazon-espiritual/" />
-  <id>/el-corazon-espiritual</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/el-corazon-espiritual/" />
+  <id>http://tantramaya.org/es/el-corazon-espiritual</id>
   <published>2015-08-11T00:00:00-04:00</published>
   <updated>2015-08-11T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -1518,20 +1571,20 @@ cosmológico . Mente microcósmica es lo que contiene y proyecta este
 conjunto, o capricho de ideas e impresiones en tiempo y espacio con una
 noción de tu persona.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/el-corazon-espiritual/&quot;&gt;El Corazón Espiritual&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on August 11, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/el-corazon-espiritual/&quot;&gt;El Corazón Espiritual&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on August 11, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Microvita Y Tantra Maya c.11 "Cuentos Extraños de Microvita"]]></title>
- <link rel="alternate" type="text/html" href="/Microvita-and-Tantra-Maya-ch.11/" />
-  <id>/Microvita-and-Tantra-Maya-ch.11</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/Microvita-and-Tantra-Maya-ch.11/" />
+  <id>http://tantramaya.org/es/Microvita-and-Tantra-Maya-ch.11</id>
   <published>2015-08-04T00:00:00-04:00</published>
   <updated>2015-08-04T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -1626,6 +1679,16 @@ Se ha dicho que los yoguis tántricos muy desarrollados tienen el poder de la me
 &lt;p&gt;Más tarde, en otra visita, me dijo cómo los yoguis pueden dejar sus cuerpos y viajar a través de las dimensiones internas del tiempo y el espacio. Dijo que era otra realidad en la que no existen estos factores relativos de tiempo y espacio. Fue un Tierra de Suenos que era aún más real que la realidad física, una especie de repositorio astral de toda experiencia humana y la memoria, pasado, presente y futuro. Dijo que se podía saber lo que usted necesita saber y conocer a todo aquel que tenía que conocer en este plano de la realidad. Yo estaba ansioso por visitar este Salón de los Inmortales. Me dijo cómo salir de mi cuerpo y en qué momento de la noche que podía hacerlo. Salí de la conversación con el deseo de ver si podía de alguna manera saber algo del maestro de estos grandes hombres con que me encuentro y fue inspirado por. Más tarde en la noche segui la técnica prescrita. No pasó nada en ese momento. Más tarde me dormía y entonces empezo a trabajar. Me desperté por completo con una sacudida santa del rayo espiritual en mi columna vertebral. Podía sentir la kundalini ascendiendo. Podía sentirlo silbante a través del líquido cefalorraquídeo que se concentra en el interior del cerebro. Cuando se introduce dentro de la cabeza sólo había luz y sonido, cada color era de blanco y cada sonido dentro de Om. Durante toda la noche hubo un vórtice remolino de energía que se mueve alrededor de la corona de mi cabeza. No tenía forma, solo el sonido y el color. Yo estaba totalmente despierto, pero cuanto más la kundalini se elevó más que entré en un estado muy consciente de trance. Era más real que cualquier cosa jamás había experimentado. En lugar de un mundo de formas y de masas, todo estaba muy bien y la vibración calmante. Comprendí cómo el chakra de la corona y la glándula pineal era el receptor y el canal para entrar en el Macrocosmos infinito. Todo tenía sentido como idea pura. No había miedo o la incertidumbre de esta realidad desconocida. Todo era felicidad y me sentí muy libre y puro. Me di cuenta de que mi cuerpo estaba acostado en mi cama en un trance, pero que mi conciencia estaba muy claramente en el presente, sin nombres y formas. De vez en cuando me vería la forma de Anandamurti y toda la escena vibracional se convertiría en algo más parecido a un sueño, sólo que mucho más real y lúcido. Pensé “esto es un sueño”, pero yo sabía que era un tipo muy especial de sueño. Todavía a día de hoy recuerdo tan claro como un estado “despierto” de conciencia.&lt;/p&gt;
 
 &lt;p&gt;A día de hoy todavía estoy tratando de darse cuenta de la importancia de estas conversaciones detalladas con la aparición del gurú. Tal vez no era absolutamente necesario que él aparece como un ser humano a otro ser humano en un estado de sueño lúcido, pero fue un toque muy personal y afectiva de algo o alguien muy sublime. A medida que los años pasan estas revelaciones han vuelto aún más clara y la vida tiene más sentido. No fue mucho lo que pude entender como un poco novato espiritual en mis años veinte. Fueron experiencias que por su naturaleza necesitan un tiempo de vida completo a hacerse realidad. Aunque nunca he predicado o tratado de convencer a los demás acerca de la divinidad de Anandamurti, nunca he dudado esta influencia en mi vida. Durante muchos años yo ni siquiera hablo de él. Fue una lucha sutil de forma con lo sin forma, y la idea de que el arquetipo gurú realidad puede aparecer con una forma humana. Siempre me consideré este último como una posibilidad relativa y no quería que mis experiencias para ser una especie de “prueba” para el ego para hacer ideas fijas sobre el infinito. Este es un error sutil que causa un gran daño a una ideología de otro modo puro, si se trata de uno con sus conjuntos personales de las ideas o de la ideología de una sociedad espiritual. Si misterio, sutileza y pensamiento libre sustituido por la concreción y la conformidad, entonces sólo el dogma permanecerá. Los seres humanos armados con las ideas exclusivos siempre terminan creando problemas por sí mismos y los demás. Yo siempre trato de hacer referencia a las ideas filosóficas de A’nandamu’rti que la Conciencia Suprema es infinito y sin forma. Con los que trató de imponer la forma absoluta del gurú, sólo vi la la fabricación de una religión y pronto aprendí que no tenía sentido discutir estos asuntos. Con los años he enseñado la meditación sin forma con un sistema totalmente diferente a mis amigos sin hacer referencia a Anandamurti. Sin embargo, muchos de mis amigos siguen teniendo experiencias profundas y sueños de Anandamurti similares a lo mio. Es algo que sólo sigue creciendo en silencio dentro de mí y otros. Él mismo se limitó a decir que era, es y seguirá siendo un misterio. Sin embargo, la filosofía que dejó es muy clara, racional y lúcido. Espero que los demás encuentran algo especial en sus obras que yo estoy compartiendo. Ellos fueron recopilados como libros, pero todos ellos se basan en conversaciones que dio durante varias décadas a miles de personas.realidad puede aparecer con una forma humana. Siempre me consideré este último como una posibilidad relativa y no quería que mis experiencias para ser una especie de “prueba” para el ego para hacer ideas fijas sobre el infinito. Este es un error sutil que causa un gran daño a una ideología de otro modo puro, si se trata de uno con sus conjuntos personales de las ideas o de la ideología de una sociedad espiritual. Si misterio, sutileza y pensamiento libre sustituido por la concreción y la conformidad, entonces sólo el dogma permanecerá. Los seres humanos armados con las ideas exclusivos siempre terminan creando problemas por sí mismos y los demás. Yo siempre trato de hacer referencia a las ideas filosóficas de A’nandamu’rti que la Conciencia Suprema es infinito y sin forma. Con los que trató de imponer la forma absoluta del gurú, sólo vi la la fabricación de una religión y pronto aprendí que no tenía sentido discutir estos asuntos. Con los años he enseñado la meditación sin forma con un sistema totalmente diferente a mis amigos sin hacer referencia a Anandamurti. Sin embargo, muchos de mis amigos siguen teniendo experiencias profundas y sueños de Anandamurti similares a lo mio. Es algo que sólo sigue creciendo en silencio dentro de mí y otros. Él mismo se limitó a decir que era, es y seguirá siendo un misterio. Sin embargo, la filosofía que dejó es muy clara, racional y lúcido. Espero que los demás encuentran algo especial en sus obras que yo estoy compartiendo. Ellos fueron recopilados como libros, pero todos ellos se basan en conversaciones que dio durante varias décadas a miles de personas.&lt;/p&gt;
+
+&lt;h3 id=&quot;mis-candidatos-bodhisattvas&quot;&gt;Mis Candidatos Bodhisattvas&lt;/h3&gt;
+
+&lt;p&gt;La verdadera visión espiritual a través del medio de las formas mentales sublimes es una verdadera forma de la gracia divina. Es un iluminación y lluvia de pensamiento y sentimiento elevado de que ha sido diseñado por la inteligencia profunda que nos guíe hacia adelante y hacia adentro. Forma verdadera nos ayuda finalmente entender lo que no tiene forma, el Testigo tranquilo que es siempre ahora. Visión mística es más que el simple conocimiento. A través de ella, el conocimiento se transmite, pero de la manera más hermosa y significativa. Uno nunca podía olvidar tales experiencias; cada vez que se recuerda uno recibe el mensaje original y se funde mas en tu paz y tu alegría en silencio.&lt;/p&gt;
+
+&lt;p&gt;Creo que Tarkovsky fue el más místico “poeta de la imagen” de los tiempos modernos en que realmente podía transmitir ideas místicas profundas a través de la forma cinematográfica. Cuando veo las últimas escenas de “Stalker” o “Solaris” estoy profundamente conmovido en una emocion elevada y maravillo sobre la experiencia por horas, sorprendido de que su genio podía expresar algo que siempre he considerado más allá de la expresión. Esa es la verdadera poesía. Sin embargo, incluso esta belleza es realmente sólo una interpretación, y por lo tanto una limitación, de la visión interior, que siempre es inefable. Los grandes artistas místicos dan un poquito de lo que interiormente ven. Incluso el arte de Tarvovsky palidece en comparación con la visión mas sincera de incluso la mente más humilde. El reino de los cielos es verdaderamente dentro y busca activamente mentes preparadas en su misteriosa variedad inagotable de manifestaciones.&lt;/p&gt;
+
+&lt;p&gt;El otro día me desperté justo antes del amanecer, me sentó en la cama e incluso antes de empezar a hacer un poco de meditación, sentí una extraña vibración en el lado derecho de mi cabeza. Interiormente, me miré y sentí y vi muy claramente en el ojo de mi mente una forma humana muy suave y agradable. Lo reconocí. Yo sabía que esto estaba todo pasando en el “Teatro Mágico” adentro y pedí esta aparición de lo que estaba haciendo allí. El no responde, sólo me mira amable, en el silencio amoroso. Reflexioné y pensé “Sí, ya sé por qué estás aquí. Su humanismo me conmovió profundamente y despertó algo muy profundo, pero casi me he olvidado de sus orígenes y cómo llegó a mí en esta vida. Su doctor Rieux en “La Peste” preguntó si era posible ser un santo, incluso si no hubiera Dios. Él sacrificó todo por el bienestar de los demás, sin embargo, que ni siquiera cree en dios. Siempre sospeché esto de ti, que tu nunca podrías poner su compasión bajo un concepto popular de lo que llamamos “Dios”. Los que no captaron su profundidad te llaman un “existencialista.” La experiencia humana real de la compasión era algo tan mucho más que conceptos, corruptos confusas. Tu me iniciaste en la compasión silenciosa de Buda antes de que yo fui familiarizando con las enseñanzas budistas. Sospecho que muchos otros también fueron ayudados por ti, humilde ángel que descendió al “absurdo”, del siglo 20. ¿Es aquí donde te encuentras ahora, en este espacio etéreo, estimulando las neuronas del encarnado de manera que no nos olvidamos de amor? ¿Existes dentro del espíritu universal, o eres nada más un recuerdo en la mente colectiva de la humanidad todavía atado a esta tierra polvorienta, o simplemente una aparición de mi idiosincrasia tratando de dar sentido a sí mismos?” La aparición permanece en silencio.&lt;/p&gt;
+
+&lt;p&gt;La forma desaparece y me siento la misma pulsación suave que estaba en el lado izquierdo de la cabeza se mueve hacia el lado derecho del pecho, en el corazón espiritual. A través del corazón espiritual, la mente se eleva hacia una luz muy fino que rodea el planeta, una atmósfera espiritual sutil, diáfana, miro hacia abajo a mi valle desde tan alto en este espacio etéreo. A diferencia de estar en un avión o un globo y resistir la gravedad, nada tiene peso y las formas son de pura luz. Los únicos movimientos son pulsaciones de pensamiento y sentimiento. Él vino y me mostró su punto de vista, cómo ve las cosas, cómo los “muertos” vislumbran sobre nosotros, y luego regresó al infinito forma. Las rocas de las montañas son reflejos de pensamiento cosmico, todo es consciente y está hecho de luz. La vida es inherente en todas las cosas. Vagamente podía ver los rostros humanos que toman la forma de las rocas de la montaña. Ellos son ásperas, turgentes y sin refinacion, como los neandertales, pero una fuerza invisible sigue amandolos más allá del tiempo y forma, purificando y refinando los en algo más grande, hermoso que aún no se ha completado. Un inmenso amor mira hacia abajo sobre el planeta y espera a que todas las formas de vida para manifestarse y evolucionar espíritu, lentamente. Así que era Camus un símbolo o una mente sin cuerpo que vino a mí? No importa. Todas las experiencias fenomenales de la mente, hasta las visiones más espirituales, están en mejores mapas y guías, amistosas del universo para ir aquí o allá, o no hacerlo. El significado de la visión es lo que es importante. Para sentirse en armonía con la tierra, como lo hice en esta experiencia, es algo tan profundo que a pesar de que yo escribo la visión de Camus como una alucinación, el significado profundo de la experiencia que se presiona de manera indeleble en mi mente y nunca puedo negar su belleza y sublimidad. La visión inspira grandes sentimientos, tal vez algo similar a lo que los bodhisattvas se sienten. Microvita son inteligencias vivientes que existen en el más fino, planos mentales de la realidad. Tienen muchas cualidades y se manifiestan a través de diversas formas de la nobleza humana con valor, ingenio y amor. ¿Acaso Camus expresa compasión o compasión expresa Camus? Para el no-dualista realmente no hay diferencia. Todas las almas son sólo chispas del fuego eterno de Brahma. Estos microvita sin cuerpo guían la evolución de la conciencia en todos los seres en el planeta e incluso ayudan a dar forma a nuestros pensamientos y sentimientos. Este mundo físico realmente es un reflejo de los mecanismos internos de espíritu. La imaginación es la clave para realidades superiores, y como Tagore señalar, que con más imaginación, algo es menos imaginaria.&lt;/p&gt;
 
 &lt;h3 id=&quot;el-tantra-de-la-flauta-y-el-neem&quot;&gt;El Tantra de la Flauta y el Neem&lt;/h3&gt;
 
@@ -1769,20 +1832,20 @@ Uno toma el árbol como un símbolo para la meditación y al mismo tiempo tomand
 &lt;p&gt;&lt;span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;es&quot; tabindex=&quot;-1&quot;&gt;&lt;span title=&quot;I have found that the study of the vrttis, especially those of the svadhistana, are paramount for finding the psychological balance that permits intuitive, spiritual development.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/Microvita-and-Tantra-Maya-ch.11/&quot;&gt;Microvita Y Tantra Maya c.11 &quot;Cuentos Extraños de Microvita&quot;&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on August 04, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/Microvita-and-Tantra-Maya-ch.11/&quot;&gt;Microvita Y Tantra Maya c.11 &quot;Cuentos Extraños de Microvita&quot;&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on August 04, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Los Célibes y el Sexo parte2 - "Los Célibes No-Tan-Célibes"]]></title>
- <link rel="alternate" type="text/html" href="/Los-Celibes-y-el-Sexo-parte2/" />
-  <id>/Los-Celibes-y-el-Sexo-parte2</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/Los-Celibes-y-el-Sexo-parte2/" />
+  <id>http://tantramaya.org/es/Los-Celibes-y-el-Sexo-parte2</id>
   <published>2015-08-03T00:00:00-04:00</published>
   <updated>2015-08-03T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -1798,20 +1861,20 @@ Uno toma el árbol como un símbolo para la meditación y al mismo tiempo tomand
 
 &lt;p&gt;Chidghananda era demasiado serio acerca de tales cosas para difundir chismes. Creo que estaba tratando de decirnos algo. Tiene un poco de algo que ver con la ley de los opuestos, del drama enantiodromía Heraclitiana. Cuando uno va un poco demasiado lejos con cualquier forma de machismo, ya sea física, mental o espiritual, todo la fuerza contrario, reprimido y distorsionado encuentra una manera de romper la superficie de una mente unilateral e extremo y obliga a un cambio radical . “Bien, hombre machista, ahora vas a ser una mujer,” es lo que la ley del karma quiere enseñarles. Esto puede explicar todas las distorsiones sexuales extranos con los monjes en la actualidad. La imagen de muchos de estos líderes se ha quemado. Cuando los monjes más jóvenes pierden el respeto por sus mayores, pierden la fe en sus propias capacidades, así. Es mucho más fácil caer cuando se pierde la confianza de uno. Naturaleza o Prakrti, no deje que se pasa, sin embargo. Este tipo de abuso provoca reacciones muy fuertes. La sexualidad es una energía muy delicado y dañarlo o provocar distorsiones tiene consecuencias muy intensos. Estos monjes más tarde tienen que vivir vidas de duplicidad y quizás desarrollar perversiones e indulgencias extremas debido a esta represión y la distorsión que se escapa con una locura salvaje. Es mucho más sano vivir una vida familiar normal que este tipo de vida falsa. Es difícil para enderezar estos nudos del libido una vez que estén establecidos. Tal vez uno no puede dejar de extinguir estas reacciones en un tiempo de vida. Uno quizá renace con todo tipo de complejos, la homosexualidad, o problemas de identificación sexual. Creo Anandamurti mostró Karunananda esta ley de los opuestos para tratar de conseguir que cambie de rumbo. Él sabía que si continuaba con su machismo, entonces él dañaría a los demás y a sí mismo. “Si él puede caer, entonces ¿qué hay de mí ?,” es lo que la mayoría de nosotros pensaríamos.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/Los-Celibes-y-el-Sexo-parte2/&quot;&gt;Los Célibes y el Sexo parte2 - &quot;Los Célibes No-Tan-Célibes&quot;&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on August 03, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/Los-Celibes-y-el-Sexo-parte2/&quot;&gt;Los Célibes y el Sexo parte2 - &quot;Los Célibes No-Tan-Célibes&quot;&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on August 03, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Los Poseídos]]></title>
- <link rel="alternate" type="text/html" href="/posession/" />
-  <id>/posession</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/posession/" />
+  <id>http://tantramaya.org/es/posession</id>
   <published>2015-08-01T00:00:00-04:00</published>
   <updated>2015-08-01T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -1838,20 +1901,20 @@ Al mismo tiempo un furúnculo gigante apareció en mi mejilla. Era enorme e hinc
 
 &lt;p&gt;Después de un par de horas me recuperé un poco. La mujer se había quedado dormido y yo fuimos a hablar con su marido. Yo estaba agotado, pero dije que creo que ahora todo va a estar bien. Parecía un poco aliviado. Me desperté con un terrible dolor de cabeza. Se quedó conmigo una semana  mientras se digirió esta presencia. Mientras tanto, la familia se enteró de la meditación y nos pasamos mucho tiempo con el bebé y todo estaba bien. Fue la experiencia más terrible esclarecedor que he tenido hasta ese momento de mi vida. Fue el comienzo de estudios de microvita viva que sólo ha veulto más intenso como pasan los años.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/posession/&quot;&gt;Los Poseídos&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on August 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/posession/&quot;&gt;Los Poseídos&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on August 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[La Dinámica de “Ka” and “Kha” con la Esperanza y la Preocupación  - del Corazon Espiritual]]></title>
- <link rel="alternate" type="text/html" href="/la-esperanza-y-la-preocupacion/" />
-  <id>/la-esperanza-y-la-preocupacion</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/la-esperanza-y-la-preocupacion/" />
+  <id>http://tantramaya.org/es/la-esperanza-y-la-preocupacion</id>
   <published>2015-07-28T00:00:00-04:00</published>
   <updated>2015-07-28T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2053,20 +2116,20 @@ vrttis impulsivos del Manipura (ambición, apego ciego, sadismo, etc.).&lt;/p&gt
 
 &lt;p&gt;del “Corazon Espiritual”  https://docs.zoho.com/file/cgaw1279d869436ab46849c6230be2ba949a7&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/la-esperanza-y-la-preocupacion/&quot;&gt;La Dinámica de “Ka” and “Kha” con la Esperanza y la Preocupación  - del Corazon Espiritual&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on July 28, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/la-esperanza-y-la-preocupacion/&quot;&gt;La Dinámica de “Ka” and “Kha” con la Esperanza y la Preocupación  - del Corazon Espiritual&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on July 28, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Los Célibes y el Sexo]]></title>
- <link rel="alternate" type="text/html" href="/los-celibes-y-el-sexo/" />
-  <id>/los-celibes-y-el-sexo</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/los-celibes-y-el-sexo/" />
+  <id>http://tantramaya.org/es/los-celibes-y-el-sexo</id>
   <published>2015-07-21T00:00:00-04:00</published>
   <updated>2015-07-21T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2109,20 +2172,20 @@ vrttis impulsivos del Manipura (ambición, apego ciego, sadismo, etc.).&lt;/p&gt
 &lt;p&gt;&lt;span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;es&quot; tabindex=&quot;-1&quot;&gt;&lt;span title=&quot;I have found that the study of the vrttis, especially those of the svadhistana, are paramount for finding the psychological balance that permits intuitive, spiritual development.&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt;&quot;&gt;
 &lt;/span&gt;&lt;span title=&quot;This is an excerpt from the &amp;quot;Svadhistana Vortex&amp;quot; chapter of A Name to the Nameless.&quot;&gt;Este es un extracto del capítulo  “El Vortice Svadhistana” de Un Nombre Para el Infinito. &lt;/span&gt;&lt;span title=&quot;The rest of the chapter explores how the 6 propensities of this vortex mask may mask themselves under sexuality.&quot;&gt;El resto del capítulo explora cómo las 6 propensiones  o emociones pueden enmascarar a sí mismos bajo la sexualidad. &lt;/span&gt;&lt;span title=&quot;You can find it on this site under Archives in the menu or download the whole work on pdf.&quot;&gt;Lo puedes encontrar en este sitio bajo Archivos en el menú o descargar todo el trabajo en pdf.   &lt;/span&gt;&lt;span title=&quot;see menu.&quot;&gt;ver menú.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/los-celibes-y-el-sexo/&quot;&gt;Los Célibes y el Sexo&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on July 21, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/los-celibes-y-el-sexo/&quot;&gt;Los Célibes y el Sexo&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on July 21, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Forma y Sin Forma]]></title>
- <link rel="alternate" type="text/html" href="/forma-y-sin-forma/" />
-  <id>/forma-y-sin-forma</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/forma-y-sin-forma/" />
+  <id>http://tantramaya.org/es/forma-y-sin-forma</id>
   <published>2015-07-16T00:00:00-04:00</published>
   <updated>2015-07-16T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2148,20 +2211,20 @@ vrttis impulsivos del Manipura (ambición, apego ciego, sadismo, etc.).&lt;/p&gt
 
 &lt;p&gt;A día de hoy todavía estoy tratando de darse cuenta de la importancia de estas conversaciones detalladas con la aparición del gurú. Tal vez no era absolutamente necesario que él aparece como un ser humano a otro ser humano en un estado de sueño lúcido, pero fue un toque muy personal y afectiva de algo o alguien muy sublime. A medida que los años pasan estas revelaciones han vuelto aún más clara y la vida tiene más sentido. No fue mucho lo que pude entender como un poco novato espiritual en mis años veinte. Fueron experiencias que por su naturaleza necesitan un tiempo de vida completo a hacerse realidad. Aunque nunca he predicado o tratado de convencer a los demás acerca de la divinidad de Anandamurti, nunca he dudado esta influencia en mi vida. Durante muchos años yo ni siquiera hablo de él. Fue una lucha sutil de forma con lo sin forma, y la idea de que el arquetipo gurú realidad puede aparecer con una forma humana. Siempre me consideré este último como una posibilidad relativa y no quería que mis experiencias para ser una especie de “prueba” para el ego para hacer ideas fijas sobre el infinito. Este es un error sutil que causa un gran daño a una ideología de otro modo puro, si se trata de uno con sus conjuntos personales de las ideas o de la ideología de una sociedad espiritual. Si misterio, sutileza y pensamiento libre sustituido por la concreción y la conformidad, entonces sólo el dogma permanecerá. Los seres humanos armados con las ideas exclusivos siempre terminan creando problemas por sí mismos y los demás. Yo siempre trato de hacer referencia a las ideas filosóficas de A’nandamu’rti que la Conciencia Suprema es infinito y sin forma. Con los que trató de imponer la forma absoluta del gurú, sólo vi la la fabricación de una religión y pronto aprendí que no tenía sentido discutir estos asuntos. Con los años he enseñado la meditación sin forma con un sistema totalmente diferente a mis amigos sin hacer referencia a Anandamurti. Sin embargo, muchos de mis amigos siguen teniendo experiencias profundas y sueños de Anandamurti similares a lo mio. Es algo que sólo sigue creciendo en silencio dentro de mí y otros. Él mismo se limitó a decir que era, es y seguirá siendo un misterio. Sin embargo, la filosofía que dejó es muy clara, racional y lúcido. Espero que los demás encuentran algo especial en sus obras que yo estoy compartiendo. Ellos fueron recopilados como libros, pero todos ellos se basan en conversaciones que dio durante varias décadas a miles de personas.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/forma-y-sin-forma/&quot;&gt;Forma y Sin Forma&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on July 16, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/forma-y-sin-forma/&quot;&gt;Forma y Sin Forma&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on July 16, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[El Tantra de la Flauta y el Neem]]></title>
- <link rel="alternate" type="text/html" href="/El-Tantra-de-la-Flautal-y-el-Neem/" />
-  <id>/El-Tantra-de-la-Flautal-y-el-Neem</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/El-Tantra-de-la-Flautal-y-el-Neem/" />
+  <id>http://tantramaya.org/es/El-Tantra-de-la-Flautal-y-el-Neem</id>
   <published>2015-07-02T00:00:00-04:00</published>
   <updated>2015-07-02T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2193,20 +2256,20 @@ vrttis impulsivos del Manipura (ambición, apego ciego, sadismo, etc.).&lt;/p&gt
 
 &lt;h1 id=&quot;tantra-tantramaya-yoga-neem-nature&quot;&gt;tantra #tantramaya #yoga #neem #nature&lt;/h1&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/El-Tantra-de-la-Flautal-y-el-Neem/&quot;&gt;El Tantra de la Flauta y el Neem&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on July 02, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/El-Tantra-de-la-Flautal-y-el-Neem/&quot;&gt;El Tantra de la Flauta y el Neem&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on July 02, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[El Tantra del Árbol]]></title>
- <link rel="alternate" type="text/html" href="/El-Tantra-del-Arbol/" />
-  <id>/El-Tantra-del-Arbol</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/El-Tantra-del-Arbol/" />
+  <id>http://tantramaya.org/es/El-Tantra-del-Arbol</id>
   <published>2015-07-01T00:00:00-04:00</published>
   <updated>2015-07-01T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2228,20 +2291,20 @@ Durante este tiempo, me hice amigo de Pluma Blanca, un yogui maya de Campeche. E
 Uno toma el árbol como un símbolo para la meditación y al mismo tiempo tomando refugio real bajo el árbol y participando con su escudo de energía electromagnética mientras meditar. Según los místicos mayas “nada malo puede ocurrir bajo la ceiba.” La fuerza hacia arriba que crece fuera de la tierra ayuda a despertar la kundalini en el humano tambien, mientras que la fuerza descendente de convertir el aire en la masa y el desarrollo de raíces profundas en la tierra ayuda a volver la kundalini hacia abajo. La mente debe volar hacia arriba, hacia el espíritu, pero también tiene que volver a la tierra, al menos durante el tiempo que uno esté en esta tierra. Al igual que los yoguis de la India, Pluma Blanca dice que un yogui completa su práctica espiritual por traer el kundalini hacia abajo, desde la corona y hacia abajo en el corazón espiritual. Esto proporciona una base para la mente a mitad de camino a lo largo de la columna vertebral. Uno puede estar comprometido con alegría en la existencia aquí sin dejar de ser en un estado sutil de ser al mismo tiempo mantener a uno mismo en la tierra y en el cuerpo. Al igual como la gran ceiba, uno se extiende de alta en el cielo al mismo tiempo que uno se enraiza profundamente en la tierra. La fuerza de  kundalini sin guiar finalmente puede liberar uno pero puede matar a su cuerpo si no tiene cuidado. Uno se apega a la felicidad y la experiencia espiritual, pero hay que saber cómo equilibrar esa bienaventura. Es mejor ahorrar  la intensidad de cuando en realidad es hora de dejar todo el trabajo en el mundo y por lo tanto el cuerpo físico, y nunca antes de este tiempo. Al igual que el Upanishad dice, “deseo de vivir 100 años mientras trabajar en la unidad alegre con Brahma.”
 #tantra #tantramaya #yoga&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/El-Tantra-del-Arbol/&quot;&gt;El Tantra del Árbol&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on July 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/El-Tantra-del-Arbol/&quot;&gt;El Tantra del Árbol&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on July 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[El Moralismo - Anandamurti cap.2 de Prout]]></title>
- <link rel="alternate" type="text/html" href="/el-moralismo-anandamurti-cap-2-de-prout/" />
-  <id>/el-moralismo-anandamurti-cap-2-de-prout</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/el-moralismo-anandamurti-cap-2-de-prout/" />
+  <id>http://tantramaya.org/es/el-moralismo-anandamurti-cap-2-de-prout</id>
   <published>2015-06-30T00:00:00-04:00</published>
   <updated>2015-06-30T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2318,20 +2381,20 @@ Uno toma el árbol como un símbolo para la meditación y al mismo tiempo tomand
 &lt;p&gt;&lt;span title=&quot;Remember, humanity&#39;s very existence is based on morality;&quot;&gt;Recuerde, la existencia misma de la humanidad se basa en la moralidad; &lt;/span&gt;&lt;span title=&quot;when morality leads human beings to the fullest expression of their finer human qualities, then alone is its practical value fully realized.&quot;&gt;cuando la moralidad conduce a los seres humanos en la máxima expresión de sus cualidades humanas más finos, sólo entonces es su valor práctico plenamente efectivos. &lt;/span&gt;&lt;span title=&quot;The concerted effort to bridge the gap between the first expression of morality and establishment in universal humanism is called “social progress”.&quot;&gt;El esfuerzo concertado para reducir la brecha entre la primera expresión de la moralidad y la creación en el humanismo universal se llama “progreso social”. &lt;/span&gt;&lt;span title=&quot;And the collective body of those who are engaged in the concerted effort to conquer this gap, I call “society”.&amp;lt;br /&amp;gt; &quot;&gt;Y el cuerpo colectivo de los que están comprometidos en el esfuerzo concertado para conquistar esta brecha, que yo llamo “la sociedad”.
 &lt;/span&gt;&lt;span title=&quot;1959&quot;&gt;1959&lt;/span&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/el-moralismo-anandamurti-cap-2-de-prout/&quot;&gt;El Moralismo - Anandamurti cap.2 de Prout&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on June 30, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/el-moralismo-anandamurti-cap-2-de-prout/&quot;&gt;El Moralismo - Anandamurti cap.2 de Prout&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on June 30, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Mis Cuentos Favoritos de Acharya Iishvarakrsnananda]]></title>
- <link rel="alternate" type="text/html" href="/mis-cuentos-favoritos-de-acharya-iishvarakrsnananda/" />
-  <id>/mis-cuentos-favoritos-de-acharya-iishvarakrsnananda</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/mis-cuentos-favoritos-de-acharya-iishvarakrsnananda/" />
+  <id>http://tantramaya.org/es/mis-cuentos-favoritos-de-acharya-iishvarakrsnananda</id>
   <published>2015-06-22T00:00:00-04:00</published>
   <updated>2015-06-22T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2392,20 +2455,20 @@ Yo estaba caminando como un loco en Lake Gardens. Un dada se acercó y me dijo q
 
 &lt;p&gt; &lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/mis-cuentos-favoritos-de-acharya-iishvarakrsnananda/&quot;&gt;Mis Cuentos Favoritos de Acharya Iishvarakrsnananda&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on June 22, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/mis-cuentos-favoritos-de-acharya-iishvarakrsnananda/&quot;&gt;Mis Cuentos Favoritos de Acharya Iishvarakrsnananda&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on June 22, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[4 Cuentos Sobre Pluma Blanca]]></title>
- <link rel="alternate" type="text/html" href="/4-Cuentas-Sobre-Pluma-Blanca/" />
-  <id>/4-Cuentas-Sobre-Pluma-Blanca</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/4-Cuentas-Sobre-Pluma-Blanca/" />
+  <id>http://tantramaya.org/es/4-Cuentas-Sobre-Pluma-Blanca</id>
   <published>2015-06-22T00:00:00-04:00</published>
   <updated>2015-06-22T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2443,20 +2506,20 @@ Se ha dicho que los yoguis tántricos muy desarrollados tienen el poder de la me
 
 &lt;p&gt;En ese momento la mujer racista salió de la tienda y Pluma Blanca comenzó a reír como un niño pequeño. Era como si hubiera hecho algo malo y estaba tratando de ocultarlo. Un perro callejero se acercó a la mujer, levantó la pierna y empapó sus calcetines.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/4-Cuentas-Sobre-Pluma-Blanca/&quot;&gt;4 Cuentos Sobre Pluma Blanca&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on June 22, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/4-Cuentas-Sobre-Pluma-Blanca/&quot;&gt;4 Cuentos Sobre Pluma Blanca&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on June 22, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Reflecciones sobre 2 Revoluciones 2 Decadas Despues]]></title>
- <link rel="alternate" type="text/html" href="/reflecciones-sobre-2-revoluciones-2-decadas-despues/" />
-  <id>/reflecciones-sobre-2-revoluciones-2-decadas-despues</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/reflecciones-sobre-2-revoluciones-2-decadas-despues/" />
+  <id>http://tantramaya.org/es/reflecciones-sobre-2-revoluciones-2-decadas-despues</id>
   <published>2015-06-01T00:00:00-04:00</published>
   <updated>2015-06-01T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2480,20 +2543,20 @@ Anandamurti no era anti-violencia en la estricta ya que como Gandhi. Vio una rev
 
 &lt;h1 id=&quot;zapatistas-ezln&quot;&gt;zapatistas #ezln&lt;/h1&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/reflecciones-sobre-2-revoluciones-2-decadas-despues/&quot;&gt;Reflecciones sobre 2 Revoluciones 2 Decadas Despues&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on June 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/reflecciones-sobre-2-revoluciones-2-decadas-despues/&quot;&gt;Reflecciones sobre 2 Revoluciones 2 Decadas Despues&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on June 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[El Neohumanismo de Sadvipras - Anandamurti]]></title>
- <link rel="alternate" type="text/html" href="/el-neohumanismo-de-sadvipras/" />
-  <id>/el-neohumanismo-de-sadvipras</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/el-neohumanismo-de-sadvipras/" />
+  <id>http://tantramaya.org/es/el-neohumanismo-de-sadvipras</id>
   <published>2014-06-09T00:00:00-04:00</published>
   <updated>2014-06-09T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2528,20 +2591,20 @@ Ardhadańda tár tara thámibená Bhai.&lt;/p&gt;
 1970
 #prout #anandamurti #socialismo&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/el-neohumanismo-de-sadvipras/&quot;&gt;El Neohumanismo de Sadvipras - Anandamurti&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on June 09, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/el-neohumanismo-de-sadvipras/&quot;&gt;El Neohumanismo de Sadvipras - Anandamurti&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on June 09, 2014.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[La Elite]]></title>
- <link rel="alternate" type="text/html" href="/la-elite/" />
-  <id>/la-elite</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/la-elite/" />
+  <id>http://tantramaya.org/es/la-elite</id>
   <published>2014-05-01T00:00:00-04:00</published>
   <updated>2014-05-01T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2568,20 +2631,20 @@ Alrededor de donde vivíamos en el norte de México, la mayoría de los hombres 
 &lt;p&gt;Los seres humanos que no aprendieron lo suficiente sobre su propia humanidad crean familias que son como instituciones mentales. Los niños son abandonados emocionalmente y completamente vulnerables a todas las influencias y los vicios pseudo-cultural. Adicción a las drogas y el alcohol es casi lo mismo que los de los barrios pobres. Oh si sólo estaban destruyendo sólo a sí mismos en el proceso! Sin embargo, estos parásitos se acumulan todo, pero sólo dejan que se pudra en sus arcas mientras destruye a quien se interponga en su camino. Realmente sentaron un precedente para el resto de la sociedad corrupta, poco profunda, de mente media materialista que envidia y sigue su ejemplo. Pero, ¿quién realmente quiere oír todo esto? Hay cuentas que pagar y cosas para comprar y tantas mentiras que contar. En los últimos años aquí en México he visto cosas que casi no puedo hablar conmigo mismo y mis amigos más cercanos. Tenía que asegurarse de que los perros estaban muy bien alimentados porque de toda la carnicería humana en las montañas cercanas. Las fosas comunes se convirtieron en demasiado trabajo. Más tarde, comenzaran tirando los cadáveres a la orilla del camino. Sin embargo, sé que hay una mayor ojo que ve todo esto y puede ponerlo en perspectiva. He visto ejemplos notables de la resistencia heroica de este terror en las personas más sencillas y fieles que me inspiran.
 Una señora en una aldea local salió de su casa durante un tiroteo contra su familia. Ella corrió directamente hacia los agresores gritando “Baba Nam Kevalam”, un mantra que significa “sólo hay amor.” Ella se precipitó sobre ellos y tomó el arma de las manos del asesino adolescente. Nunca se habían encontrado con tal intrepidez y simplemente fueron aturdidos. Hemos vivido un infierno aquí en Buchenvald, México. Pero estos son de paso, los asuntos humanos. Y qué es la humanidad, sino un asunto de paso. La tierra todavía está vivo y es realmente acerca de mostrarnos como tal. “Aquellos que protegen dharma están protegidos por dharma.” La única vez que he temido perder mi vida estaba en un estado de emoción espiritual cuando estaba tan abrumado por una alegría interior que pensé que iba a llevar me fuera hacia el Infinito antes de ser capaz de ver el despertar completo del Sexto Sol y el regreso de “Mexico Indio.”&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/la-elite/&quot;&gt;La Elite&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on May 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/la-elite/&quot;&gt;La Elite&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on May 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[La Negatividad Fundamental]]></title>
- <link rel="alternate" type="text/html" href="/la-negatividad-fundamental/" />
-  <id>/la-negatividad-fundamental</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/la-negatividad-fundamental/" />
+  <id>http://tantramaya.org/es/la-negatividad-fundamental</id>
   <published>2014-04-01T00:00:00-04:00</published>
   <updated>2014-04-01T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2606,20 +2669,20 @@ La mente intuitiva se relaciona con el llamado “factor aérea”. Este “aire
 &lt;p&gt;Con el despertar de la mente intuitiva, uno realmente comienza a ver claramente cómo hay una sola vida universal en el universo, que todos sonn microcosmos en el macreta, pero realmente tiene mucho que ver.ocosmos. Ondas de pensamiento que surgen aquí colapsan en la materia, en la forma. Uno ve cómo los secretos del pensamiento espiritual y sentimiento puro convierten en la creación material. La existencia no es más que la cristalización de estas impresiones sutiles que se manifiestan en la mente cósmica de la que usted es ahora una parte de. Despertar el kundalini aquí trae la energia de una explosión de supeeta, pero realmente tiene mucho que ver.ta, pero realmente tiene mucho que ver.ernova al corazón que estalla y proyecta sus ieta, pero realmente tiene mucho que ver.ntenciones más nobles en el univeeta, pero realmente tiene mucho que ver.rso entero. Es vital que hay yoguis eta,eta, pero realmente tiene mucho que ver. pero realmente tiene mucho que ver.yeta,eta, pero realmente tiene mucho que ver. pero realmente tiene mucho que ver. tántricos y que están llevando a cabo esta tarea, a fin de despejar el camino un poco y preparar el camino para los demás.eta, pero realmente tiene mucho que ver.
 Lo qué es más importante en la meditación es el esfuerzo sincero. Rara vez unoeta, pero realmente tiene mucho que ver. piensa que las victorias en el ámbito privado tienen algo que ver con la evolución de un planeta, pero realmente tiene mucho que ver.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/la-negatividad-fundamental/&quot;&gt;La Negatividad Fundamental&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on April 01, 2014.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/la-negatividad-fundamental/&quot;&gt;La Negatividad Fundamental&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on April 01, 2014.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[El Miedo - Un Nombre Para El Infinito]]></title>
- <link rel="alternate" type="text/html" href="/miedo/" />
-  <id>/miedo</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/miedo/" />
+  <id>http://tantramaya.org/es/miedo</id>
   <published>2013-07-23T00:00:00-04:00</published>
   <updated>2013-07-23T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2645,20 +2708,20 @@ Lo qué es más importante en la meditación es el esfuerzo sincero. Rara vez un
 &lt;p&gt;Cuando era niño, yo era muy curioso en cuanto a si realmente Cristo existió como un ser humano o fue un arquetipo más profundo, universal y espiritual incrustado en la conciencia humana. Esta curiosidad desapareció cuando comencé a meditar y entender que la gracia divina está siempre presente detrás de la mente tranquila. Comprendí que lo divino estaba en el Testigo sin forma de la mente. Esto es lo que los yoguis llaman Atman. Las palabras y los conceptos e incluso la más alta filosofía no puede captar el infinito dentro de sus límites. Lo que yo deseaba era esta armonía y la unión en lugar de una concepción uniforme de “dios” que siempre parece estar de acuerdo con algún tipo de aceptación de la religión, culto o la tradición. Aunque yo tenía muchos sueños de mi maestro Anandamurtiji, en los que a menudo me decía cosas muy importantes que incluso llegaron a curarme, nunca podría permitir que mi mente quedara atrapada en conceptos como el “gurú”. Tal vez yo podría aceptar esta autoridad en el interior, pero cuando la gente habla de “gurú” en el contexto social, a menudo se basa en concepciones de lo que es el gurú para otras personas y no tanto por su propia experiencia y por una realización a profundidad. Esto es cierto en cualquier forma de espiritualidad: las masas siguen las normas y conceptos establecidos y no ponen tanta energía en la realización. Sin embargo, fue en la altura de mis realizaciones sin forma de lo divino que tenía tantas experiencias de formas divinas! Anandamurtiji, en sueños o en la meditación, siempre me guio hacia la presencia real del Atman y nunca dijo algo como: “Yo soy el único camino.” Estas experiencias siempre revelan lo que vi como verdades universales profundas. Mi mente se había conectado con esta forma particular que revela verdades mucho más allá de la forma. Incluso una vez apareció a mis ojos físicos la forma luminosa de Cristo después de una meditación profunda. No tenía duda de que había una presencia divina que se manifiesta como una forma. Su forma era translúcida y la serpiente de jade que yo había visto en mis primeras experiencias kundalini fue visto justo detrás de los ojos en el nivel del cerebro medio. Comprendí claramente que era un símbolo de la unión del cielo y la tierra; de dios y de la humanidad. El “poder de la serpiente” de la kundalini, la energía divina latente en la base de la columna vertebral, despierta en el cerebro y nos transforma en algo inconcebible para el Aham. Esta serpiente en el cerebro medio estaba completamente domesticada y dentro de toda la belleza de la hermosa cabeza de la figura de Cristo. Pensé en cómo un cerebro tan iluminada debe haber incorporado los denominados cerebros reptiles y mamíferos en los místicos y aún no entendidos potenciales de la neo-corteza humana que ha evolucionado por encima y alrededor de ellos. Cristo es un símbolo de esta perfección yóguica, al menos en mi experiencia. La visión era más hermosa y significativa que cualquier cosa que he visto en el Louvre o en cualquier otro museo del mundo. Cuando lo recuerdo vuelvo a ese estado de éxtasis en el presente. Conforme pasa el tiempo entiendo esto, así como tantas otras visiones de la verdadera forma, tan profundas verdades espirituales que uno no puede captar normalmente sin la ayuda del medio de la forma.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/miedo/&quot;&gt;El Miedo - Un Nombre Para El Infinito&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on July 23, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/miedo/&quot;&gt;El Miedo - Un Nombre Para El Infinito&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on July 23, 2013.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Kaunkálamálinii samadhi]]></title>
- <link rel="alternate" type="text/html" href="/kaunkalamalinii-samadhi/" />
-  <id>/kaunkalamalinii-samadhi</id>
+ <link rel="alternate" type="text/html" href="http://tantramaya.org/es/kaunkalamalinii-samadhi/" />
+  <id>http://tantramaya.org/es/kaunkalamalinii-samadhi</id>
   <published>2013-06-11T00:00:00-04:00</published>
   <updated>2013-06-11T00:00:00-04:00</updated>
   <author>
     <name>Vishal Eckhart</name>
-    <uri></uri>
+    <uri>http://tantramaya.org/es</uri>
     <email></email>
   </author>
   <content type="html">
@@ -2673,30 +2736,7 @@ Durante este samadhi, sadhakas experimentan felicidad indescriptible. Ellos tota
 
 &lt;h1 id=&quot;anandamurti-tantra&quot;&gt;anandamurti #tantra&lt;/h1&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/kaunkalamalinii-samadhi/&quot;&gt;Kaunkálamálinii samadhi&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on June 11, 2013.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Despertar del Kundalini, Experiencia Cercana a la Muerte, y el Futuro]]></title>
- <link rel="alternate" type="text/html" href="/despertar-del-kundalini-experiencia-cercana-a-la-muerte-y-el-futuro/" />
-  <id>/despertar-del-kundalini-experiencia-cercana-a-la-muerte-y-el-futuro</id>
-  <published>2013-06-01T00:00:00-04:00</published>
-  <updated>2013-06-01T00:00:00-04:00</updated>
-  <author>
-    <name>Vishal Eckhart</name>
-    <uri></uri>
-    <email></email>
-  </author>
-  <content type="html">
-    &lt;p&gt;A principios del despertar de kundalini cuando todavía era un estudiante en la universidad, tuve muchas experiencias que sacudieron mi mundo aparte. Hubo un período en donde tuve muchas visiones extrañas que no tenían sentido para mí hasta años más tarde. Durante la meditacion me sentí que estaba fundiéndose en toda la ciudad de Austin a mi alrededor. Mi mente iba más allá de la ciudad y se perdia en el universo. Era aterrador pero estimulante. Fue la muerte del pequeño yo.&lt;/p&gt;
-
-&lt;p&gt;En una de esas experiencias que tuve un sueño despierto en el que supe que estaba viendo a mí mismo 5 años en el futuro. Yo estaba en Austin, pero en una granja a las afueras de la ciudad donde yo estaba muy feliz y en paz. Pense que era absurdo porque no tenía planes de permanecer en Austin después de la graduación. Me olvidé por completo de este sueño hasta que me encontré en esta misma finca 5 años más tarde. Los detalles de la visión como un alambre de teléfono  cruzar la propiedad por un arroyo resultó exacta. Mientras tanto, en ‘94, la visión continuó. En el proximo parte de la vision yo sabía que era 10 años en el futuro ahora y la escena cambió. Yo estaba en México en medio de una guerra. Me sentía muy tensa en esta parte de la visión, pero la escena cambió a un tercer phase donde yo estaba muy por encima de Austin, casi en el espacio exterior. Miré hacia abajo y el mundo era muy diferente. La línea de costa estaba mucho más hacia el interior. Había menos gente, pero había mucho más respeto entre ellos. Vi que ellos entendieron la lección de que la naturaleza les dio. Yo no sabía cuando en el futuro se produjo esta tercera parte de la visión, sólo que era en algún momento después de la parte de México. Ni siquiera estaba seguro de si yo estaba vivo en el planeta, o flotando sin cuerpo en el espacio etéreo de donde yo estaba observando en el sueño. No importaba, porque finalmente había paz.&lt;/p&gt;
-
-&lt;p&gt;No creo necesariamente en las profecías, pero cuando la visión ha dado la razón 2 de 3 veces, soy muy curioso acerca de la tercera parte.&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;/despertar-del-kundalini-experiencia-cercana-a-la-muerte-y-el-futuro/&quot;&gt;Despertar del Kundalini, Experiencia Cercana a la Muerte, y el Futuro&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;&quot;&gt;Vishal Eckhart&lt;/a&gt; on June 01, 2013.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://tantramaya.org/es/kaunkalamalinii-samadhi/&quot;&gt;Kaunkálamálinii samadhi&lt;/a&gt; was originally published by Vishal Eckhart at &lt;a href=&quot;http://tantramaya.org/es&quot;&gt;Vishal Eckhart&lt;/a&gt; on June 11, 2013.&lt;/p&gt;
   </content>
 </entry>
 
