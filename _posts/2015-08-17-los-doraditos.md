@@ -26,9 +26,9 @@ We come down to share grace.
 
 Seeing all beings
 
-Whatever tone or hue
+Whatever tone or hue,
 
-Bringing Light of Truth
+Bringing Light of Truth,
 
 Taking every mind
 
