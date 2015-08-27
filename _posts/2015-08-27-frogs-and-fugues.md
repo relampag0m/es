@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Frogs and Fugues
-tags: 
-  - Spiritual Tantra
-comment: true
-published: true
+tags: [Tantra Espiritual]
+comments: true
 ---
-
 
 {% capture images %}
 	/images/storm.jpg
