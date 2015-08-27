@@ -1,14 +1,18 @@
 ---
 layout: post
 title: Frogs and Fugues
-tags: [Spiritual Tantra]
+tags: 
+  - Spiritual Tantra
 comment: true
+published: true
 ---
+
 
 {% capture images %}
 	/images/storm.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
+
 desert rains abate. Now crickets join frogs in fugues.
 How can any evil out-live this eternal creation that is always new?
 We dug our trenches, collecting water for trees,
