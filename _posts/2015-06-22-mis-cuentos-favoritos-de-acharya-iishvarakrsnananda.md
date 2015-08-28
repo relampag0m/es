@@ -55,9 +55,9 @@ Era casi de noche cuando llegué a mi casa. Dada Shyamananada se movía adelante
 Se fue a decirle la noticia a Baba. Después de unos minutos Dada regresó y dijo que la comida y el agua que había de Baba tiene que ser dado a mí. "Estas son las instrucciones de Baba, no habrá prasad hoy" Dada me dijo.  Tuve una cena maravillosa.
 
 Una vez le dije esta historia a Baba cuando Baba me había preguntado cuántas veces tiene directa o indirectamente me ayudó. Esta historia fue escrita durante la vida de Baba en Hindi y más tarde traducido al Inglés.
-DejaVu Sans,sans-serif;"><span style="font-size: medium;">
-<b>DI EL PODER SOLAMENTA A TI.</b>
-Por Acharya Iishvarakrsnananda Avadhuta
+
+### DI EL PODER SOLAMENTA A TI.  Por Acharya Iishvarakrsnananda Avadhuta
+
 Como yo había escrito en la historia anterior de que Baba ha dado poder mental a Dada Dasharatha para escanear a la gente antes de tener un contacto personal con Baba. Dada Dasharatha utiliza ese poder para ver el color mental de las personas y, en consecuencia, rechazaba o enviaba a la gente para el contacto personal.
 Una vez una persona muy muy importante llegó a Jamalpur tener contacto personal .. Fue enviado a Dadá Dasharatha para el cribado. Dada Dasratha entró en su mente y vio que la persona no era apto para el contacto personal. Así que él rechazó la persona a tener contacto personal. Pero algún funcionario superior de ananda marga comenzó a ejercer presión sobre Dada Dasharatha para aprobar la persona que era alguien muy, muy importante. Dada estaba en un dilema. En uno de los lados era el principal funcionario de Ananda Marga y el otro lado era la instrucción de Baba. Finalmente, Dada Dasharatha fue a ver a Baba. Él le dijo todo el incidente. Baba estaba furioso. Le dijo a Dada Dasharatha que "di ese poder para que tu decides solo. Nadie más. No tienes que escuchar a nadie."
 Al final el señor persona muy muy importante no consiguió el contacto personal en aquel tiempo. Baba era un gran maestro que no diferenciaba entre personas consideradas muy, muy importantes de la sociedad y una persona ordinaria. Sus principios fueron igual para todos. Ese era su grandeza. Gloria al Señor Shrii Ananda Murti Jii. Param baba de pita ki Jay. </span></span>
