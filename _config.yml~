@@ -1,16 +1,16 @@
 title:            Vishal Eckhart
-description:      Describe your website here.
+description:      Blog de Tantra Maya
 disqus_shortname: tantramaya
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-# url: http://tantramaya.org/es
+url: http://tantramaya.org/es
 
 # Owner/author information
 owner:
   name:           Vishal Eckhart
-  avatar:         avatar.jpg
+  avatar:         hunabku.jpg
   bio:            "Meditador, Escritor, Jardinero"
   
   # Social networking links used in footer. Update and remove as you like.
