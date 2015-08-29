@@ -1,10 +1,9 @@
 ---
 layout: post
 comment: true
-title: El  Eterno Retorno
+title: El Eterno Retorno
 tags: 
   - Tantra Espiritual
-published: true
 ---
 
 
