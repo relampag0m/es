@@ -1,8 +1,16 @@
 ---
+<<<<<<< HEAD
 title: Un Nombre Para El Infinito "Introduccion y Prefacio"
+=======
+title: "Un Nombre Para El Infinito \"Introduccion y Prefacio\""
+tags: 
+  - Un Nombre Para El Infinito
+>>>>>>> 3ebb72807b560f876f6a1af8d61730ba5f9630e3
 layout: post
 comments: true
+published: true
 ---
+
 
 {% capture images %}
 	/images/nombre.jpg
