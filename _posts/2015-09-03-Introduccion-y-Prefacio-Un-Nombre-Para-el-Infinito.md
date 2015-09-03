@@ -9,6 +9,7 @@ title: "Un Nombre Para el Infinito - Prefacio e Introduccion"
 
 
 
+
 {% capture images %}
 	/images/nombre.png
 {% endcapture %}
