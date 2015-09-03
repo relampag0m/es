@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 comments: true
 title: "Un Nombre Para el Infinito - Prefacio y Introduccion"
 ---
+
 
 
 
