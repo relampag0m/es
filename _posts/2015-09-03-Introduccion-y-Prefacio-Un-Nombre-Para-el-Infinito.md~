@@ -1,9 +1,12 @@
 ---
-title: Un Nombre Para El Infinito "Introduccion y Prefacio"
-tags: [Un Nombre Para El Infinito]
+title: "Un Nombre Para El Infinito \"Introduccion y Prefacio\""
+tags: 
+  - Un Nombre Para El Infinito
 layout: post
 comments: true
+published: true
 ---
+
 
 {% capture images %}
 	/images/nombre.jpg
