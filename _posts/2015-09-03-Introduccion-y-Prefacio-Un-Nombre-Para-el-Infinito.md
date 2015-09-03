@@ -5,7 +5,7 @@ comments: true
 ---
 
 {% capture images %}
-	/images/nombre.jpg
+	/images/nombre.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
  Me inicié en el Tantra Yoga en 1993. Fui instruido en
