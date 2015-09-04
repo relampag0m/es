@@ -8,7 +8,8 @@ published: true
 ---
 
 
-### Cuervos negros
+
+### Cuervos Negros
 
 Pluma Blanca llegó al rancho el otro día. Él llegó justo en el momento adecuado ya que yo estaba completamente agotado con la defensa de nuestro rancho en contra de los vecinos de la Santa Muerte. Siempre que estos demonios secuestrar y torturar a las personas se prenden una moto sin silenciador que es muy ruidoso y cubre los gritos de los torturados. Apenas he dormido durante una semana porque encienden esa moto cada noche entre la medianoche y las 3 am, el tradicional "hora de las brujas" cuando ocultistas oscuros ha realizado tradicionalmente sus rituales. En lugar de dormir, meditaba todo a través de estas horas oscuras.
 
