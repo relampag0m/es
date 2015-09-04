@@ -2,12 +2,17 @@
 layout: page
 title: Dos Encuentros Recientes Con La Santa Muerte
 comments: true
-tags: [Spiritual Tantra]
+tags: 
+  - Spiritual Tantra
+published: true
 ---
+
 
 ### Cuervos negros
 
 Pluma Blanca llegó al rancho el otro día. Él llegó justo en el momento adecuado ya que yo estaba completamente agotado con la defensa de nuestro rancho en contra de los vecinos de la Santa Muerte. Siempre que estos demonios secuestrar y torturar a las personas se prenden una moto sin silenciador que es muy ruidoso y cubre los gritos de los torturados. Apenas he dormido durante una semana porque encienden esa moto cada noche entre la medianoche y las 3 am, el tradicional "hora de las brujas" cuando ocultistas oscuros ha realizado tradicionalmente sus rituales. En lugar de dormir, meditaba todo a través de estas horas oscuras.
+
+La Santa Muerte es un culto de la muerte para algunos narcos.  Ellos practican rituales de la muerte. Nosotros practicamos rituales de la vida espiritual. Ellos llaman a sus emigos demoniacos, y pues, nosotros llamamos a nuestros amigos, vivos y muertos. Nuestro “baile de los espiritus bendecidas” es para crear un vortice de resistencia contra todas formas de degeneracion para preservar nuestra especia, una raza humana unida dentro la Consciencia Suprema.
 
 El rancho fue invadido recientemente por una bandada de cuervos. Ellos vienen y atacan a las otras aves. Casi no habiay pájaros en el desierto hasta que cavamos nuestras trincheras para recoger el agua de lluvia y hacer un mini oasis. Para mí, parecía una imagen literaria perfecta: todo este sufrimiento y la muerte adornado con un toque final, terrible de cuervos negros que se aprovechan de nuestras palomas y gorriónes pacíficos. Era como si la realidad se está comunicando conmigo a través de símbolos. Es extraña, pero es sólo mi imaginación?
 
