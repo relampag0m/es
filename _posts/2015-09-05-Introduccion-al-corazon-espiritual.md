@@ -50,3 +50,7 @@ unificación de la conciencia microcósmica a la Conciencia Macrocósmica de
 Shiva está en marcha. Es aquí, en el corazón espiritual de Anahata que la
 divinidad sin nombre puede evolucionar un nombre por sí mismo, para
 nosotros, en cada uno de nosotros.
+
+texto entero en este sitio:  http://tantramaya.org/es/el-corazon-espiritual/
+
+o descargar aqui: https://cmdr0.blaucloud.de/index.php/s/VZXchJaawWf93SI
