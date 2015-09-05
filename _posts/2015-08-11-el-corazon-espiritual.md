@@ -48,7 +48,7 @@ del universo funcionando dentro de la mente humana. Estos son los 12
 puntos en los que los equilibrios y desequilibrios de la conciencia humana
 puede expresarse de una manera refinada. Cuando hay equilibrio perfecto y
 no hay escape a través de cualquier vórtice o vrtti en los 12 vértices,
-Hunab Ku siempre entra en la mente humana a través del corazón
+Shiva (Hunab Ku) siempre entra en la mente humana a través del corazón
 espiritual con su fuerza neutral de la conciencia o citishakti. Citishakti es la Conciencia que controla Shakti, la energía creativa, porque esta energía creativa divina tiene su esencia en Shiva, o Conciencia. Shiva y Shakti son como el fuego y su capacidad para quemar; que estén completamente y eternamente inseparables. Toda la creación en este universo se debe a la actividad de Shakti y la base consciente de Shiva que silenciosamente testiga del juego de la creación y, al mismo tiempo que ofrecen su ser como la esencia sobre la que Shakti puede crear.
 
 El lado derecho de este plexo manifiesta la energia solar o centrífuga de Shakti. El lado izquierdo de este plexo expresa la energia lunar o centrípeta de Shakti. La fuerza centrífuga bajo el control de la entidad atestiguadora de Shiva se convierte en el Hijo, la expresión creativa primordial de la Conciencia Suprema dentro del medio humano, personal. Es por esta razón que los sabios védicos meditaron en el lado derecho del corazón espiritual, el nexo de donde el super-personal Atman "toca" el ser humano y ser personal.
