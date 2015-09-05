@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: page
 title: "Introduccion a \"El Corazon Espiritual\""
 comments: true
