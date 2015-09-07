@@ -6,6 +6,7 @@ comments: true
 ---
 
 
+
 Por examinar el corazón espiritual podemos entender las razones por las limitaciones del concepto egocéntrico del “yo” que distorsiona el reflejo puro de la consciencia infinita ("Hunab Ku" in Tantra Maya o lo que llaman "Shiva" o "Atman" en tantra de la india) en las mentes de los seres humanos. En el corazón espiritual o Vórtice Anahata existe el raíz de las problemas de la consciencia moderna dividida y fragmentada pero también la capacidad de compasión y unión con el verdadero “Yo-Testigo” adentro. Todas las expresiones de los llamados "vórtices" se equilibren por comprender el corazón espiritual, lo que los yogis llaman el Chakra Anahata. 
 
 Yo prefiero usar la palabra “vórtice” en vez de “chakra.” El concepto tradicional del Chakra Anahata es un loto con 12 pétalos. Cada “pétalo” es literalmente un vórtice energetico girando afuera del vórtice mayor, o “lotus,” como muchos tornados pequenos que juntan para formar un vortice gigante. Estos pétalos o vortices menores son conocidos como vrttis- vórtices de energía mental. Estos vrttis vibran todo el cuerpo y la mente y los califican para expresar estados particulares de pensamiento y emoción. Vrittis son la inteligencia fundamental detrás de nuestros pensamientos y sentimientos, la programación oculto de la vida cognitiva y emocional humano que vibran todo del sistema mente-cuerpo. El Vórtice Anahata es sutil como los vórtices superiores con sus tendencias cognitivas mas finas, pero al mismo tiempo tiene cualidades grosos como los vórtices inferiores que expresan tendencias más instintivas e egocéntricas.
@@ -46,6 +47,7 @@ Shiva está en marcha. Es aquí, en el corazón espiritual de Anahata que la
 divinidad sin nombre puede evolucionar un nombre por sí mismo, para
 nosotros, en cada uno de nosotros.
 
-texto entero en este sitio:  http://tantramaya.org/es/el-corazon-espiritual/
+texto entero en este sitio:  <a href="http://tantramaya.org/es/el-corazon-espiritual/">http://tantramaya.org/es/el-corazon-espiritual/</a>
 
-o descargar aqui: https://cmdr0.blaucloud.de/index.php/s/VZXchJaawWf93SI
+o descargar aqui:   <a href="https://cmdr0.blaucloud.de/index.php/s/VZXchJaawWf93SI">https://cmdr0.blaucloud.de/index.php/s/VZXchJaawWf93SI</a>
+
