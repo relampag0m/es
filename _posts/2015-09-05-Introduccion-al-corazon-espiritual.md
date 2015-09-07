@@ -38,8 +38,7 @@ del universo funcionando dentro de la mente humana. Juntos, estos dos movimentos
 El lado derecho de este plexo manifiesta la energia solar o centrífuga de Shakti. El lado izquierdo de este plexo expresa la energia lunar o centrípeta de Shakti. La fuerza centrífuga bajo el control de la entidad atestiguadora de Shiva se convierte en el Hijo, la expresión creativa primordial de la Conciencia Suprema dentro del medio humano, personal. Es por esta razón que los sabios védicos meditaron en el lado derecho del corazón espiritual, el nexo de donde el super-personal Atman "toca" el ser humano y ser personal.
 
 El lado izquierdo es la Madre de Dios, la shakti centrípeta que siempre
-trae las expresiones del Hijo (el flujo creativo de la energia centrifugal) de nuevo a la fuerza neutral de la conciencia de Shiva. La fuerza centrípeta nunca deja que la fuerza centrífuga se pierda por completo en la expresión de multiplicidad y siempre lo trae de vuelta al centro. Juntos, en equilibrio, estas fuerzas binarias de creación manifiesta en el ser humano en el grado que existe un equilibrio en los 12 vórtices o
-vrttis en los 12 vértices de los dos hexágonos. Cuando hay menos
+trae las expresiones del Hijo (el flujo creativo de la energia centrifugal) de nuevo a la fuerza neutral de la conciencia de Shiva. La fuerza centrípeta nunca deja que la fuerza centrífuga se pierda por completo en la expresión de multiplicidad y siempre lo trae de vuelta al centro. Juntos, en equilibrio, estas fuerzas binarias de creación manifiesta en el ser humano en el grado que existe un equilibrio en los 12 vórtices o vrttis en los 12 vértices de los dos hexágonos. Cuando hay menos
 duplicidad, arrogancia, vanidad y el egoísmo (vrttis negativo), y más amor,
 el discernimiento y la fe (vrttis positivos), entonces el proceso de la
 unificación de la conciencia microcósmica a la Conciencia Macrocósmica de
