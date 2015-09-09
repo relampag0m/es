@@ -12,9 +12,8 @@ owner:
   name:           Vishal Eckhart
   avatar:         hunabku.jpg
   bio:            "Meditador, Escritor, Jardinero"
-  
-  # Social networking links used in footer. Update and remove as you like.
  
+# Social networking links used in footer. Update and remove as you like.
  diaspora:  https://diasp.de/people/d7b3c230564e0132bdcf543d7ed6cc36
 
 # Background image to be tiled on all pages
