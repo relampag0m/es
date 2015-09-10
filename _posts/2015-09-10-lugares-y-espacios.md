@@ -1,11 +1,14 @@
 ---
 layout: post
 title: Espacios y Lugares
-tags: [Tantra Espiritual]
+tags: 
+  - Tantra Espiritual
 comments: true
+published: true
 ---
 
-Todo lo que experimentamos en la vida humana es una expresión del Macrocosmos. Ya sea que se llama el Macrocosmos “Brahma”, o “Tao”, o un “Campo Unificada Cuántica”, que es la fuente y fundamento de nuestro ser físico, mental y espiritual. La fuente del Macrocosmos es puramente espiritual, es la conciencia pura. Cuando esté tranquilo, este infinito es suyo. La parte mental del macrocosmos manifiesta solamente débilmente en la inteligencia humana. Cuando los seres humanos se vuelven más inteligentes habrán fusionado un poco más en los aspectos mentales y espirituales del Macrocosmos entonces. Sólo el reflejo exterior de esta web puro y unificado del ser es material. Es el material y separado sólo en nuestras mentes, sin embargo. Uno puede tener una experiencia espiritual del mundo físico de la materia y la forma y aún así no ser convencido del carácter absoluto de la materia. La forma es sino una manifestación del espíritu.
+
+Todo lo que experimentamos en la vida humana es una expresión del Macrocosmos. Ya sea que se llama el Macrocosmos “Brahma”, o “Tao”, o un “Campo Unificada Cuántica”, que es la fuente y fundamento de nuestro ser físico, mental y espiritual. La fuente del Macrocosmos es puramente espiritual, es la conciencia pura; el testigo silencioso tras de la mente activa. Cuando esté tranquilo, este infinito es suyo. La parte mental del macrocosmos manifiesta solamente débilmente en la inteligencia humana. Cuando los seres humanos se vuelven más inteligentes habrán fusionado un poco más en los aspectos mentales y espirituales del Macrocosmos entonces. Sólo el reflejo exterior de esta web puro y unificado del ser es material. Es el material y separado sólo en nuestras mentes, sin embargo. Uno puede tener una experiencia espiritual del mundo físico de la materia y la forma y aún así no ser convencido del carácter absoluto de la materia. La forma es sino una manifestación del espíritu.
 
 Todo y todos tienen partes profundas, reservas de su ser que están latentes y sólo esperando a manifestarse cuando el ego externo es un poco más maduro y tranquilo. Una persona que ha vivido lejos de la civilización durante muchos años vuelve a ver el mundo de la forma y la materia. Su mundo físico se ha convertido en la montaña, río, cielo, y el cuerpo. Todos ellos en secreto hablan del espíritu, sin embargo. Se acuerda de las antiguas formas de los coches y los centros comerciales y las guerras y todo el temor de la existencia material. Ellos sólo parecen un poco más muerto que antes.
 
