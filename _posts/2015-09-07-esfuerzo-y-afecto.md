@@ -24,7 +24,7 @@ prana ya no tiene que vibrar con los vrttis o vórtices de la mente. La
 respiración se detiene por completo. Uno es vacío de la forma, pero lleno de
 felicidad infinita. Se escuchan el “logos” interior de Shiva, todos los
 sonidos que componen Om, y ve cómo las vibraciones finas de prana
-manifiestan todo el universo material. Estas vibraciones rítmicas o
+se manifiestan todo el universo material. Estas vibraciones rítmicas o
 "cuerdas" o impulsos de prana se derivan de los sonidos "raíz" de la Mente
 Causal, el logos de Shiva. Algún día, el genio humano será capaz de
 mapear e incluso cuantificar estas vibraciones finas que forman el llamado
