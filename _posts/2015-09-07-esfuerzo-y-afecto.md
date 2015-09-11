@@ -3,7 +3,10 @@ published: true
 title: La Dinámica de “Ga” y “Gha” con el Esfuerzo y el Afecto
 layout: post
 comments: true
+tags: 
+  - Tantra Espiritual
 ---
+
 
 {% capture images %}
 	/images/macaque.jpg
