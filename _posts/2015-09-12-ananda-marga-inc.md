@@ -8,3 +8,5 @@ comments: true
 	/images/relampago.png
 {% endcapture %}
 {% include gallery images=images caption="Relampagokrieg" cols=3 %}
+
+## Relampagokrieg!
