@@ -1,11 +1,12 @@
 ---
-published: false
+published: true
 title: La Vanidad
 layout: post
 tags: 
   - Tantra Espiritual
 comments: true
 ---
+
 
 
 
