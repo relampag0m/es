@@ -4,7 +4,7 @@ title: Los Espacios y Los Lugares
 tags: 
   - Tantra Espiritual
 comments: true
-published: true
+published: false
 ---
 
 Todo lo que experimentamos en la vida humana es una expresión del Macrocosmos. Ya sea que se llama el Macrocosmos “Brahma”, o “Tao”, o un “Campo Unificada Cuántica”, que es la fuente y fundamento de nuestro ser físico, mental y espiritual. La fuente del Macrocosmos es puramente espiritual, es la conciencia pura; el testigo silencioso tras de la mente activa. Cuando esté tranquilo, este infinito es suyo. La parte mental del macrocosmos manifiesta solamente débilmente en la inteligencia humana. Cuando los seres humanos se vuelven más inteligentes habrán fusionado un poco más en los aspectos mentales y espirituales del Macrocosmos entonces. Sólo el reflejo exterior de esta red puro y unificado del ser es material. Es visto como el material y separado de nosotros sólo en nuestras mentes, sin embargo. Uno puede tener una experiencia espiritual del mundo físico de la materia y la forma y aún así no ser convencido del carácter absoluto de la materia. La forma es sino una manifestación del espíritu.
