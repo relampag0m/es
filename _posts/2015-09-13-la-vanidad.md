@@ -1,11 +1,12 @@
 ---
 published: true
-title: La Vanidad
+title: "La Vanidad - del Corazon Espiritual"
 layout: post
 tags: 
   - Tantra Espiritual
 comments: true
 ---
+
 
 
 
