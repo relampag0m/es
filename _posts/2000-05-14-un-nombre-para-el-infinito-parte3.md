@@ -1,12 +1,15 @@
 ---
-title: Un Nombre Para El Infinito parteIII "Sadhana"
-tags: [Un Nombre Para El Infinito]
+title: "Un Nombre Para El Infinito parteIII \"Sadhana\""
+tags: 
+  - Un Nombre Para El Infinito
 layout: post
 comments: true
+published: true
 ---
 
+
 {% capture images %}
-	/images/nombre.jpg
+	/images/nombre.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 ### Sadhana: La práctica espiritual
@@ -141,5 +144,4 @@ Upanishad: Tratados espirituales clásicos de la India que tratan sobre los Veda
 Vaesnava: Etapa de la sadhana donde uno comienza a sentir unión con Brahma.
 Vishuddha: Quinto vórtice, significa “especialmente puro”.
 Vrtti: Vórtice menor o propensión de la mente.
-Yoga: Unión de la mente microcósmica con Brahma. 
-
+Yoga: Unión de la mente microcósmica con Brahma.
