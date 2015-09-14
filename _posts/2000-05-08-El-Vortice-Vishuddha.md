@@ -1,12 +1,15 @@
 ---
-title: Un Nombre Para El Infinito "El Vortice Vishuddha"
-tags: [Un Nombre Para El Infinito]
+title: "Un Nombre Para El Infinito \"El Vortice Vishuddha\""
+tags: 
+  - Un Nombre Para El Infinito
 layout: post
 comments: true
+published: true
 ---
 
+
 {% capture images %}
-	/images/nombre.jpg
+	/images/nombre.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 En la etapa actual de evolución humana es muy
