@@ -1,12 +1,15 @@
 ---
-title: Un Nombre Para El Infinito "El Vórtice Svadhistana"
-tags: [Un Nombre Para El Infinito]
+title: "Un Nombre Para El Infinito \"El Vórtice Svadhistana\""
+tags: 
+  - Un Nombre Para El Infinito
 layout: post
 comments: true
+published: true
 ---
 
+
 {% capture images %}
-	/images/nombre.jpg
+	/images/nombre.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 Dentro del genoma humano se encuentra un registro de todas las formas previas de la vida; desde el humano, a los homínidos, al monstruo de Gila. Toda la vida ancestral está contenida dentro de nuestra pequeña existencia microcósmica, grabada en nuestro ADN. Después de pasar por tan diversas experiencias de vida como microbio, planta, reptil y mamífero, la mente microcósmica finalmente se hace consciente de sí misma. Ahora que hay una corteza cerebral más compleja desarrollada sobre el encéfalo reptiliano y el cerebro medio, la inteligencia del Aham comienza a evolucionar y a reemplazar los instintos ciegos de la Mente Sensorial y de la Chitta. Ahora hay pensamientos, sentimientos y otras cualidades de la consciencia mental subjetiva, subjetiva que empiezan a influir en el organismo biológico. La consciencia humana es clara y sensiblemente consciente y auto-reflexiva, a medida que la cámara subjetiva de la mente comienza a tener influencia sobre la cámara objetiva.
