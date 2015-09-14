@@ -1,10 +1,11 @@
 ---
-title: "Anandamurti - Filosofía Primaria de Ananda Marga "
+title: "Filosofía Primaria de Ananda Marga - Anandamurti "
 layout: post
 comments: true
 tags: Anandamurti
 published: true
 ---
+
 
  
 
