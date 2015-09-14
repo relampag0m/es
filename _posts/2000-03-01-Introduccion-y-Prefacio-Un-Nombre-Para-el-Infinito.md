@@ -8,10 +8,12 @@ published: true
 ---
 
 
+
 {% capture images %}
 	/images/nombre.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
+
  Me inicié en el Tantra Yoga en 1993. Fui instruido en
 la tradición de Rajadhiraja, una muy pura y secreta, por
 un yogui indio muy hábil, Shambushivananda, discípulo
