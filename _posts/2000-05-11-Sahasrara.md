@@ -1,12 +1,15 @@
 ---
-title: Un Nombre Para El Infinito "El Vortice Sahasrara"
-tags: [Un Nombre Para El Infinito]
+title: "Un Nombre Para El Infinito \"El Vortice Sahasrara\""
+tags: 
+  - Un Nombre Para El Infinito
 layout: post
 comments: true
+published: true
 ---
 
+
 {% capture images %}
-	/images/nombre.jpg
+	/images/nombre.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 En el Tantra maya solamente hay un vórtice. Es el que corresponde al vórtice Sahasrara en los Tantras indios. Se llama Hunab Ku y es considerado el centro de la creación. Todos los otros vórtices localizados a lo largo de la columna no son sino mundos de vibración, o círculos concéntricos que orbitan alrededor del núcleo cósmico de Hunab Ku. Todas las cosas vienen de este núcleo cósmico, así como todo viene de la unión Shiva-Shakti en el Tantra. Sahasrara significa “el loto de mil pétalos”. Hay 50 vrttis en la mente microcósmica. Ellos se pueden expresar en 2 maneras, internamente y externamente. Estos dos movimientos son los 2 pétalos del vórtice Ajina, que realmente es parte del vórtice Sahasrara. Esta es otra buena razón para recordar cómo todos los vórtices son sub-vórtices de sus vórtices superiores. Estas 100 vibraciones distintas son los terrenos causales detrás de los 5 órganos sensoriales y los 5 motores. (100x10=1000). Por lo tanto hay 1000 pétalos o vórtices que gobiernan la mente microcósmica. El loto Sahasrara es la matriz de donde se originan todos estos vórtices. Es donde el microcosmos se une con el Macrocosmos. Las 2 propensiones en el vórtice Ajina están relacionadas con el microcosmos, pero son del Macrocosmos. Aquí en el Sahasrara no hay propensiones del microcosmos, sólo la matriz Macrocósmica mental que los controla. En el Tantra Yoga, el vórtice Sahasrara es considerado la morada de Shiva, donde Shakti, en la forma de kundalini, ha apaciguado sus actividades de Generar, Operar y Destruir el universo. El Sahasrara por tanto, es el centro divino que es capaz de controlar la mente con sus 1000 “vrttis cósmicos”. Ellos son “cósmicos” en el sentido en que estas “cuerdas” muy finas tocadas sólo por los devas, o “dioses” que regulan todo el orden cosmológico. Entonces, el concepto de Hunab Ku del Tantra maya parece corresponder a la noción Tántrica de que el vórtice Sahasrara es un vehículo para que la Mente Macrocósmica de Brahma gobierne la mente microcósmica.
@@ -18,19 +21,4 @@ Todos los niveles de la mente dependen de los que se encuentran por encima y por
 	Aunque acabamos de mencionar que el estado de la unificación con Brahma es eterno e irreversible, es posible suspender la mente en el Absoluto temporalmente y luego regresar a la mente y al cuerpo. Esto no es Moksha, porque no dura para siempre. La experiencia de suspensión temporal en el Absoluto se llama nirvikalpa samadhi. Se hablará más sobre esta experiencia y otras formas de samadhi en la parte III, pero por ahora es importante entender que el Brahma, incondicionado y no creado puede ser experimentado sin necesidad de la muerte del cuerpo y la disolución de la mente. Para la mente, mientras se encuentre encarnada, es posible experimentar nirvikalpa regularmente y a la vez regresar a una identidad refinada en el Ajina, hasta que el tiempo natural del cuerpo se agote. Cuando esto ocurre, uno puede alcanzar el estado de Moksha y unificarse con Brahma en la Divinidad Shiva-Shakti.
 	La prana, la energía sutil que funciona entre la Chitta mental y las células nerviosas físicas, queda suspendida durante el nirvikalpa samadhi. La respiración se detiene, el corazón casi se detiene, y la mente cesa de funcionar, carente de la pulsación de la prana que siempre fluye con la respiración. Durante esta fase, antes de perderse en el olvido de gracia, uno puede táctilmente sentir un resplandor cálido alrededor del  área de la glándula pineal en el cerebro, vibrando con el Om en un tono de Do sostenido. Esta sensación llena de gracia también desciende hacia el Anahata como un bálsamo refrescante. Todo es dulce, uno ve al Ser inmortal como siempre ha sido. Las memorias de tu pasado se vuelven las memorias que el Ser tuvo mientras navegaba dentro de cada una de tus memorias inolvidables. El ser infinito es quien siempre ha vivido tu vida y ve cada uno de tus recuerdos desde el eterno ahora del Yo-Testigo. Él te ama, acepta y absorbe completamente porque tú eres Él ahora. Entonces uno olvida todo y se da cuenta de que no ha respirado o estado consciente del cuerpo o el mundo exterior quizá por varias horas. He conocido casos de yogis que han suspendido su respiración en samadhi por 10 horas. Ésta es una prueba empírica del nirvikalpa samadhi y de la inmortalidad del Ser, que es el Brahma mismo. Durante esta experiencia primero hay el Om, la gracias, la apertura del Hunab Ku, y luego el silencio y la no respiración en unión con el misterio de misterios. En perfecto equilibrio, la entidad entera de la mente y, por lo tanto, la entidad fenomenológica entera quedan suspendidas en la Divinidad Shiva-Shakti.
 Una vez tuve el gran privilegio de conocer al sabio Chandranath, que experimentaba nirvikalpa samadhi cada vez que se sentaba a meditar. Le pregunté cómo era posible permanecer en una forma física si uno está constantemente unificándose con aquello que carece de forma. Me dijo que antes de experimentar el samadhi, generaba la determinación de regresar a su mente y su cuerpo para continuar ayudando a otros mientras su cuerpo físico duraba. Esta determinación grande y noble es la que evitaba que alcanzara el estado de Moksha antes que su ciclo de existencia se completara. El será recordado como el sadhaka más grande de Anandamurti.
-	Algunos seres que se han liberado de sus samskaras pueden elegir no disolverse completamente a la hora de la muerte para obtener Moksha. En vez de esto, eligen mantenerse en la determinación de servir y ayudar a todos los seres a alcanzar esta liberación. Esta determinación conlleva al renacimiento, pero sin la pérdida de la liberación espiritual previamente lograda. Dichas personas nacen libres y su único propósito es el de ayudar a otros a liberarse de sus limitaciones. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	Algunos seres que se han liberado de sus samskaras pueden elegir no disolverse completamente a la hora de la muerte para obtener Moksha. En vez de esto, eligen mantenerse en la determinación de servir y ayudar a todos los seres a alcanzar esta liberación. Esta determinación conlleva al renacimiento, pero sin la pérdida de la liberación espiritual previamente lograda. Dichas personas nacen libres y su único propósito es el de ayudar a otros a liberarse de sus limitaciones.
