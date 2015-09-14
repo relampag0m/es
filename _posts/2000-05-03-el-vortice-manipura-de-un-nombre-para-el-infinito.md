@@ -9,7 +9,7 @@ published: true
 
 
 {% capture images %}
-	/images/nombre.png
+	/images/portadavishal.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 La función principal del vórtice Svadhistna es asegurar que el sentido emergente de la identidad no retorne al vientre del instinto inconsciente y ciego que caracteriza a la mente preconsciente y pre-humana en el vórtice Muladhara: la Mente Sensorial. Una vez que se establece una base segura y equilibrada en el vórtice Svadhistna, la personalidad puede comenzar a expandirse y encontrar nuevas cualidades y experiencias. Aquí se puede observar como la acción continua de artha vrtti se esfuerza por expandir la mente conceptual con el fin de adquirir un mayor grado de desarrollo y significado psicológico. Las expresiones más refinadas de artha son incapaces de realizarse por completo en el Svadhistna debido a que su función principal es la de mantener y asegurar la base psicológica de la identidad. Una vez que se establece una base emocional equilibrada, la personalidad puede florecer y expandirse.

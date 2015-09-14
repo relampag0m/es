@@ -9,7 +9,7 @@ published: true
 
 
 {% capture images %}
-	/images/nombre.png
+	/images/portadavishal.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 
