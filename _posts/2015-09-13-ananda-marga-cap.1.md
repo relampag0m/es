@@ -1,11 +1,14 @@
 ---
-title: Anandamurti - Filosofía Primaria de Ananda Marga Cap.1
+title: "Filosofía Primaria de Ananda Marga Cap.1 - Anandamurti  "
 layout: post
 comments: true
 tags: Anandamurti
---- 
+published: true
+---
 
-### Ch. 1 ¿Qué es el Dharma?
+ 
+
+### Ch. 1 ¿Qué Es el Dharma?
 
 Los seres humanos son los seres más alto evolucionados. Poseen conciencia claramente reflejada, y esto los hace superiores a los animales. Ningún otro ser tiene un claro reflejo de la conciencia tales. Los seres humanos pueden distinguir entre el bien y el mal con la ayuda de su conciencia, y cuando en problemas que puedan encontrar una salida, con su ayuda. A nadie le gusta vivir en la miseria y el sufrimiento, los seres humanos mucho menos, cuya conciencia se pueden encontrar los medios de alivio. La vida sin dolor y sufrimiento es una vida de felicidad y dicha, y que es lo que la gente desea. Todo el mundo está en la búsqueda de la felicidad; de hecho, es la naturaleza de las personas para buscar la felicidad. Ahora vamos a ver lo que uno hace para lograrlo y si se consigue por esos medios.
 
