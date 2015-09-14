@@ -7,11 +7,12 @@ published: true
 ---
 
 
+
  
 
 ### Ch. 1 ¿Qué Es el Dharma?
 
-Los seres humanos son los seres evolucionados más altos. Poseen conciencia claramente reflejada, y esto los hace superiores a los animales. Ningún otro ser tiene un claro reflejo de la conciencia tales. Los seres humanos pueden distinguir entre el bien y el mal con la ayuda de su conciencia, y cuando en problemas que puedan encontrar una salida, con su ayuda. A nadie le gusta vivir en la miseria y el sufrimiento, los seres humanos mucho menos, cuya conciencia se pueden encontrar los medios de alivio. La vida sin dolor y sufrimiento es una vida de felicidad y dicha, y que es lo que la gente desea. Todo el mundo está en la búsqueda de la felicidad; de hecho, es la naturaleza de las personas para buscar la felicidad. Ahora vamos a ver lo que uno hace para lograrlo y si se consigue por esos medios.
+Los seres humanos son los seres más evolucionados. Poseen conciencia claramente reflejada, y esto los hace superiores a los animales. Ningún otro ser tiene un claro reflejo de la conciencia tales. Los seres humanos pueden distinguir entre el bien y el mal con la ayuda de su conciencia, y cuando en problemas que puedan encontrar una salida, con su ayuda. A nadie le gusta vivir en la miseria y el sufrimiento, los seres humanos mucho menos, cuya conciencia se pueden encontrar los medios de alivio. La vida sin dolor y sufrimiento es una vida de felicidad y dicha, y que es lo que la gente desea. Todo el mundo está en la búsqueda de la felicidad; de hecho, es la naturaleza de las personas para buscar la felicidad. Ahora vamos a ver lo que uno hace para lograrlo y si se consigue por esos medios.
 
 En su búsqueda de la felicidad son las personas primero atraídos hacia los goces físicos. Ellos acumulan riqueza y tratar de alcanzar el poder y la posición para satisfacer sus deseos de felicidad. Aquel que tiene cien rupias no se cumple con él, uno se esfuerza por mil rupias, pero incluso los que poseen miles de rupias no satisface. Uno quiere un millón, y así sucesivamente. Entonces se ve que una persona que tenga influencia en un distrito quiere extenderla sobre una provincia, los líderes provinciales quieren convertirse en líderes nacionales, y cuando han logrado que no se arrastra en un deseo de liderazgo mundial. La mera adquisición de riqueza, poder y posición no satisface a una persona. La adquisición de algo limitado sólo crea la necesidad de más, y la búsqueda de la felicidad no encuentra fin. El hambre de poseer es interminable. Es ilimitado e infinito.
 
