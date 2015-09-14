@@ -1,14 +1,18 @@
 ---
-title: Un Nombre Para El Infinito Parte I "La Cosmología Tántrica"
-tags: [Un Nombre Para El Infinito]
+title: "Un Nombre Para El Infinito Parte I \"La Cosmología Tántrica\""
+tags: 
+  - Un Nombre Para El Infinito
 layout: post
 comments: true
+published: true
 ---
 
+
 {% capture images %}
-	/images/nombre.jpg
+	/images/nombre.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
+
 La metafísica y la psicología se unifican en el Tantra. En última instancia, los estudios más profundos de nuestra naturaleza interior se funden con la realidad absoluta más allá de nuestras proyecciones psicológicas relativas sobre la realidad. La mente quieta, tranquila e introspectiva, se puede enfocar y sintonizar con el universo mayor. Uno aprende a vivir en armonía con la paz interior y la sabiduría que conecta el bienestar personal microcósmico con un  orden interior y oculto en el universo. Las teorías tántricas sobre la creación y la involución y evolución son muy profundas y complejas. Remito al lector metafísico serio a Idea e Ideología de Anandamurti, o a las obras de Sir John Woodruff para una descripción más completa de la cosmología y la metafísica tántricas. Este libro se centra más en la psicología y la fenomenología que en la metafísica. 
 
 	Centrales a la cosmología tántrica son los conceptos de Shiva y Shakti. Shiva es la conciencia infinita y Shakti es la energía creativa divina. Shiva es el Primer Padre trascendente de nuestra Conciencia y Shakti es la Gran Madre Creadora. Son inseparables en esencia, como el fuego y su capacidad de quemar. Juntos son Brahma, la Conciencia Suprema, o divinidad, para usar un concepto de la mística occidental. Shiva y Shakti tienen nombres diferentes para que podamos concebir la distinción entre el ser esencial y la actividad que resulta de este ser. Shiva es el ser infinito, un océano infinito de conciencia. Shakti, la energía creativa, es la fuerza que crea las olas en el océano. Shiva es la existencia absoluta, la conciencia y la bienaventuranza, mientras que Shakti es la energía detrás del cambio, la creación, y el movimiento. Unificada en Shiva, Shakti está tranquila y sin expresión, como un océano plácido. Esta es la divinidad, o Brahma, donde no hay cambio o devenir, ningún universo, planetas, vida, ni Big Bang. Todo es uno, eterno e infinito. Cuando Shakti despierta su actividad creadora, ella comienza a crear olas en este océano infinito de Shiva. Ella sólo parece estar separada debido a la multiplicidad de las olas aparentemente separadas que ella crea. Las olas más finas son los aspectos más sutiles de la creación, mientras que las ondas más gruesas son los niveles materiales y más condensados de la creación. Todo es Brahma, todo viene de la divinidad Shiva-Shakti, ya sea que se manifieste o no en la expresión creativa. No existe ninguna otra entidad que Brahma. 
