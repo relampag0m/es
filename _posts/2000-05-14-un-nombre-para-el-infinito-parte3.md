@@ -12,7 +12,9 @@ published: true
 	/images/nombre.png
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
-### Sadhana: La práctica espiritual
+
+### Sadhana: La Práctica Espiritual
+
 La primera y segunda partes de este libro dieron una descripción teórica del funcionamiento de la mente humana y su status evolutivo en relación con el cosmos, su estructura general, sus leyes y sus dinámicas. Esta sección tratará sobre el abordaje práctico del entendimiento de la evolución espiritual de la mente y la personalidad. No vamos a explicar más a fondo la estructura de la mente de manera teórica, sino que nos enfocaremos en las disciplinas espirituales que facilitan el desarrollo de la misma. De hecho, la meditación Tántrica, como dijo Anandamurti, es 99% práctica y 1% teoría. El estudio de la metafísica y la fenomenología desde el punto de vista teórico es solamente una preparación para la práctica intuitiva del Tantra. No obstante, cuando es visto como una herramienta preparatoria para albergar la práctica intuitiva, el estudio teórico se vuelve en sí un ejercicio práctico para el desarrollo de la mente más que una simple contemplación abstracta. El propósito de esta búsqueda de conocimiento es la de experimentar directamente realidades espirituales elevadas, no solamente filosofar sobre ellas. El Tantra es por lo tanto un “empirismo místico”.
 
 	El Rajadhiraja Yoga es un el sistema de yoga tradicional de 8 brazos con técnicas tántricas. El Tantra Maya es el sistema de Rajadhiraja con técnicas de Tantr Maya. El Yoga clásico de 8 brazos, o Astaunga Yoga, consta de 8 pasos a seguir en la práctica de sadhana, que gradualmente dirigen la energía física del cuerpo hacia la inteligencia de la mente. Este dinamismo mental se transforma posteriormente en cognición espiritual, o conciencia espiritual refinada. Los pasos más bajos del sistema tienen que ver con los kosas bajos, mientras que los pasos altos tienen que ver con los kosas altos. 
