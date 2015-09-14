@@ -8,7 +8,6 @@ published: true
 ---
 
 
-
 {% capture images %}
 	/images/nombre.png
 {% endcapture %}
