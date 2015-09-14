@@ -1,9 +1,12 @@
 ---
-title: Anandamurti - Filosofía Primaria de Ananda Marga Cap.1
+title: "Anandamurti - Filosofía Primaria de Ananda Marga "
 layout: post
 comments: true
 tags: Anandamurti
---- 
+published: true
+---
+
+ 
 
 ### Ch. 1 ¿Qué Es el Dharma?
 
@@ -424,77 +427,3 @@ Hay personas que evitan la práctica intuitiva (sádhaná) por miedo de renuncia
 En un análisis cuidadoso, los temores que tienen una vuelta de practicar sádhaná parecen ser sin ningún fundamento. Para evitar la práctica intuitiva (sádhaná), que es el deber fundamental de toda persona, por miedo sin fundamento, sólo muestra la propia ignorancia. Es, por lo tanto, instó a que nadie evite sádhaná de temores infundados, sino más bien a través de sadhana cuenta de sí mismos y conocen a sí mismos como el Supremo Entidad Infinita. 1955
 
 © Copyright 2001, 2006 Ananda Marga Pracáraka Samgha (Central) Todos los derechos reservados
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
