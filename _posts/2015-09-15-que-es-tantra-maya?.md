@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Qué es el tantra Maya?
+title: ¿Qué es el Tantra Maya?
 tags: [Tantra Espiritual, Tantra Social]
 comments: true
 ---
