@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About 
+title: About
 comments: false
-modified: 2014-12-24
+modified: {}
+published: true
 ---
-facebook : http://facebook.com/chappatieckhart
 
-diaspora : https://diasp.de/people/d7b3c230564e0132bdcf543d7ed6cc36
+
+
+diaspora : https://diasp.de/u/tantramaya
