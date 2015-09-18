@@ -10,14 +10,14 @@ url: http://tantramaya.org/es
 # Owner/author information
 owner:
   name:          Vishal Eckhart
-  avatar:        avatar.jpg
+  avatar:        
   bio:           
  
  # Social networking links used in footer. Update and remove as you like.
  
   
-  #facebook: tantramaya
-  #diaspora: https://diasp.de/u/tantramaya
+  facebook: tantramaya
+  diaspora: https://diasp.de/u/tantramaya
 
   
 # Background image to be tiled on all pages
