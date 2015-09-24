@@ -44,12 +44,13 @@ abstracto del ser, al reemplazar la noción de una
 identidad separada por la de una que se encuentra íntima
 y profundamente conectada con Shiva por dentro, y con
 toda la creación manifiesta por fuera.
+
 El vórtice Vishuddha está conectado con el factor
 etéreo y la Mente Causal (vijnanamaya kosa). La Mente
 Causal, como recordarán, es la Matriz Causal de toda la
 creación. La creación está enraizada y tiene sus primeras
 expresiones sutiles en el nivel de la Mente Causal. La
-133creación, o proceso involutivo, es un proceso de análisis:
+creación, o proceso involutivo, es un proceso de análisis:
 es cuando el Uno se convierte en muchos. La evolución,
 por el contrario, es el camino de regreso, en el que las
 multitudinarias expresiones de la Conciencia se vuelven
@@ -75,6 +76,7 @@ aquí patrones cognitivos paralelos y correspondientes con
 la función de la Mente Causal. Además, esperaríamos ver
 tendencias emocionales que abarquen toda la creación y
 así, reflejen esta sutil unidad.
+
 Debido a la naturaleza oculta y esotérica de las
 primeras ocho propensiones del Vishuddha, estas serán
 mencionadas brevemente después de describir las
@@ -85,13 +87,14 @@ Las propensiones del Vishuddha constituyen una
 extensión de la actividad de la Mente Causal o Cósmica.
 Son el reflejo de la actividad macrocósmica dentro del
 propio macrocosmos.
+
 Debido a que expresan esta
 actividad macrocósmica, su función y propósito es guiar
 no sólo al microcosmos individual, sino también al resto
 de la creación, hacia su salvación.
 Las primeras ocho propensiones del Vishuddha
 reflejan el poder creativo de la Mente Macrocósmica para
-134imaginar un aspecto de la creación y convertirlo en una
+imaginar un aspecto de la creación y convertirlo en una
 realidad objetiva. Gracias a la naturaleza exaltada de una
 mente que se encuentra funcionando a este nivel, ésta es
 capaz de co-crear el universo como una extensión y
@@ -101,6 +104,7 @@ tienen que ver con la manera en que una mente así de
 exaltada orienta su actividad hacia el Macrocosmos. No
 son iguales a las ocho primeras, más bien reflejan las
 tendencias personales propias de una mente noble.
+
 <strong>Las Propensiones del Vishuddha</strong>
 "Humm" - el despertar del kundalini
 El noveno vrtti en el vórtice Vishuddha es la
@@ -132,6 +136,7 @@ de kundalini, es la que guía a la mente de regreso a la
 unión con Shiva. Es la energía fundamental que está
 detrás de la evolución del primer al segundo vórtice, del
 segundo al tercero, etc.
+
 Si la mente del practicante espiritual está lo
 suficientemente desarrollada, adquiere la habilidad de
 despertar esta energía mediante técnicas de meditación.
@@ -158,6 +163,7 @@ los chakras inferiores, hasta la realización espiritual más
 elevada: el nirvikalpa samadhi, en el cual, kundalini se
 levanta hasta el vórtice Sahasrara en unión absoluta con
 Shiva.
+
 Se mencionará más acerca de este importante y
 sutil concepto en el último capítulo sobre la práctica
 espiritual. Por ahora, es suficiente saber que es una
@@ -174,11 +180,13 @@ mente. Como resultado del despertar, la velocidad de
 desarrollo mental del practicante se incrementa, ya que
 esta fuerza se encuentra ahora más activa que en su
 estado latente.
+
 Cuando kundalini despierta, el sonido “humm” sale
 rápida e involuntariamente de la boca. Esto sucede
 debido a que en el despertar sobreviene un pulso
 ascendente de energía que expulsa el aire violentamente
 fuera de los pulmones.
+
 <strong>Poner una idea en práctica</strong>
 Vimos que en el vórtice Anahata y su respectivo
 nivel de la mente subliminal, era posible para la mente
@@ -189,7 +197,7 @@ incorporados, no siempre era posible descubrir estas
 ideas por completo para poder ponerlas en práctica.
 También se explicó que la asimilación incompleta de las
 tendencias inconscientes y ciegas de los vórtices
-138inferiores, con las más sutiles y auto-conscientes del
+inferiores, con las más sutiles y auto-conscientes del
 Anahata, conducen a la mente a expresarse en una
 manera inquieta, vana, egoísta, argumentativa y dual. La
 mente en el Anahata podía alcanzar el flujo del Dharma y
@@ -214,6 +222,7 @@ discriminadora, convertirse en patrones establecidos de
 comportamiento. Las tendencias de duplicidad y
 argumentación se integran por fin en esta habilidad de
 poner una idea en práctica.
+
 Con la duplicidad, la mente podía vacilar entre dos
 opciones, entre dos aspectos del ser: el impulsivo o el
 consciente. Con la argumentación, el Aham no estaba lo
@@ -248,6 +257,7 @@ que alimentan y guían el universo, dentro del ser
 humano. Más aún, esta expresión divina le da una
 expresión humanizada, un nombre a lo que es
 esencialmente Infinito.
+
 <strong>Cultivación de conocimiento mundano y supramundano</strong>
 <strong>(vrttis 11-12)</strong>
 El mayor obstáculo para la cultivación del
@@ -269,8 +279,9 @@ relatividad. Debido a que la mente ya no se encuentra
 asociada a las fluctuaciones del tiempo y, por el contrario,
 está enraizada en el nivel causal, puede tener acceso a
 conocer la esencia de las cosas más allá del tiempo. Esto
-140significa que puede conocer el pasado, el presente y el
+significa que puede conocer el pasado, el presente y el
 futuro.
+
 Muchas personas, en algún punto de sus vidas,
 llegan a experimentar algún evento precognitivo. El
 conocer algo antes de que suceda significa que hay un
@@ -287,6 +298,7 @@ supramental, el subliminal y el causal. El conocimiento
 profundo que viene desde estos estados puede filtrarse
 después hacia la mente sensorial-intelectual en la forma
 de un sueño profético.
+
 Todas las cosas se originan en la Mente Causal. El
 estrato de la mente causal se encuentra más cercano a
 nuestra esencia que la consciencia dominada por el
@@ -306,11 +318,12 @@ viene. Es como si la intensidad y agitación del evento
 pendiente en el firmamento etéreo superara nuestras
 barreras de limitación cognitiva y forzara su entrada hacia
 nuestra consciencia.
+
 Para el practicante de Tantra, al igual que para
 cualquier persona con una mente espiritualmente
 disciplinada, eventos como los sueños proféticos o
 precognitivos se vuelven mucho más regulares. Un
-141aspirante espiritual tiene un grado mucho mayor de
+aspirante espiritual tiene un grado mucho mayor de
 acceso a los kosas elevados debido a que su mente puede
 ser aquietada más fácilmente. Entre menos
 perturbaciones emocionales y distorsiones cognitivas, y
@@ -320,6 +333,7 @@ tanto, aquellos que puedan regular sus vrttis y los niveles
 mentales asociados a los vórtices inferiores van a estar
 constantemente informados por los planos sutiles y van a
 poder morar en ellos.
+
 Los seres humanos siempre van a encontrar
 fascinación en el conocimiento y las habilidades
 psíquicas. Sin embargo, la mayoría de la gente quiere
@@ -341,6 +355,7 @@ embargo, el conocimiento de estas personas se encuentra
 en un nivel muy superficial y frecuentemente está
 distorsionado por las proyecciones de sus propios
 pensamientos.
+
 El conocimiento más allá del tiempo del Vishuddha
 no es solamente para ver el futuro. En este nivel más allá
 del tiempo, la mente puede conocer la verdadera esencia
@@ -350,6 +365,7 @@ puede comprender la secuencia divina de
 acontecimientos que se dan en la creación del universo y
 ser capaz de transmitir este conocimiento a la humanidad
 buscando su bienestar.
+
 Un conocimiento así de elevado puede darse en la
 forma de una perspectiva superior de la esfera mundana,
 o en el conocimiento mismo del mundo sutil. Un buen
@@ -366,6 +382,7 @@ espirituales sutiles. Solamente una mente funcionando en
 los niveles subliminal y causal puede tener acceso a saber
 la manera en que estas fuerzas afectan la fenomenología
 del mundo material.
+
 El conocimiento del mundo sutil no se da por la
 búsqueda del conocimiento por el conocimiento en sí; es
 más bien una expresión de compasión infinita, el desear
@@ -378,6 +395,7 @@ maestros lo han hecho a través de promover la
 cultivación de una perspectiva espiritual y de la práctica
 de la misma, llevando un estilo de vida ejemplificado y
 enseñado por ellos mismos.
+
 <strong>Compasión universal</strong>
 El amor y la compasión son el flujo de agua
 cristalina que se vierte de los manantiales del Infinito.
@@ -390,7 +408,7 @@ personal y por lo tanto puede amar a los demás.
 El amor es parcial y limitado solamente cuando se
 encuentra bifurcado por la conciencia egoísta. En ese
 caso, desarrolla sus propios objetos de atracción y
-143aversión, y el sentimiento de amor se dirige solamente
+aversión, y el sentimiento de amor se dirige solamente
 hacia los seres cercanos, queridos o hacia un grupo social
 o cultural en particular. Si uno purifica este sentimiento de
 amor, uno se da cuenta inevitablemente que el amor
@@ -402,6 +420,7 @@ que están cerca de nosotros. A medida que este amor y
 sentimiento de compasión hacia otros se expande
 gradualmente, adquiere aspectos cada vez más
 universales.
+
 Entre más cerca esté uno de Brahma y más
 comprenda que el único propósito de Él es liberar a todos
 de sus ataduras, más comienza uno a compartir este
@@ -409,6 +428,7 @@ anhelo divino. “Conocer a Brahma es convertirse en
 Brahma”. Esto es cierto no sólo en cuanto a su esencia
 trascendental sino también en cuanto a su actividad
 divina.
+
 Es especialmente a través de este deseo de
 bienestar universal que podemos entender cómo el
 vórtice Vishuddha manifiesta en los seres humanos las
@@ -453,6 +473,7 @@ actuará de acuerdo a la verdad, sino que inspirará a otros
 a hacerlo; y no sólo esto, sino que tendrá el
 entendimiento y la fuerza para hacerle frente a la
 injusticia.
+
 <strong>Devoción</strong>
 Cuando una persona por fin se da cuenta que su
 mente no es una entidad permanente, sino un vehículo
@@ -473,6 +494,7 @@ una divinidad amorosa que puede actuar con aprobación
 o desaprobación hacia el aspirante dependiendo de sus
 acciones. Cuando algo bueno sucede es la gracia de dios.
 Cuando algo malo sucede es su castigo.
+
 El abordaje devocional-sentimental está
 relacionado a este tipo de aproximación. En esta relación,
 aún existe una concepción dualista en el diálogo devoto –
@@ -547,6 +569,7 @@ Alguien preguntó una vez al sabio Ramana Maharshi si los
 caminos de bhakti (devoción) y jnana (conocimiento) eran
 contradictorios. Su respuesta fue “¿Cómo puede uno
 conocer al Ser sin amarlo, y cómo puede uno amar al Ser
+
 sin conocerlo?”.
 El hecho de que la noción de un dios dual haya sido
 superada no implica que el Absoluto no tome parte en
@@ -567,6 +590,7 @@ una vertiente esencial emanada de la maravillosa esencia
 del Espíritu puro. Aun las cualidades personales e
 idiosincráticas de la mente son el objeto y posesión del
 Sujeto Supremo.
+
 Aquel que se relacione con el Absoluto desde este
 punto, nunca lo confundirá con las construcciones del
 intelecto, ni se someterá a los dogmáticos debates del
@@ -579,6 +603,7 @@ mente está integrada en el “Yo” y su simplicidad y
 receptividad le permiten llenarse de un resplandor infinito
 que nunca podrá ser alcanzado por los conceptos
 intelectuales del Aham.
+
 <strong>Repulsión</strong>
 La naturaleza desinteresada de los vrttis del
 Vishuddha es una compensación para los vrttis del
@@ -613,7 +638,9 @@ argumentación tenía la misma función en el Anahata, sólo
 que en una forma más sutil. La repulsión no es sino un
 refinamiento de estas tendencias previas y cumple la
 misma función, en un nivel superior.
+
 <strong>Gracia</strong>
+
 Las expresiones que emanan de una mente
 purificada por la activación del vórtice Vishuddha están
 llenas de gracia y benevolencia. Una persona así siempre
@@ -624,6 +651,7 @@ debido a esto que tal persona puede tener un efecto de
 transformación sobre otros. Las ondas de pensamiento
 emanadas de un ser así elevarán y espiritualizarán la
 mente de los demás.
+
 El Vishuddha es un conducto para la Mente Causal,
 que es la matriz Causal de toda la creación. Todo está
 dentro de la mente de Brahma. Por lo tanto, una mente
@@ -642,6 +670,7 @@ existe a este nivel se convierte en un co-creador, un
 vehículo para la fuerza cognitiva de Brahma. Un corazón
 así de grande sustenta y promueve el desarrollo de todos
 los seres.
+
 Meister Eckhart exclamó: “todas las criaturas
 vienen a mi mente y son racionales en mí. Yo solo preparo
 a todas las criaturas a volver a Dios. ¡Piensen en lo que
@@ -659,6 +688,7 @@ nosotros, los más pasajeros. Quieren que las
 transformemos por completo, dentro del corazón invisible,
 ¡en —oh, infinitamente— nosotros!, quienesquiera que
 finalmente seamos.” 1
+
 <strong>Los ocho primeros vrttis</strong>
 Ahora que ha quedado entendido cómo los vrttis
 del Vishuddha poseen un carácter extra-personal que
@@ -668,9 +698,10 @@ Los segundos ocho vrttis fueron principalmente
 expresiones personales de una naturaleza universal.
 Poseían también una cualidad especial que les permitía
 1Rainer Maria Rilke, Las elegìas de Duino.
-150afectar a otros seres. Sin embargo, las primeras ocho
+afectar a otros seres. Sin embargo, las primeras ocho
 tendencias no son tanto expresiones personales, sino
 poderes ocultos.
+
 Hay distintos tipos de poderes ocultos. A los que
 nos referimos aquí son de la clase más elevada. Los
 poderes “inferiores” como la clarividencia, clariaudiencia,
@@ -691,6 +722,7 @@ fragmenta en un microcosmos determinado de acuerdo a
 las necesidades particulares que haya en un momento y
 lugar de promover el progreso humano, en el ámbito
 personal, social o espiritual.
+
 Uno puede esforzarse y obtener los poderes ocultos
 inferiores. Sin embargo, esto no es aconsejable ya que
 crear apegos hacia estas habilidades “extraordinarias”
@@ -711,6 +743,7 @@ tenemos que hay una gran barrera cósmica para la
 manifestación de estos poderes, y debe haberlo, imaginen
 solamente si fuera posible para un capitalista ambicioso
 tener estas habilidades.
+
 Como se mencionó anteriormente, estos poderes
 no son expresiones personales, sino tendencias causales
 del Macrocosmos, expresadas a través del microcosmos.
@@ -720,6 +753,7 @@ resulta apropiado para nadie que las comprenda
 discutirlas a detalle. Este secreto es solamente accesible
 al “Gran Mago” y su comitiva, tal y como expresó
 Anandamurti.
+
 Lo único que podemos decir sobre ellos es que son
 poderes que ayudan a entender la naturaleza más
 profunda de las mentes de todos los seres. Ellos afectan a
@@ -738,6 +772,7 @@ colectiva, se genera en ella un cambio definitivo, aunque
 desapercibido. Las personas, una vez que sus vrttis han
 sido manipulados sutilmente, simplemente comienzan a
 expresarse en una manera diferente.
+
 <strong>Microvita</strong>
 Muy cercanas a estos poderes ocultos se
 encuentran las entidades que Anandamurti denominó
@@ -747,7 +782,7 @@ crudos hasta las que afectan las propensiones dentro de
 la mente. Lo que tienen todas estas microvita en común
 es que todas son entidades no manifiestas físicamente,
 que sirven de intermediarias en el proceso de
-152transformación de pensamientos a realidades objetivas.
+transformación de pensamientos a realidades objetivas.
 Por ejemplo, un átomo, o cualquier otra partícula de
 materia, es esencialmente la manifestación más cruda de
 la proyección de un pensamiento de la Mente Cósmica. El
@@ -760,6 +795,7 @@ existen otros tres niveles de mente intermediarios entre el
 nivel causal más sutil y el nivel material más crudo. Las
 microvita existen y funcionan dentro de la mente causal y
 los niveles intermediarios.
+
 El objetivo principal de este libro es tratar sobre los
 procesos psicoespirituales dentro de la mente humana,
 por lo que la explicación sobre las microvita se dará en el
@@ -771,6 +807,7 @@ humana. Estas entidades, en lugar de tener un cuerpo
 hecho de los cinco factores fundamentales, tienen uno
 compuesto solamente de los tres más sutiles: luminoso,
 aéreo y etéreo.
+
 Cuando estas mentes existieron en forma física,
 tuvieron un grado excepcional de desarrollo. De hecho,
 estos seres alcanzaron el vórtice Vishuddha y
@@ -787,8 +824,9 @@ casos, los samskaras pendientes de estas mentes son
 utilizados por la Mente Cósmica para servir a la creación.
 Esta es la forma de agotar los samskaras pendientes para
 una mente especialmente elevada.
+
 La mayor parte de las veces, cuando las mentes se
-153desprenden de sus cuerpos físicos, permanecen dormidas
+desprenden de sus cuerpos físicos, permanecen dormidas
 en los kosas superiores mientras aguardan su
 reencarnación en un cuerpo físico y ambiente que sea
 compatible con su carga samskárica. Sin embargo, las
@@ -807,6 +845,7 @@ Como consecuencia, el poder causal que han obtenido a
 través de su desarrollo espiritual se convierte en el medio
 para terminar con los samskaras personales que aún
 estén atándolos.
+
 Se mencionó previamente que estas mentes
 desencarnadas manifiestan el potencial de la mente
 causal en distinto grado. Esta variación depende del nivel
@@ -816,6 +855,7 @@ hacia algo inferior al nivel causal del Vishuddha, menos
 será la fuerza causal que se podrá expresar. Esta
 variación es la que crea la clasificación jerárquica de las
 mentes desencarnadas o microvita.
+
 Una microvita es un ser que ha alcanzado en algún
 grado lo que se conoce como siddhi, o perfección con
 actividad causal. Sin embargo, su nivel de dominio sobre
@@ -869,6 +909,7 @@ de mentes desencarnadas, no son ángeles flotantes con
 forma antropomórfica. Más bien son mentes que
 temporalmente se asocian a cierto programa causal o
 función divina.
+
 Podemos ver otro ejemplo de la función de una
 mente desencarnada a través de la categoría de las
 microvita conocidas como ghandarvas. Los gandharvas
@@ -886,6 +927,7 @@ clases de microvita comparten en común es que existen
 como intermediarios causales en el proceso de convertir
 la creación macrocósmica en realidades ontológicas,
 objetivas.
+
 También existen especies de microvita negativas.
 Estas son entidades que propulsan la mente
 exteriormente, hacia el deseo material. Las ideas
@@ -896,6 +938,7 @@ se convierte en una forma negativa de mente
 desencarnada. Estas mentes, debido a sus malas
 acciones, tienen que ecualizarse inflingiendo esta
 negatividad en otros.
+
 Resumiendo, las microvita, ya sean positivas o
 negativas, trabajan con nuestros pensamientos y son
 atraídas por ellos. Una mente que es capaz de manifestar
