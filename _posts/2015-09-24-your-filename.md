@@ -1,6 +1,6 @@
 ---
 published: true
-title: El Baktun Nuevo
+title: "2015-09-24-baktun-nuevo.md"
 tags: 
   - Tantra Espiritual
   - Tantra Social
