@@ -1,6 +1,6 @@
 ---
 published: true
-title: "2015-09-24-la-mente-pura.md"
+title: La Mente Pura
 layout: post
 tags: 
   - Tantra Espiritual
