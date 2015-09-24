@@ -1,11 +1,12 @@
 ---
-published: false
+published: true
 title: La Mente Pura
 layout: post
 tags: 
   - Tantra Espiritual
 comments: true
 ---
+
 
 En la etapa actual de evolución humana es muy
 difícil encontrar individuos, mucho más sociedades, que
@@ -900,4 +901,3 @@ las tendencias del vórtice Vishuddha, puede utilizar
 microvita positivas para elevar la mente colectiva. El uso
 de los poderes ocultos de la mente causal está muy ligado
 a las actividades de las microvita.
-
