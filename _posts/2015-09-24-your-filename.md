@@ -1,12 +1,13 @@
 ---
 published: true
-title: "2015-09-24-baktun-nuevo.md"
+title: El Baktun Nuevo
 tags: 
   - Tantra Espiritual
   - Tantra Social
 layout: post
 comments: true
 ---
+
 
 
 Pluma Blanca era un sanador, yogui, y astrólogo indígena maya. Todos eran una sola ciencia para él, sin embargo. He escrito anteriormente sobre su conocimiento de tantra yoga en algunos cuentos cortos.<a href=""> http://tantramaya.org/4-Stories-of-Pluma-Blanca/ </a>
