@@ -9,6 +9,7 @@ comments: true
 
 
 
+
 En la etapa actual de evolución humana es muy
 difícil encontrar individuos, mucho más sociedades, que
 funcionen al nivel del vórtice Vishuddha (la quinta nivel de mente). De hecho,
@@ -902,3 +903,5 @@ las tendencias del vórtice Vishuddha, puede utilizar
 microvita positivas para elevar la mente colectiva. El uso
 de los poderes ocultos de la mente causal está muy ligado
 a las actividades de las microvita.
+
+de "Un Nombre Para el Infinito"    ver el menu para descargar o ver capitulos en el sitio.
