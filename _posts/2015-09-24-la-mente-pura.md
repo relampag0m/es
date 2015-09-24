@@ -1,11 +1,12 @@
 ---
 published: true
-title: La Mente Pura
+title: "2015-09-24-la-mente-pura.md"
 layout: post
 tags: 
   - Tantra Espiritual
 comments: true
 ---
+
 
 
 En la etapa actual de evolución humana es muy
