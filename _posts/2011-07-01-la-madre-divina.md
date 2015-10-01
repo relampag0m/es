@@ -3,16 +3,24 @@ title: La Madre Divina
 category: Tantra Social
 layout: post
 comments: true
+published: true
 ---
+
 
 {% capture images %}
 	/images/virgenzapatista.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
-El año antepasado estaba en la cúspide de esta llamada guerra contra el narco en el norte de México . Los narcos controlan toda la región y el pueblo local. Había un centro de comando a 2 km de nuestra casa donde había cráneos humanos colgados en la cerca. Muchos de los hombres locales fueron contratados como exploradores miradores para informarles si no iba a haber un ataque. Los habitantes de la aldea eran muy indigentes y pobres. Muchas familias tenían comida y ropa inadecuada , mientras que los hombres gastan su dinero en cerveza o piedra.
+El año antepasado estaba en la cúspide de esta llamada guerra contra el narco en el norte de México. Los narcos controlan toda la región y el pueblo local. Había un centro de comando a 2 km de nuestra casa donde había cráneos humanos colgados en la cerca. Muchos de los hombres locales fueron contratados como exploradores miradores para informarles si no iba a haber un ataque. Los habitantes de la aldea eran muy indigentes y pobres. Muchas familias tenían comida y ropa inadecuada , mientras que los hombres gastan su dinero en cerveza o piedra.
 
-Rancho Misterio comenzó a organizar algunas actividades de servicio social en la comunidad. Incluso organizamos una masa con un muy buen padre católico en el que el canto de Baba Nam Kevalam se incorporó en una misa que dio el padre. Giitanjali continuó tomando nuestro equipo para cantar kiirtan dos veces a la semana con los miembros de la comunidad . Normalmente me quedé en el rancho con la artillería pesada en la meditación profunda y seguro de que nada malo podía suceder a mi familia . Durante ese tiempo los lugareños rezar al Virigin de Guadalupe antes y después de cantar kiirtan . En esos momentos mi meditación era tan lleno de hermosas ideas cristianas . Me sentí tan cerca el , aspecto maternal divino de la divinidad . Ella nunca apareció como una forma , sino el amor que llena todo el espacio entre todas las estrellas del universo. En ese momento me di cuenta de la Virgen de Guadalupe tiene un chal adornado con estrellas , y que la imagen es realmente una mezcla entre una diosa indígena y la Virgen María. Nunca supe mucho del catolicismo personalmente, pero siempre conocia muy buenos católicos. A mi manera, yo tenía muchas apariciones internas y fue agradable sentir que entendía el significado subyacente de la Madre Divina detrás de esta imagen .
+Rancho Misterio comenzó a organizar algunas actividades de servicio social en la comunidad. Juntemos con dos sacerdotes progresivos en la comunidad.  Incluso organizamos una masa con un muy buen padre católico en que cantemos "Baba Nam Kevalam" en una misa que dio el padre. "Baba Nam Kevalam" es una mantra sanscrito que los yogis cantan antes de meditar.  
 
-En ese mismo tiempo , hubo una aparición de la Virgen de Guadalupe sobre el pueblo. Todo el mundo que no estaba borracho la vieron, es decir, a todas las mujeres y tal vez uno o dos de los hombres. Lo que aprendí de esto es que lo divino no puede en última instancia ser atrapado en cualquier imagen, sino más bien puede utilizar las imágenes para expresar verdades profundas .
+Mi esposa continuó tomando nuestro equipo para cantar kiirtan (Baba Nam Kevalam) dos veces a la semana con los miembros de la comunidad. Normalmente me quedé en el rancho con la artillería pesada en la meditación profunda y seguro de que nada malo podía suceder a mi familia. Ellos sentieron seguridad de entrar la comunidad peligrosa mientres que yo meditaba profundamente.  
 
-<strong> </strong>
+Durante ese tiempo los lugareños rezaron al Virigin de Guadalupe antes y después de cantar kiirtan . En esos momentos mi meditación era tan lleno de hermosas ideas sobre la divinidad femenina y maternal.  "Feminina" y "materna" son qualificaciones practicas en que nunca uso las palabras "el" o "ella" para dios, la Consciencia Suprema.  "Ella" nunca apareció como una forma, sino el amor que llena todo el espacio entre todas las estrellas del universo. En ese momento que mi mente fue expandiendo en el espacio infinito me di cuenta de la Virgen de Guadalupe tiene un chal adornado con estrellas. 
+
+La imagen de este Virgen no es original y su autenticidad historico es dudosa.  La imagen es realmente una mezcla entre una diosa indígena y la Virgen María. Por lo menos este simbolo de la Madre Divina esta basada en la naturaleza en que ella es la Madre de Estrellas. Es dificil imaginarla atrapado en algun iglesia pequena.  A mi manera, yo tenía muchas apariciones internas y fue agradable sentir que entendía el significado subyacente de la Madre Divina detrás de esta imagen que no conocia ni tengo apegos personal.  Lo que aprendí de esto es que lo divino no puede en última instancia ser atrapado en cualquier imagen, sino más bien puede utilizar las imágenes para expresar verdades profundas y misticas de la Consciencia Suprema.
+
+En ese mismo tiempo, hubo una aparición de la Virgen de Guadalupe sobre el pueblo. Todo el mundo que no estaban borrachos la vieron; es decir, a todas las mujeres y tal vez uno o dos de los hombres. 
+
+
