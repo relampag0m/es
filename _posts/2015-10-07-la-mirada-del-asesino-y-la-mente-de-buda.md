@@ -1,9 +1,12 @@
-﻿---
+---
 layout: post
 title: La Mirada del Asesino y la Mente de Buda
 comments: true
-tags: [Tantra Espiritual]
+tags: 
+  - Tantra Espiritual
+published: true
 ---
+
 
 {% capture images %}
 	/images/.jpg
