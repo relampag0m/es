@@ -11,7 +11,7 @@ published: true
 {% capture images %}
 	/images/relampago.png
 {% endcapture %}
-{% include gallery images=images caption="Greetings, Ananda Marga Inc." cols=3 %}
+{% include gallery images=images caption="" cols=3 %}
 
 Nietzche hablaba de un fenómeno bastante extraño que él llamó el "eterno retorno". Según esta teoría, la realidad que construimos con nuestro propio libre albedria se repite eternamente. Siempre intentamos escapar nuestra libertad y tomar refugio en convenciones, religiones, y sistemas filosoficas, pero, al final, son proyecciones de nuestra falta de confianza y creatividad, y tambien nuestro deseo escapar este libertad tan radical que tenemos.  Al final, topamos con nuestros mismos proyecciones, eternamente.  Él estaba profundamente inmerso en la literatura budista como filólogo sánscrito y esta idea parece ser una interpretación muy original y subjetiva de la idea arquetípica de la reencarnación que el seguramente encontró en sus estudios. 
 
