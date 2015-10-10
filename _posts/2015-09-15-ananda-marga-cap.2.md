@@ -1,5 +1,5 @@
 ---
-title: "Filosofía Primaria de Ananda Marga Cap.2 - Anandamurti  "
+title: "Filosofía Primaria de Ananda Marga Cap.2 - Anandamurti"
 layout: post
 comments: true
 tags: Anandamurti
