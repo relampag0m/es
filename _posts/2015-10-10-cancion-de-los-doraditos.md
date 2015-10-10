@@ -1,9 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 comments: true
 title: Cancion de Los Doraditos
 ---
+
 
 
 {% capture images %}
