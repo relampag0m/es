@@ -10,6 +10,7 @@ published: true
 
 
 
+
 {% capture images %}
 	/images/.jpg
 {% endcapture %}
@@ -34,3 +35,14 @@ Tienen pequeños campamentos paramilitares por todo el valle. Cada uno tiene un 
 Cada vez que meditamos y cantamos kiirtan para crear una vibración espiritual positiva, el hombre sale en la motocicleta. Creo que nos quiere porque detecta nosotros como pacíficos, pero no sabe cómo demostrarlo. Las primeras veces que vinieron con su arma y simplemente observar desde lejos. A continuación, llegó sin su arma y acaba conduciendo en círculos como un loco. Estas experiencias fueron explicados en las historias anteriores: <a href="http://tantramaya.org/es/dos-encuentros-recientes-con-la-santa-muerte/">http://tantramaya.org/es/dos-encuentros-recientes-con-la-santa-muerte/</a>   
 
 Vibraciones muy positivas asustan a la gente muy negativas. Incluso el borracho violento que estrelló aprendió algo de la ley del karma. Después, cada vez que pensaba en nosotros negativamente, tuvo un accidente menor y confesó esto a su mujer que más tarde nos dijo. Personas mundanas no pueden entender las leyes del espíritu y las energías sutiles del Macrocosmos. Incluso intelectuales sofisticados que tienen poca introspección y la armonía natural no saben nada de los reinos superiores de la mente que trabajan para nuestro bienestar si sólo los permitamos.
+
+La otra mañana empezé a tocar la música de réquiem de nuevo para los malandros alredador. Ellos nunca viven mucho tiempo y cada vez que empiezan a ponerse demasiado curioso acerca de por qué no hemos abandonado nuestro hogar para ellos, siempre pasa algo y nunca regresan. Soldados de muerte nuevos vienen a habitar los lugares y luego mueren y este ciclo se ha sucedido una y otra vez. Yo estaba en retiro de meditación, incluso antes de que llegaran me uní con el espíritu del desierto. Siento estos recién llegados como si entraban dentro de mi propia mente y he luchado para comprender qué es lo que hacen y por qué lo hacen. Ellos saben que su tiempo es corto y por lo que adoran a la Santa Muerte. Sin embargo, todavía hay una pequeña parte de ellos que todavía es humano y sufre.
+
+Después de ver ese demonio en la motocicleta, finalmente me di cuenta de lo Anandamurti quiso decir cuando dijo que hay seres humanos que están aún más degeneraron que los animales y son realmente ya ni siquiera humana en sus mentes. Más bien, son como demonios. Sin embargo, sigo veindo una chispa de conciencia detrás de todo esto. No se manifesta, pero tiene lo que parece ser la vergüenza infinita y auto odio y el deseo de escapar de este infierno mental. No es de extrañar que después de ver los ojos de ese asesino que sentí que tenía deseos intensos de suicidarse. Yo no quiero acercarme a este energía oscura, pero parece tan claro por qué existe tal parásito mental, oscuro. Tal vez es como un parásito físico, sino en el reino mental. Tiene su lugar en la naturaleza para mantener el equilibrio, pero a veces se sale de control. Estas energías no pueden tocar aquel cuya mente se rinde a la Conciencia Suprema; que sólo atacan a las mentes que son demasiado absorto en la violencia, que incluye auto-odio excesiva. Muchas personas buenas han optado por este camino, pero siempre fue una victoria para el ego ilusorio, que no es más que una defensa contra un auto-odio subyacente de su propia creación monstruosa, centrado en sí mismo de uno. Todo depende de la ideación y la perspectiva de uno. Al igual que Blake dijo:
+
+"Love seeketh not itself to please
+Nor for itself hath any care 
+But for another gives its ease 
+And builds a heaven in hell's despair." 
+
+Meditación y Kiirtan mantienen lejos estas y otras microvitas negativas que las mentes humanas erróneas están proliferando. Nuestra mayor defensa contra ellos es nuestra devoción y les aterroriza. No vamos a dejar que nos controlan con su terror, y con ello dirigir los destinos de nuestras mentes y espíritus. Sin siquiera intentarlo, nuestra energía espiritual envía sus motivos oscuros a volver sobre ellos. Kiirtan es la mayor defensa, ya que es un acto de entrega que trae fuerza espiritual positiva. Nuestra guerra es una de voluntad, la fe y la razón contra el materialismo, la mentira y la destrucción.
