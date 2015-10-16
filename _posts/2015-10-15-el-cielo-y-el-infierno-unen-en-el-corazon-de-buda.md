@@ -1,0 +1,24 @@
+---
+published: true
+layout: page
+tags: 
+  - Tantra Espiritual
+title: El Cielo Y El Infierno Se Unen En El Corazon de Buda
+---
+
+
+
+
+La otra mañana empezé a tocar la música de réquiem de nuevo por los chicos malos de la zona. Ellos nunca viven mucho tiempo y cada vez que empiezan a ponerse demasiado curioso acerca de por qué no hemos abandonado nuestro hogar para ellos, siempre pasa algo y nunca regresan. Soldados de muerte nuevos vienen a habitar los lugares y luego mueren y este ciclo se ha sucedido una y otra vez. Yo estaba en retiro de meditación, incluso antes de que llegaran me convertí en uno con el espíritu del desierto. Siento estos recién llegados como si entraban dentro de mi propia mente y he luchado para comprender qué es lo que hacen y por qué lo hacen. Ellos saben que su tiempo es corto y por lo que adoran a la Santa Muerte. Sin embargo, todavía hay una pequeña parte de ellos que todavía es humano y sufre.
+
+Después de ver ese demonio narco en la motocicleta que mencioné en un enlace en el post anterior, finalmente me di cuenta de lo Anandamurti quiso decir cuando dijo que hay seres humanos que están aún más degenerados que los animales y son realmente ya ni siquiera humana en sus mentes. Más bien, son como demonios. Sin embargo, sigo veindo una chispa de conciencia detrás de todo esto. No manifiesta bien, sino porque haytodavía un poco de consciencia human, esta consciencia se manifiesta en ser la vergüenza infinita y auto odio (dos tendencias fundamentales auto-conscientes) y el deseo de escapar de este infierno mental. Sicarios son las personas más infelices imaginable. No es de extrañar que después de ver los ojos de ese asesino que sentí que el tenía deseos intensos de suicidarse. Yo no quiero acercarme a que la energía oscura, pero parece tan claro por qué existen tales parásitos mentales oscuros. Tal vez es como un parásito físico, sino en el reino mental. Tiene su lugar en la naturaleza para mantener el equilibrio, pero a veces se sale de control. Estas energías no pueden tocar aquel cuya mente se entrega a la Conciencia Suprema; que sólo atacan a las mentes que están demasiado absortos en la violencia. La baja autoestima es una forma de auto-odio, aunque en un sentido mucho más suave que en el asesino narco. Muchas buenas personas que pierden su confianza y fe en la vida han optado por esta forma de salir de sus problemas también, pero el suicidio siempre fue una victoria para el ego ilusorio. Uno vino a creer que no había nada más que la propia pequeña y miserable ego. Uno nunca debe adjuntar el juicio a estas ideas sobre los suicidios, porque a veces la gente tiene los más profundos sufrimientos que serían inimaginables para muchos de concebir. La única salida es a través de un conocimiento profundo de sufrimiento, como mis amigos budistas me dicen con sinceridad. Esta toma de conciencia le da a uno la compasión por todos los seres que sufren en este aparentemente rueda torcida, desvencijada de la existencia. Este concepto del ego distorsionado de control sobre la propia ego imaginario es una defensa contra un auto-odio subyacente para el propio miedo con sede y creación mental egocéntrica que ha ido mal y perdió su función de guiar la vida.  Uno se desespera, y hace algunos malas decisiones. La vida requiere grandes ideas, o estamos acabados baja la rueda cruel del materialismo. Todo depende de la ideación y la perspectiva de uno. Como Blake dijo:
+
+“Love seeketh not itself to please
+
+Nor for itself hath any care
+
+But for another gives its ease
+
+And builds a heaven in hell’s despair.”
+
+Meditación y Kiirtan mantener lejos estas y otras microvitas negativas que las mentes humanas erróneas están proliferando. Nuestra mayor defensa contra ellos, tanto física como mental, es nuestra devoción y eso aterroriza a los narcos, tanto como terroriza la microvita negativa. No vamos a dejar que nos controlan con su terror, y con ello dirigir los destinos de nuestras mentes y espíritus. Nuestras vidas tienen un propósito más elevado y nuestro bienestar eterno está estampado y sellado si tenemos sólo un "poquito de devoción." Sin siquiera intentarlo, nuestra energía espiritual enviaría sus motivos oscuros a volver sobre ellos. Kiirtan es la mayor defensa, ya que es un acto de entrega al Testigo eterno que trae fuerza espiritual positiva, microvita positiva, en el más oscuro de los espacios e infiernos. Nuestra guerra es una de voluntad, la fe y la razón contra el materialismo rampante, las mentiras y la destrucción y así como los pensamientos y las energías detrás de estos engaños egoístas que han creado el infierno en la gran parte de nuestra Madre Tierra.
