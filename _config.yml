@@ -8,17 +8,18 @@ words_per_minute: 200
 url: http://tantramaya.org/es
 
 # Owner/author information
-owner:
-  name:          Vishal Eckhart
-  avatar:        maracame.jpg
-  #bio:           Pueden dejar preguntas o comentarios abajo de las publicaciones en los comentarios.
+owner:            
+  name:           Vishal Eckhart
+  avatar:         maracame.jpg
+  #bio:      Questions and comments are welcome on the comment footer on the bottom of posts.   
  
- # Social networking links used in footer. Update and remove as you like.
-
- #email: vishal@cryptolab.net
   
+  # Social networking links used in footer. Update and remove as you like.
+  diaspora: https://diasp.eu/u/elmisterio
+ 
 
-  
+  #email: vishal@cryptolab.net
+
 # Background image to be tiled on all pages
 background: images/sky.jpg
 
