@@ -1,15 +1,19 @@
 ---
 title: El Tantra de la Flauta y el Neem
-tags: [Tantra Social]
+tags: 
+  - Tantra Social
 layout: post
 comments: true
+published: true
 ---
+
 
 {% capture images %}
 	/images/kiirtan.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
-<em>O yogui, sentarse en posición de loto bajo el neem sagrado y juntos hagan una fuerza consciente impenetrable con la naturaleza. Los soldados de la muerte recibirán una gran bendición de su práctica. Luz infinita, blanca quema y penetra y enciende su oscuridad. Una reacción inmediata sacude su mundo. Los que se dieron tanto terror pueden morir en el terror de la Madre Kali, protector del planeta y de los yoguis. En las próximas embriones que habitara’n terminarán su recapitulación biologico con branquias y aletas.  Nadarán en aguas sucias tomando orines de otros pescados.</em>
+
+_O yogui, sentarse en posición de loto bajo el neem sagrado y juntos hagan una fuerza consciente impenetrable con la naturaleza. Los soldados de la muerte recibirán una gran bendición de su práctica. Luz infinita, blanca quema y penetra y enciende su oscuridad. Una reacción inmediata sacude su mundo. Los que se dieron tanto terror pueden morir en el terror de la Madre Kali, protector del planeta y de los yoguis. En las próximas embriones que habitara’n terminarán su recapitulación biologico con branquias y aletas.  Nadarán en aguas sucias tomando orines de otros pescados._
 
 No muchas personas entiendieron el contexto de estas frases cuando les publiqué con esta foto el año pasado. Fue una época muy oscura y recordé una canción punk rock muy oscuro desde mi juventud sobre la reencarnación y cómo los pervertidos con sus complejos Edipo renacen como peces. Nunca pensé que algo útil saldría de esos recuerdos, pero me di cuenta de que eran bastante perspicaces!
 
@@ -23,8 +27,8 @@ No recomiendo esta técnica a menos que uno es muy valiente y tiene una mantra m
 
 Las circunstancias me han dado la prueba una y otra vez que la única verdadera protección en este mundo es ser uno con el dharma, el orden moral del universo. "Los que protegen a dharma son protegidos por dharma." Dharma no se trata de creencias o religión, sino más bien llegar a la esencia de las cosas por la contemplación profunda y luego saber cómo reaccionar ante la situación desde esta perspectiva iluminado y pináculado.
 
-Si por alguna razón no puedo concentrarme en la meditación un poco de música espiritual o kiirtan siempre ayuda. En lugar de dejar que la mente condiciona por información terrible que procede del mundo de los hombres, uno se entrega al dharma, el flujo silencioso y natural de los acontecimientos en el universo. Con el esfuerzo de <em>sadhana, </em>la meditacion, uno puede realmente sentir la armonía de la naturaleza y el espíritu, y que la fuerza del dharma, la fuerza consciente de la naturaleza, cuyo único propósito es servir lo que es puro e inocente. La mejor meditación es la que se entregó totalmente a Brahma, la entidad suprema; uno desea nada más que simplemente disfruta de ser uno con Brahma. Del mismo modo, la mejor música es la que toca con la devoción espiritual. Mientras que en la meditación o la reproducción de música bajo las neems o la ceiba uno totalmente se pierde en la ideación espiritual. Con la música y la meditación, junto con la protección de los neems y ceiba, se puede hacer el trabajo necesario y crear un ambiente espiritual protegida. De sentir que la Entidad Suprema es cercano y querido, es siempre amorosa y mirando por encima, disipa todo temor.
+Si por alguna razón no puedo concentrarme en la meditación un poco de música espiritual o kiirtan siempre ayuda. En lugar de dejar que la mente condiciona por información terrible que procede del mundo de los hombres, uno se entrega al dharma, el flujo silencioso y natural de los acontecimientos en el universo. Con el esfuerzo de _sadhana_, la meditacion, uno puede realmente sentir la armonía de la naturaleza y el espíritu, y que la fuerza del dharma, la fuerza consciente de la naturaleza, cuyo único propósito es servir lo que es puro e inocente. La mejor meditación es la que se entregó totalmente a Brahma, la entidad suprema; uno desea nada más que simplemente disfruta de ser uno con Brahma. Del mismo modo, la mejor música es la que toca con la devoción espiritual. Mientras que en la meditación o la reproducción de música bajo las neems o la ceiba uno totalmente se pierde en la ideación espiritual. Con la música y la meditación, junto con la protección de los neems y ceiba, se puede hacer el trabajo necesario y crear un ambiente espiritual protegida. De sentir que la Entidad Suprema es cercano y querido, es siempre amorosa y mirando por encima, disipa todo temor.
 
-&nbsp;
 
-#tantra #tantramaya #yoga #neem #nature
+
+
