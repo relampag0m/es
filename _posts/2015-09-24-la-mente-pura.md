@@ -9,6 +9,10 @@ comments: true
 
 
 
+{% capture images %}
+	/images/mandala.jpg
+{% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 
 En la etapa actual de evolución humana es muy
 difícil encontrar individuos, mucho más sociedades, que
