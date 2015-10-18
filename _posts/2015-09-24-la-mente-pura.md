@@ -1,13 +1,14 @@
 ---
 published: true
 title: La Mente Pura
-layout: page
+layout: post
 tags: 
   - Tantra Espiritual
 comments: true
 image: 
   feature: mandala.jpg
 ---
+
 
 
 
