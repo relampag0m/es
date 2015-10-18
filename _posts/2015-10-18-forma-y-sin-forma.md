@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 tags: 
   - Tantra Espiritual
 layout: page
@@ -9,6 +9,7 @@ image:
   published: true
 title: Form y Sin Forma
 ---
+
 
 
 
