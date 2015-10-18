@@ -2,16 +2,14 @@
 title: Forma y Sin Forma
 tags: 
   - Tantra Espiritual
-layout: post
+layout: page
 comments: true
 published: true
+image: 
+  feature: maguey.jpg
 ---
 
 
-{% capture images %}
-	/images/maguey.jpg
-{% endcapture %}
-{% include gallery images=images caption="" cols=3 %}
 "Solo Brahma es el gurú." Este dicho del Upanishad representa una concepción muy universal de la divinidad. Brahma significa literalmente lo que es grande y hace que otros sean grandes. En otras palabras, Brahma es la Conciencia del macrocosmos, de todo el universo. El gurú no es otro que la Conciencia Suprema y no puede ser manchado por la parcialidad ni prejuicios ni cualquier proyección relativa de un mesías o gurú humano. Lo que es simplemente es. Si la Conciencia Suprema puede crear todo este universo, sin duda hay una manera sin mediación, directa de comunicarse conmigo, un microcosmos pequeno en este Macrocosmos infinito.
 
 Y uno podría imaginar que una deidad Macrocósmico no es una pequeña dios de un determinado país o clase o sociedad de seres humanos exclusivos que merecen su misericordia. La diminuta mente microcósmica humana con sus prejuicios y finalmente entiende que "dios" no es que se pueden encontrar a través de cualquier forma finita, el material ni mental. Los libros sagrados y mesías y budas eran sólo aproximaciones de una verdad mística interior. Sólo aquellos que se atreven a cuestionar la raíz de su ser libre de estos apéndices posiblemente podrian encontrar la raíz de su ser libre de todo acondicionamiento relativo. No dualismo, o Advaita, es la idea de que en última instancia, la conciencia del microcosmos individual y el Macrocosmos colectivo son fundamentalmente lo mismo. Esto no quiere decir que mi conciencia se ha convertido en la conciencia del universo, que el ego se convierte en dios. Más bien, mi conciencia se ha unido en, ha estado aceptado, transformado, digerido, y finalmente asimilarnos por la conciencia viva del Macrocosmos activo. El microcosmos ya no es una entidad separada creando reacciones negativas y contaminando el mundo mientras huya de un sueño vacío a la siguiente. El microcosmos iluminada es una célula mental unificado con otras células mentales que forman un macrocosmos, un cuerpo colectivo de mentes. Aquí, no se puede traer apegos, los prejuicios, ni ninguna otra cuestión de control para el ego. En el momento en que se presenten, el Macrocosmos rompe todo que no pertenece a su orden. Se necesita mucho tiempo, evolución y de ensayo y error para encontrar un flujo de unidad en el macrocosmos. Hay que desaprender el ego socialmente acondicionado y adoctrinado, junto con todos sus instintos mentales y biológicas hereditarias con el fin de aprender el camino de Brahma.
