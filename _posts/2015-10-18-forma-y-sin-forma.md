@@ -7,8 +7,9 @@ comments: true
 image: 
   feature: maguey.jpg
   published: true
-title: Form y Sin Forma
+title: Forma y Sin Forma
 ---
+
 
 
 
