@@ -6,8 +6,9 @@ tags:
   - Tantra Espiritual
 comments: true
 image: 
-  feature: mandala.jpg
+  thumb: mandala.jpg
 ---
+
 
 
 
