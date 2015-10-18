@@ -10,10 +10,6 @@ comments: true
 
 
 
-
-
-
-
 Pluma Blanca era un sanador, yogui, y astrólogo indígena maya. Todos eran una sola ciencia para él, sin embargo. He escrito anteriormente sobre su conocimiento de tantra yoga en algunos cuentos cortos.<a href=""> http://tantramaya.org/es/4-Cuentas-Sobre-Pluma-Blanca/ </a>
 
 Él me enseñó las técnicas de meditación necesarias para empezar a entender la astrología. Dijo que era una ciencia intuitiva que necesitaba la experiencia directa, mística. Se requiere que uno puede entregar su vida microcosmico al Macrocosmo, el universo vivo e entero.  Este tipo de experiencia mística era muy diferente de que yo había entendido previamente como el misticismo. Supongo que mis ideas eran más clásicos. Siempre me gustaron los Upanishads, Toaism y contemplativos como Meister Eckhart, Plotinus, and Ramana Maharshi. Representaban el conocimiento espiritual pico en mi opinión.  Tantra Maya es una forma muy elevada del místicismo natural. Su propósito es entender la pura subjetividad del "yo" interior, como en el misticismo clásico, sin embargo, al mismo tiempo desarrollar una profunda conexión con la creación natural. Uno contempla el espíritu dentro para la auto-realización, mientras que uno se conecta a los reinos sutiles de la naturaleza para trabajar y servir al Macrocosmos Divino.
