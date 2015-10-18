@@ -11,11 +11,13 @@ url: http://tantramaya.org/es
 owner:            
   name:           Vishal Eckhart
   avatar:         maracame.jpg
+  site.logo: hunabku.jpg
   #bio:      Questions and comments are welcome on the comment footer on the bottom of posts.   
  
   
   # Social networking links used in footer. Update and remove as you like.
   diaspora: https://diasp.eu/u/elmisterio
+  facebook: tantramaya
  
 
   #email: vishal@cryptolab.net
