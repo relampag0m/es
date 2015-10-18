@@ -1,18 +1,15 @@
 ---
 published: true
 title: La Mente Pura
-layout: post
+layout: page
 tags: 
   - Tantra Espiritual
 comments: true
+image: 
+  feature: mandala.jpg
 ---
 
 
-
-{% capture images %}
-	/images/mandala.jpg
-{% endcapture %}
-{% include gallery images=images caption="" cols=3 %}
 
 En la etapa actual de evolución humana es muy
 difícil encontrar individuos, mucho más sociedades, que
