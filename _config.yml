@@ -25,6 +25,8 @@ owner:
   #Open Graph
 og_image: images/maguey.jpg 
 
+
+
 # Background image to be tiled on all pages
 background: images/sky.jpg
 
