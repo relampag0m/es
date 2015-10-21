@@ -8,7 +8,6 @@ layout: post
 comments: true
 image: 
   feature: peyote.jpg
-og_image: images/peyote.jpg
 ---
 
 

@@ -3,17 +3,12 @@ published: true
 layout: post
 comments: true
 title: La Cancion de Los Doraditos
+image: 
+  feature: klee.jpg
 ---
 
 
 
-
-
-{% capture images %}
-	/images/klee.jpg
-{% endcapture %}
-{% include gallery images=images caption="" cols=3 %}
-Intento escribir sobre sujetos misticos. Sin embargo, las palabras no son suficientes!!! Una vez estaba muy enfermo despues de ayudar con muchas pacientes. Una luz dorada pasó por la pared y me entró. Me la curó. Era un tipo de microvita. Los viejitos por aca los conocen y los llamen "los doraditos." Me inspiró a escribir un cancion. Solo tocaba con mi flauta hasta mis amigos entraron con voz, guitara, y yukelele.
 
 enlace para escuchar la musica:    
 <a href="https://soundcloud.com/user-707948521/los-doraditos">https://soundcloud.com/user-707948521/los-doraditos</a>

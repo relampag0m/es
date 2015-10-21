@@ -1,4 +1,5 @@
 ---
+title: Forma y Sin Forma
 published: true
 tags: 
   - Tantra Espiritual
@@ -6,8 +7,7 @@ layout: post
 comments: true
 image: 
   feature: maguey.jpg
-  published: true
-title: Forma y Sin Forma
+  
 ---
 
 

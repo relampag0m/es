@@ -5,13 +5,11 @@ layout: post
 comments: true
 tags: 
   - Tantra Espiritual
+image: 
+  feature: macaque.jpg
 ---
 
 
-{% capture images %}
-	/images/macaque.jpg
-{% endcapture %}
-{% include gallery images=images caption="" cols=3 %}
 
 El corazón espiritual es el Anahata. Anahata significa "no agarrarse." Es el
 nivel intuitivo de la mente que empieza a entender que hay una

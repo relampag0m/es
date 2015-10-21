@@ -5,15 +5,11 @@ title: La Madre Divina
 tags: 
   - Tantra Espiritual
 comments: true
+image: 
+  feature: virgenzapatista.jpg
 ---
 
 
-
-
-{% capture images %}
-	/images/virgenzapatista.jpg
-{% endcapture %}
-{% include gallery images=images caption="" cols=3 %}
 El año antepasado estaba en la cúspide de esta llamada guerra contra el narco en el norte de México. Los narcos controlan toda la región y el pueblo local. Había un centro de comando a 2 km de nuestra casa donde había cráneos humanos colgados en la cerca. Muchos de los hombres locales fueron contratados como exploradores miradores para informarles si no iba a haber un ataque. Los habitantes de la aldea eran muy indigentes y pobres. Muchas familias tenían comida y ropa inadecuada , mientras que los hombres gastan su dinero en cerveza o piedra.
 
 Rancho Misterio comenzó a organizar algunas actividades de servicio social en la comunidad. Juntemos con dos sacerdotes progresivos en la comunidad.  Incluso organizamos una masa con un muy buen padre católico en que cantemos "Baba Nam Kevalam" en una misa que dio el padre. "Baba Nam Kevalam" es una mantra sanscrito que los yogis cantan antes de meditar.  

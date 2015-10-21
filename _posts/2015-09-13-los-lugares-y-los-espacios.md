@@ -5,7 +5,7 @@ tags:
   - Tantra Espiritual
 comments: true
 published: true
-image:
+image: 
   feature: rancho1.jpg
 ---
 

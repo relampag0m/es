@@ -3,7 +3,7 @@ layout: post
 title: Frogs and Fugues
 tags: [Tantra Espiritual]
 comments: true
-image:
+image: 
   feature: storm.jpg
 ---
 
