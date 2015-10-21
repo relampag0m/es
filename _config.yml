@@ -21,6 +21,12 @@ owner:
  
 
   #email: vishal@cryptolab.net
+  
+  #Open Graph
+og_image: images/maguey.jpg # Default image for Open Graph tag
+og_image_type: image/jpg
+og_image_width: 300
+og_image_height: 300
 
 # Background image to be tiled on all pages
 background: images/sky.jpg
