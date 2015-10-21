@@ -24,9 +24,7 @@ owner:
   
   #Open Graph
 og_image: images/maguey.jpg 
-og_image_type: image/jpg
-og_image_width: 300
-og_image_height: 300
+
 
 
 # Background image to be tiled on all pages
