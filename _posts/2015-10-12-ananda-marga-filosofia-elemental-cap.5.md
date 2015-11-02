@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Filosofía Primaria de Ananda Marga Cap.5 - Anandamurti"
-tags: Anandamurt
+tags: Anandamurti
 comments: true
+published: true
 ---
+
 
 
 ### ¿Cuál Es Mi Relación Con El Universo Y La Entidad Cósmica?
