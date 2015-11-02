@@ -16,11 +16,11 @@ owner:
  
   
   # Social networking links used in footer. Update and remove as you like.
-  diaspora: https://diasp.eu/u/elmisterio
+
   facebook: tantramaya
  
 
-  #email: vishal@cryptolab.net
+  email: vishal@cryptolab.net
   
   #Open Graph
 og_image: images/maguey.jpg 
