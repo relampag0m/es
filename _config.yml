@@ -3,6 +3,7 @@ description:      Vishal Eckhart
 disqus_shortname: tantramaya
 reading_time:     true
 words_per_minute: 200
+logo: maguey.jpg
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url: http://tantramaya.org/es
