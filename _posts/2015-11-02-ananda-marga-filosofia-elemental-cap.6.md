@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Filosofía Primaria de Ananda Marga Cap.6 - Anandamurti"
-tags: Anandamurt
+tags: Anandamurti
 comments: true
+published: true
 ---
+
 
 
 ### ¿Cómo Deben Vivir Los Seres Humanos En Este Mundo?
