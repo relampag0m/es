@@ -1,9 +1,12 @@
 ---
-title: Dogma, Doctrina, y la Anarquía Espiritual
+title: "El Dogma, la Doctrina y la Anarquía Espiritual"
 layout: post
-tags: [Tantra Social]
+tags: 
+  - Tantra Social
 comments: true
+published: true
 ---
+
 
 Durante los últimos 5 años nuestra comunidad espiritual ha estado en un estado de alerta constante. Aquí, en esta parte de México los narcos controlan el gobierno. Sus operaciones paramilitares no son más que extensiones de la maquinaria política del Narco Estado. Cada partido politico tiene un cartel preferido. A veces los narcos pelean contra los militares cuando hay cambios en la política y un cartel se favorece sobre otra a través de la política sucia de la mafia. En otras ocasiones los militares protege sus actividades atroces que se extienden mucho más allá del narcotráfico con los secuestros, la apropiación de tierras, sirviendo como matones para el alquiler como sicarios para corporativos, y la extracción de órganos humanos. Ellos hacen el trabajo sucio de la contrarrevolución que el estado no puede tomar el crédito, pero que debe su existencia continuada a ellos. Por aquí es común ver a estos vecinos invasivos moviendo alrededor con AK47 en plena luz del día. Obligan a la gente a vender sus tierras, lo que termina siendo propiedad de los políticos locales para ser vendidos a empresas para la explotación minera o de gas. Las personas que llaman a las autoridades militares para denunciar a ellos terminan muertos.
 
