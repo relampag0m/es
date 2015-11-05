@@ -13,12 +13,13 @@ owner:
   name:           Vishal Eckhart
   avatar:         maguey.jpg
  
-  #bio:      Questions and comments are welcome on the comment footer on the bottom of posts.   
+  bio:      Pueden dejar preguntas o comentarios abajo de los publicaciones.   
  
   
   # Social networking links used in footer. Update and remove as you like.
 
   facebook: tantramaya
+  diaspora: https://diasp.eu/u/tantramaya
  
 
   #email: vishal@cryptolab.net
